@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Word Popup",
+  "version": "1.0",
+  "description": "Shows a random English word on any page.",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": [ "content.js"],
+      "css": ["style.css"]
+    }
+  ],
+  "permissions": [],
+  "host_permissions": [
+    "https://random-word-api.herokuapp.com/*"
+  ]
+}
