@@ -1,28 +1,43 @@
-// Debugging check
-console.log('Background script loaded');
-console.log('chrome.alarms available?', !!chrome.alarms);
-
 chrome.runtime.onInstalled.addListener(() => {
-  console.log('Extension installed/updated');
-  try {
-    chrome.alarms.create('vocabTimer', {
-      delayInMinutes: 1,
-      periodInMinutes: 1
-    });
-    console.log('Alarm created successfully');
-  } catch (error) {
-    console.error('Error creating alarm:', error);
+  resetTimer();
+  setupAlarm();
+});
+
+function setupAlarm() {
+  chrome.alarms.create('vocabTimer', {
+    delayInMinutes: 0,    
+    periodInMinutes: 1
+  });
+}
+
+chrome.alarms.onAlarm.addListener((alarm) => {
+  if (alarm.name === 'vocabTimer') {
+    checkTimer();
   }
 });
 
-if (chrome.alarms) {
-  chrome.alarms.onAlarm.addListener((alarm) => {
-    console.log('Alarm triggered:', alarm.name);
-    if (alarm.name === 'vocabTimer') {
-      chrome.storage.local.set({ vocab_next_time: Date.now() });
-      console.log('⏰ 1 минута прошла — можно показать слово');
+function checkTimer() {
+  chrome.storage.local.get(['vocab_next_time'], (result) => {
+    if (!result.vocab_next_time || result.vocab_next_time <= Date.now()) {
+      chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
+        if (tabs.length > 0) {
+          chrome.tabs.sendMessage(tabs[0].id, { action: 'showPopup' });
+        }
+      });
+
+      resetTimer();
     }
   });
-} else {
-  console.error('chrome.alarms API not available');
+}
+
+chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+  if (request.action === 'resetTimer') {
+    resetTimer();
+    sendResponse({ success: true });
+  }
+});
+
+function resetTimer() {
+  const nextTime = Date.now() + 1 * 60 * 1000; 
+  chrome.storage.local.set({ vocab_next_time: nextTime });
 }
