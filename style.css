@@ -2,10 +2,8 @@
   position: fixed;
   bottom: 20px;
   right: 20px;
-
   width: 200px;
   min-height: 160px;
-
   background: linear-gradient(135deg, #6e8efb, #a777e3);
   color: white;
   padding: 20px;
@@ -15,15 +13,14 @@
   backdrop-filter: blur(4px);
   font-size: 18px;
   font-family: 'Segoe UI', sans-serif;
-
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
   text-align: center;
   z-index: 9999;
+  cursor: grab;
 }
-
 
 #word-popup button {
   width: 100%;
