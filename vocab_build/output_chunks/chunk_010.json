@@ -1,0 +1,402 @@
+{
+  "presumably": {
+    "partOfSpeech": "adverb",
+    "definition": "Able to be sensibly presumed"
+  },
+  "presume": {
+    "partOfSpeech": "verb",
+    "definition": "With infinitive object: to be so presumptuous as (to do something) without proper authority or permission."
+  },
+  "prevail": {
+    "partOfSpeech": "verb",
+    "definition": "To be superior in strength, dominance, influence or frequency; to have or gain the advantage over others; to have the upper hand; to outnumber others."
+  },
+  "prevalence": {
+    "partOfSpeech": "noun",
+    "definition": "The quality or condition of being prevalent; wide extension or spread."
+  },
+  "prevention": {
+    "partOfSpeech": "noun",
+    "definition": "The act of preventing or hindering; obstruction of action, access, or approach; thwarting."
+  },
+  "prey": {
+    "partOfSpeech": "noun",
+    "definition": "Anything, as goods, etc., taken or got by violence; anything taken by force from an enemy in war"
+  },
+  "privatization": {
+    "partOfSpeech": "noun",
+    "definition": "The transfer of a company or organization from government to private ownership and control."
+  },
+  "privilege": {
+    "partOfSpeech": "noun",
+    "definition": "(ecclesiastical law) An exemption from certain laws granted by the Pope."
+  },
+  "probe": {
+    "partOfSpeech": "noun",
+    "definition": "Any of various medical instruments used to explore wounds, organs, etc."
+  },
+  "problematic": {
+    "partOfSpeech": "noun",
+    "definition": "(chiefly in the plural) A problem or difficulty in a particular field of study."
+  },
+  "proceeding": {
+    "partOfSpeech": "verb",
+    "definition": "To move, pass, or go forward or onward; to advance; to carry on"
+  },
+  "proceeds": {
+    "partOfSpeech": "verb",
+    "definition": "To move, pass, or go forward or onward; to advance; to carry on"
+  },
+  "processing": {
+    "partOfSpeech": "verb",
+    "definition": "To perform a particular process on a thing."
+  },
+  "processor": {
+    "partOfSpeech": "noun",
+    "definition": "A person or institution who processes things (foods, photos, applications, etc.)."
+  },
+  "proclaim": {
+    "partOfSpeech": "verb",
+    "definition": "To announce or declare."
+  },
+  "productive": {
+    "partOfSpeech": "adjective",
+    "definition": "Capable of producing something, especially in abundance; fertile."
+  },
+  "productivity": {
+    "partOfSpeech": "noun",
+    "definition": "The state of being productive, fertile or efficient"
+  },
+  "profitable": {
+    "partOfSpeech": "adjective",
+    "definition": "Producing a profit."
+  },
+  "profound": {
+    "partOfSpeech": "noun",
+    "definition": "The deep; the sea; the ocean."
+  },
+  "projection": {
+    "partOfSpeech": "noun",
+    "definition": "Something which projects, protrudes, juts out, sticks out, or stands out."
+  },
+  "prominent": {
+    "partOfSpeech": "adjective",
+    "definition": "Standing out, or projecting; jutting; protuberant"
+  },
+  "pronounced": {
+    "partOfSpeech": "verb",
+    "definition": "To declare formally, officially or ceremoniously."
+  },
+  "propaganda": {
+    "partOfSpeech": "noun",
+    "definition": "A concerted set of messages aimed at influencing the opinions or behavior of large numbers of people."
+  },
+  "proposition": {
+    "partOfSpeech": "noun",
+    "definition": "The act of offering (an idea) for consideration."
+  },
+  "prosecute": {
+    "partOfSpeech": "verb",
+    "definition": "To start criminal proceedings against."
+  },
+  "prosecution": {
+    "partOfSpeech": "noun",
+    "definition": "The act of prosecuting a scheme or endeavor."
+  },
+  "prosecutor": {
+    "partOfSpeech": "noun",
+    "definition": "A prosecuting attorney."
+  },
+  "prospective": {
+    "partOfSpeech": "noun",
+    "definition": "The scene before or around, in time or in space; view; prospect."
+  },
+  "prosperity": {
+    "partOfSpeech": "noun",
+    "definition": "The condition of being prosperous, of having good fortune"
+  },
+  "protective": {
+    "partOfSpeech": "noun",
+    "definition": "Something that protects."
+  },
+  "protocol": {
+    "partOfSpeech": "noun",
+    "definition": "The minutes, or official record, of a negotiation or transaction; especially a document drawn up officially which forms the legal basis for subsequent agreements based on it."
+  },
+  "province": {
+    "partOfSpeech": "noun",
+    "definition": "A region of the earth or of a continent; a district or country."
+  },
+  "provincial": {
+    "partOfSpeech": "noun",
+    "definition": "A person belonging to a province; one who is provincial."
+  },
+  "provision": {
+    "partOfSpeech": "noun",
+    "definition": "An item of goods or supplies, especially food, obtained for future use."
+  },
+  "provoke": {
+    "partOfSpeech": "verb",
+    "definition": "To cause someone to become annoyed or angry."
+  },
+  "psychiatric": {
+    "partOfSpeech": "adjective",
+    "definition": "Of, or relating to, psychiatry."
+  },
+  "pulse": {
+    "partOfSpeech": "noun",
+    "definition": "A normally regular beat felt when arteries are depressed, caused by the pumping action of the heart."
+  },
+  "pump": {
+    "partOfSpeech": "noun",
+    "definition": "A device for moving or compressing a liquid or gas."
+  },
+  "punch": {
+    "partOfSpeech": "noun",
+    "definition": "A hit or strike with one's fist."
+  },
+  "Q": {
+    "partOfSpeech": "noun",
+    "definition": "Conditional qualification"
+  },
+  "query": {
+    "partOfSpeech": "noun",
+    "definition": "A question, an inquiry (US), an enquiry (UK)."
+  },
+  "quest": {
+    "partOfSpeech": "noun",
+    "definition": "A journey or effort in pursuit of a goal (often lengthy, ambitious, or fervent); a mission."
+  },
+  "quota": {
+    "partOfSpeech": "noun",
+    "definition": "A proportional part or share; the share or proportion assigned to each in a division."
+  },
+  "R": {
+    "partOfSpeech": "",
+    "definition": ""
+  },
+  "radar": {
+    "partOfSpeech": "noun",
+    "definition": "A method of detecting distant objects and determining their position, velocity, or other characteristics by analysis of sent radio waves (usually microwaves) reflected from their surfaces"
+  },
+  "radical": {
+    "partOfSpeech": "noun",
+    "definition": "(historical: 19th-century Britain) A member of the most progressive wing of the Liberal Party; someone favouring social reform (but generally stopping short of socialism)."
+  },
+  "rage": {
+    "partOfSpeech": "noun",
+    "definition": "Violent uncontrolled anger."
+  },
+  "raid": {
+    "partOfSpeech": "noun",
+    "definition": "A quick hostile or predatory incursion or invasion in a battle."
+  },
+  "rally": {
+    "partOfSpeech": "noun",
+    "definition": "A public gathering or mass meeting that is not mainly a protest and is organized to inspire enthusiasm for a cause."
+  },
+  "ranking": {
+    "partOfSpeech": "verb",
+    "definition": "To place abreast, or in a line."
+  },
+  "rape": {
+    "partOfSpeech": "",
+    "definition": ""
+  },
+  "ratio": {
+    "partOfSpeech": "noun",
+    "definition": "A number representing a comparison between two named things."
+  },
+  "rational": {
+    "partOfSpeech": "noun",
+    "definition": "A rational number: a number that can be expressed as the quotient of two integers."
+  },
+  "ray": {
+    "partOfSpeech": "noun",
+    "definition": "A beam of light or radiation."
+  },
+  "readily": {
+    "partOfSpeech": "adverb",
+    "definition": "Without unwillingness or hesitation; showing readiness."
+  },
+  "realization": {
+    "partOfSpeech": "noun",
+    "definition": "The act of realizing."
+  },
+  "realm": {
+    "partOfSpeech": "noun",
+    "definition": "An abstract sphere of influence, real or imagined."
+  },
+  "rear": {
+    "partOfSpeech": "verb",
+    "definition": "To bring up to maturity, as offspring; to educate; to instruct; to foster."
+  },
+  "reasoning": {
+    "partOfSpeech": "verb",
+    "definition": "To deduce or come to a conclusion by being rational"
+  },
+  "reassure": {
+    "partOfSpeech": "verb",
+    "definition": "To assure anew; to restore confidence to; to free from fear or self-doubt."
+  },
+  "rebel": {
+    "partOfSpeech": "noun",
+    "definition": "A person who resists an established authority, often violently"
+  },
+  "rebellion": {
+    "partOfSpeech": "noun",
+    "definition": "Armed resistance to an established government or ruler."
+  },
+  "recipient": {
+    "partOfSpeech": "noun",
+    "definition": "One who receives."
+  },
+  "reconstruction": {
+    "partOfSpeech": "noun",
+    "definition": "A thing that has been reconstructed or restored to an earlier state."
+  },
+  "recount": {
+    "partOfSpeech": "noun",
+    "definition": "Narration, account, description, rendering"
+  },
+  "recruitment": {
+    "partOfSpeech": "noun",
+    "definition": "The process or art of finding candidates for a post in an organization, or recruits for the armed forces."
+  },
+  "referendum": {
+    "partOfSpeech": "noun",
+    "definition": "A direct popular vote on a proposed law or constitutional amendment. The adposition on is usually used before the related subject of the vote."
+  },
+  "reflection": {
+    "partOfSpeech": "noun",
+    "definition": "The act of reflecting or the state of being reflected."
+  },
+  "reform": {
+    "partOfSpeech": "noun",
+    "definition": "The change of something that is defective, broken, inefficient or otherwise negative, in order to correct or improve it"
+  },
+  "refuge": {
+    "partOfSpeech": "noun",
+    "definition": "A state of safety, protection or shelter."
+  },
+  "refusal": {
+    "partOfSpeech": "noun",
+    "definition": "The act of refusing."
+  },
+  "regain": {
+    "partOfSpeech": "verb",
+    "definition": "To get back; to recover possession of."
+  },
+  "regardless": {
+    "partOfSpeech": "adjective",
+    "definition": "Having no regard; heedless; careless."
+  },
+  "regime": {
+    "partOfSpeech": "noun",
+    "definition": "Mode of rule or management."
+  },
+  "regulator": {
+    "partOfSpeech": "noun",
+    "definition": "A device that controls or limits something."
+  },
+  "regulatory": {
+    "partOfSpeech": "adjective",
+    "definition": "Of or pertaining to regulation."
+  },
+  "rehabilitation": {
+    "partOfSpeech": "noun",
+    "definition": "The process of rehabilitating somebody or something."
+  },
+  "reign": {
+    "partOfSpeech": "noun",
+    "definition": "The exercise of sovereign power."
+  },
+  "rejection": {
+    "partOfSpeech": "noun",
+    "definition": "The act of rejecting."
+  },
+  "relevance": {
+    "partOfSpeech": "noun",
+    "definition": "The property or state of being relevant or pertinent."
+  },
+  "reliability": {
+    "partOfSpeech": "noun",
+    "definition": "The quality of being reliable, dependable or trustworthy."
+  },
+  "reluctant": {
+    "partOfSpeech": "adjective",
+    "definition": "Opposing; offering resistance (to)."
+  },
+  "remainder": {
+    "partOfSpeech": "noun",
+    "definition": "A part or parts remaining after some has/have been removed."
+  },
+  "remains": {
+    "partOfSpeech": "noun",
+    "definition": "(chiefly in the plural) That which is left; relic; remainder."
+  },
+  "remedy": {
+    "partOfSpeech": "noun",
+    "definition": "Something that corrects or counteracts."
+  },
+  "reminder": {
+    "partOfSpeech": "noun",
+    "definition": "Someone or something that reminds."
+  },
+  "removal": {
+    "partOfSpeech": "noun",
+    "definition": "The process of moving, or the fact of being removed."
+  },
+  "render": {
+    "partOfSpeech": "noun",
+    "definition": "Stucco or plaster applied to walls (mostly to outside masonry walls)."
+  },
+  "renew": {
+    "partOfSpeech": "verb",
+    "definition": "To make (something) new again; to restore to freshness or original condition."
+  },
+  "renowned": {
+    "partOfSpeech": "adjective",
+    "definition": "Famous, celebrated, or well-known."
+  },
+  "rental": {
+    "partOfSpeech": "noun",
+    "definition": "Something that is rented."
+  },
+  "replacement": {
+    "partOfSpeech": "noun",
+    "definition": "A person or thing that takes the place of another; a substitute."
+  },
+  "reportedly": {
+    "partOfSpeech": "adverb",
+    "definition": "According to reports or rumors; supposedly."
+  },
+  "representation": {
+    "partOfSpeech": "noun",
+    "definition": "That which represents something else."
+  },
+  "reproduce": {
+    "partOfSpeech": "verb",
+    "definition": "To produce an image or copy of."
+  },
+  "reproduction": {
+    "partOfSpeech": "noun",
+    "definition": "The act of reproducing new individuals biologically."
+  },
+  "republic": {
+    "partOfSpeech": "noun",
+    "definition": "A state where sovereignty rests with the people or their representatives, rather than with a monarch or emperor; a country with no monarchy."
+  },
+  "resemble": {
+    "partOfSpeech": "verb",
+    "definition": "To be like or similar to (something); to represent as similar."
+  },
+  "reside": {
+    "partOfSpeech": "verb",
+    "definition": "To dwell permanently or for a considerable time; to have a settled abode for a time; to remain for a long time."
+  },
+  "residence": {
+    "partOfSpeech": "noun",
+    "definition": "The place where one lives; one's home."
+  }
+}

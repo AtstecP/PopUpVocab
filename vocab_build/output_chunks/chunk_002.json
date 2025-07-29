@@ -1,0 +1,402 @@
+{
+  "await": {
+    "partOfSpeech": "noun",
+    "definition": "A waiting for; ambush."
+  },
+  "B": {
+    "partOfSpeech": "adjective",
+    "definition": "Having from birth (or as if from birth) a certain quality or character; innate; inherited."
+  },
+  "backdrop": {
+    "partOfSpeech": "noun",
+    "definition": "A decorated cloth hung at the back of a stage."
+  },
+  "backing": {
+    "partOfSpeech": "verb",
+    "definition": "To go in the reverse direction."
+  },
+  "backup": {
+    "partOfSpeech": "noun",
+    "definition": "A reserve or substitute."
+  },
+  "bail": {
+    "partOfSpeech": "noun",
+    "definition": "Security, usually a sum of money, exchanged for the release of an arrested person as a guarantee of that person's appearance for trial."
+  },
+  "ballot": {
+    "partOfSpeech": "noun",
+    "definition": "Originally, a small ball placed in a container to cast a vote; now, by extension, a piece of paper or card used for this purpose, or some other means used to signify a vote."
+  },
+  "bankruptcy": {
+    "partOfSpeech": "noun",
+    "definition": "A legally declared or recognized condition of insolvency of a person or organization."
+  },
+  "banner": {
+    "partOfSpeech": "noun",
+    "definition": "A flag or standard used by a military commander, monarch or nation."
+  },
+  "bare": {
+    "partOfSpeech": "noun",
+    "definition": "(‘the bare’) The surface, the (bare) skin."
+  },
+  "barrel": {
+    "partOfSpeech": "noun",
+    "definition": "A round vessel or cask, of greater length than breadth, and bulging in the middle, made of staves bound with hoops, and having flat ends or heads. Sometimes applied to a similar cylindrical container made of metal, usually called a drum."
+  },
+  "bass": {
+    "partOfSpeech": "noun",
+    "definition": "A low spectrum of sound tones."
+  },
+  "battlefield": {
+    "partOfSpeech": "noun",
+    "definition": "The area where a land battle is or was fought, which is not necessarily a field."
+  },
+  "bay": {
+    "partOfSpeech": "noun",
+    "definition": "A berry."
+  },
+  "beam": {
+    "partOfSpeech": "noun",
+    "definition": "Any large piece of timber or iron long in proportion to its thickness, and prepared for use."
+  },
+  "beast": {
+    "partOfSpeech": "noun",
+    "definition": "Any animal other than a human; usually only applied to land vertebrates, especially large or dangerous four-footed ones."
+  },
+  "behalf": {
+    "partOfSpeech": "",
+    "definition": ""
+  },
+  "behavioural": {
+    "partOfSpeech": "adjective",
+    "definition": "Of or pertaining to behaviour."
+  },
+  "beloved": {
+    "partOfSpeech": "verb",
+    "definition": "To please."
+  },
+  "bench": {
+    "partOfSpeech": "noun",
+    "definition": "A long seat with or without a back, found for example in parks and schools."
+  },
+  "benchmark": {
+    "partOfSpeech": "noun",
+    "definition": "A standard by which something is evaluated or measured."
+  },
+  "beneath": {
+    "partOfSpeech": "adverb",
+    "definition": "Below or underneath."
+  },
+  "beneficiary": {
+    "partOfSpeech": "noun",
+    "definition": "One who benefits or receives an advantage."
+  },
+  "betray": {
+    "partOfSpeech": "verb",
+    "definition": "To deliver into the hands of an enemy by treachery or fraud, in violation of trust; to give up treacherously or faithlessly."
+  },
+  "beverage": {
+    "partOfSpeech": "noun",
+    "definition": "A liquid to consume; a drink, such as tea, coffee, liquor, beer, milk, juice, or soft drinks, usually excluding water."
+  },
+  "bind": {
+    "partOfSpeech": "noun",
+    "definition": "That which binds or ties."
+  },
+  "biography": {
+    "partOfSpeech": "noun",
+    "definition": "A person's life story, especially one published."
+  },
+  "bishop": {
+    "partOfSpeech": "noun",
+    "definition": "An overseer of congregations: either any such overseer, generally speaking, or (in Eastern Orthodoxy, Catholicism, Anglicanism, etc.) an official in the church hierarchy (actively or nominally) governing a diocese, supervising the church's priests, deacons, and property in its territory."
+  },
+  "bizarre": {
+    "partOfSpeech": "adjective",
+    "definition": "Strangely unconventional in style or appearance."
+  },
+  "blade": {
+    "partOfSpeech": "noun",
+    "definition": "The sharp cutting edge of a knife, chisel, or other tool, a razor blade/sword."
+  },
+  "blast": {
+    "partOfSpeech": "noun",
+    "definition": "A violent gust of wind."
+  },
+  "bleed": {
+    "partOfSpeech": "noun",
+    "definition": "An incident of bleeding, as in haemophilia."
+  },
+  "blend": {
+    "partOfSpeech": "noun",
+    "definition": "A mixture of two or more things."
+  },
+  "bless": {
+    "partOfSpeech": "verb",
+    "definition": "To make something holy by religious rite, sanctify."
+  },
+  "blessing": {
+    "partOfSpeech": "verb",
+    "definition": "To make something holy by religious rite, sanctify."
+  },
+  "boast": {
+    "partOfSpeech": "noun",
+    "definition": "A brag; ostentatious positive appraisal of oneself."
+  },
+  "bonus": {
+    "partOfSpeech": "noun",
+    "definition": "Something extra that is good; an added benefit."
+  },
+  "booking": {
+    "partOfSpeech": "verb",
+    "definition": "To reserve (something) for future use."
+  },
+  "boom": {
+    "partOfSpeech": "noun",
+    "definition": "A low-pitched, resonant sound, such as of an explosion."
+  },
+  "bounce": {
+    "partOfSpeech": "noun",
+    "definition": "A change of direction of motion after hitting the ground or an obstacle."
+  },
+  "boundary": {
+    "partOfSpeech": "noun",
+    "definition": "The dividing line or location between two areas."
+  },
+  "bow": {
+    "partOfSpeech": "noun",
+    "definition": "A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows."
+  },
+  "breach": {
+    "partOfSpeech": "noun",
+    "definition": "A gap or opening made by breaking or battering, as in a wall, fortification or levee / embankment; the space between the parts of a solid body rent by violence"
+  },
+  "breakdown": {
+    "partOfSpeech": "noun",
+    "definition": "A failure, particularly mechanical; something that has failed"
+  },
+  "breakthrough": {
+    "partOfSpeech": "noun",
+    "definition": "An advance through and past enemy lines."
+  },
+  "breed": {
+    "partOfSpeech": "noun",
+    "definition": "All animals or plants of the same species or subspecies."
+  },
+  "broadband": {
+    "partOfSpeech": "noun",
+    "definition": "A wide band of electromagnetic frequencies"
+  },
+  "browser": {
+    "partOfSpeech": "noun",
+    "definition": "A person or animal who browses."
+  },
+  "brutal": {
+    "partOfSpeech": "adjective",
+    "definition": "Savagely violent, vicious, ruthless, or cruel"
+  },
+  "buddy": {
+    "partOfSpeech": "noun",
+    "definition": "A friend or casual acquaintance."
+  },
+  "buffer": {
+    "partOfSpeech": "adjective",
+    "definition": "Of the color of buff leather, a brownish yellow."
+  },
+  "bulk": {
+    "partOfSpeech": "noun",
+    "definition": "Size, specifically, volume."
+  },
+  "burden": {
+    "partOfSpeech": "noun",
+    "definition": "A heavy load."
+  },
+  "bureaucracy": {
+    "partOfSpeech": "noun",
+    "definition": "Government by bureaus or their administrators or officers."
+  },
+  "burial": {
+    "partOfSpeech": "noun",
+    "definition": "The act of burying; interment"
+  },
+  "burst": {
+    "partOfSpeech": "noun",
+    "definition": "An act or instance of bursting."
+  },
+  "C": {
+    "partOfSpeech": "adverb",
+    "definition": "Abbreviation of circa."
+  },
+  "cabinet": {
+    "partOfSpeech": "noun",
+    "definition": "A storage closet either separate from, or built into, a wall."
+  },
+  "calculation": {
+    "partOfSpeech": "noun",
+    "definition": "The act or process of calculating."
+  },
+  "canvas": {
+    "partOfSpeech": "noun",
+    "definition": "A type of coarse cloth, woven from hemp, useful for making sails and tents or as a surface for paintings."
+  },
+  "capability": {
+    "partOfSpeech": "noun",
+    "definition": "The power or ability to generate an outcome"
+  },
+  "capitalism": {
+    "partOfSpeech": "noun",
+    "definition": "A socio-economic system based on private ownership of resources or capital."
+  },
+  "capitalist": {
+    "partOfSpeech": "noun",
+    "definition": "A person who is a supporter of capitalism."
+  },
+  "cargo": {
+    "partOfSpeech": "noun",
+    "definition": "Freight carried by a ship, aircraft, or motor vehicle."
+  },
+  "carriage": {
+    "partOfSpeech": "noun",
+    "definition": "The act of conveying; carrying."
+  },
+  "carve": {
+    "partOfSpeech": "noun",
+    "definition": "A carucate."
+  },
+  "casino": {
+    "partOfSpeech": "noun",
+    "definition": "A public building or room for entertainment, especially gambling."
+  },
+  "casualty": {
+    "partOfSpeech": "noun",
+    "definition": "Something that happens by chance, especially an unfortunate event; an accident, a disaster."
+  },
+  "catalogue": {
+    "partOfSpeech": "noun",
+    "definition": "A systematic list of names, books, pictures etc."
+  },
+  "cater": {
+    "partOfSpeech": "noun",
+    "definition": "Caterer"
+  },
+  "cattle": {
+    "partOfSpeech": "noun",
+    "definition": "Domesticated bovine animals (cows, bulls, steers etc)."
+  },
+  "caution": {
+    "partOfSpeech": "noun",
+    "definition": "Precept or warning against evil or danger of any kind; exhortation to wariness; advice; injunction; prudence in regard to danger; provident care"
+  },
+  "cautious": {
+    "partOfSpeech": "adjective",
+    "definition": "Careful; using or exercising caution; tentative"
+  },
+  "cease": {
+    "partOfSpeech": "noun",
+    "definition": "Cessation; extinction (see without cease)."
+  },
+  "cemetery": {
+    "partOfSpeech": "noun",
+    "definition": "A place where the dead are buried; a graveyard or memorial park."
+  },
+  "chamber": {
+    "partOfSpeech": "noun",
+    "definition": "A room or set of rooms, particularly:"
+  },
+  "chaos": {
+    "partOfSpeech": "noun",
+    "definition": "The unordered state of matter in classical accounts of cosmogony."
+  },
+  "characterise": {
+    "partOfSpeech": "verb",
+    "definition": "To depict someone or something a particular way (often negative)."
+  },
+  "charm": {
+    "partOfSpeech": "noun",
+    "definition": "An object, act or words believed to have magic power (usually carries a positive connotation)."
+  },
+  "charter": {
+    "partOfSpeech": "noun",
+    "definition": "A document issued by some authority, creating a public or private institution, and defining its purposes and privileges."
+  },
+  "choir": {
+    "partOfSpeech": "noun",
+    "definition": "Singing group; group of people who sing together; company of people who are trained to sing together."
+  },
+  "chronic": {
+    "partOfSpeech": "noun",
+    "definition": "Marijuana, typically of high quality."
+  },
+  "chunk": {
+    "partOfSpeech": "noun",
+    "definition": "A part of something that has been separated."
+  },
+  "circulate": {
+    "partOfSpeech": "verb",
+    "definition": "To move in circles or through a circuit"
+  },
+  "circulation": {
+    "partOfSpeech": "noun",
+    "definition": "The act of moving in a circle, or in a course which brings the moving body to the place where its motion began."
+  },
+  "citizenship": {
+    "partOfSpeech": "noun",
+    "definition": "The status of being a citizen, in its various senses."
+  },
+  "civic": {
+    "partOfSpeech": "adjective",
+    "definition": "Of, relating to, or belonging to a city, a citizen, or citizenship; municipal or civil."
+  },
+  "civilian": {
+    "partOfSpeech": "noun",
+    "definition": "A person following the pursuits of civil life, especially one who is not an active member of the armed forces."
+  },
+  "clarity": {
+    "partOfSpeech": "noun",
+    "definition": "The state or measure of being clear, either in appearance, thought or style; lucidity."
+  },
+  "clash": {
+    "partOfSpeech": "noun",
+    "definition": "A loud sound, like the crashing together of metal objects."
+  },
+  "classification": {
+    "partOfSpeech": "noun",
+    "definition": "The act of forming into a class or classes; a distribution into groups, as classes, orders, families, etc., according to some common relations or attributes."
+  },
+  "cling": {
+    "partOfSpeech": "noun",
+    "definition": "Fruit (especially peach) whose flesh adheres strongly to the pit."
+  },
+  "clinical": {
+    "partOfSpeech": "noun",
+    "definition": "A medical student's session spent in a real-world nursing environment."
+  },
+  "closure": {
+    "partOfSpeech": "noun",
+    "definition": "An event or occurrence that signifies an ending."
+  },
+  "cluster": {
+    "partOfSpeech": "noun",
+    "definition": "A group or bunch of several discrete items that are close to each other."
+  },
+  "coalition": {
+    "partOfSpeech": "noun",
+    "definition": "A temporary group or union of organizations, usually formed for a particular advantage."
+  },
+  "coastal": {
+    "partOfSpeech": "adjective",
+    "definition": "Relating to the coast; on or near the coast, as a coastal town, a coastal breeze"
+  },
+  "cocktail": {
+    "partOfSpeech": "noun",
+    "definition": "A mixed alcoholic beverage."
+  },
+  "cognitive": {
+    "partOfSpeech": "noun",
+    "definition": "Cognate."
+  },
+  "coincide": {
+    "partOfSpeech": "verb",
+    "definition": "To occupy exactly the same space."
+  }
+}
