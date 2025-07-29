@@ -1,43 +1,50 @@
-/* word-popup styles */
 #word-popup {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  padding: 15px;
-  background-color: #ffffff;
-  border-radius: 8px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-  z-index: 10000;
+
+  width: 200px;
+  min-height: 160px;
+
+  background: linear-gradient(135deg, #6e8efb, #a777e3);
+  color: white;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(4px);
+  font-size: 18px;
+  font-family: 'Segoe UI', sans-serif;
+
   display: flex;
   flex-direction: column;
-  gap: 10px;
-  min-width: 200px;
-  max-width: 300px;
-}
-
-#word-popup .word {
-  font-weight: bold;
-  font-size: 1.2em;
+  justify-content: space-between;
+  align-items: center;
   text-align: center;
-  color: #2c3e50;
+  z-index: 9999;
 }
 
-#word-popup .definition {
-  font-size: 0.9em;
-  color: #34495e;
-  line-height: 1.4;
-}
 
-#next-word-btn {
-  padding: 8px 12px;
-  background-color: #4CAF50;
-  color: white;
+#word-popup button {
+  width: 100%;
+  background: #61dafb;
+  color: black;
   border: none;
-  border-radius: 4px;
+  padding: 10px 0;
+  border-radius: 8px;
   cursor: pointer;
-  margin-top: 10px;
+  font-size: 16px;
+  font-weight: 500;
+  transition: background 0.2s ease;
 }
 
-#next-word-btn:hover {
-  background-color: #45a049;
+#word-popup button:hover {
+  background: #4fc0e8;
+}
+
+#word-definition {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #eeeeee;
+  text-align: center;
 }

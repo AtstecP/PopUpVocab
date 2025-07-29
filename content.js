@@ -1,61 +1,57 @@
-(function() {
-  const key = 'vocab_next_time';
-  
-  function showWordPopup() {
-    if (document.getElementById('word-popup')) return;
+(function () {
+  if (document.getElementById('word-popup')) return;
 
-    const popup = document.createElement('div');
-    popup.id = 'word-popup';
+  const popup = document.createElement('div');
+  popup.id = 'word-popup';
+
+  const word = document.createElement('span');
+  word.textContent = 'Loading...';
+
+  const nextBtn = document.createElement('button');
+  nextBtn.textContent = 'Next';
+  nextBtn.onclick = loadWord;
+
+  popup.appendChild(word);
+  popup.appendChild(nextBtn);
+  document.body.appendChild(popup);
+
+  const definition = document.createElement('p');
+
+  popup.appendChild(word);
+  popup.appendChild(definition);
+  popup.appendChild(nextBtn);
+
+
+
+  loadWord();
+
+async function loadWord() {
+  word.textContent = 'Loading...';
+  definition.textContent = '';
+
+  try {
+    const wordResponse = await fetch('https://random-word-api.herokuapp.com/word');
+    const [randomWord] = await wordResponse.json();
+
+    word.textContent = randomWord;
+
+    const dictResponse = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${randomWord}`);
     
-    const wordElement = document.createElement('span');
-    wordElement.className = 'word';
-    wordElement.textContent = 'Loading word...';
-    
-    const definitionElement = document.createElement('div');
-    definitionElement.className = 'definition';
-    definitionElement.textContent = 'Loading definition...';
-    
-    const nextBtn = document.createElement('button');
-    nextBtn.id = 'next-word-btn';
-    nextBtn.textContent = 'Next (1 min)';
+    if (!dictResponse.ok) {
+      definition.textContent = 'No definition found.';
+      return;
+    }
 
-    nextBtn.addEventListener('click', () => {
-      const nextTime = Date.now() + 1 * 60 * 1000;
-      chrome.storage.local.set({ vocab_next_time: nextTime }, () => {
-        popup.remove();
-      });
-    });
+    const dictData = await dictResponse.json();
 
-    popup.appendChild(wordElement);
-    popup.appendChild(definitionElement);
-    popup.appendChild(nextBtn);
-    document.body.appendChild(popup);
+    const firstMeaning = dictData[0]?.meanings[0]?.definitions[0]?.definition;
 
-    fetch('https://random-word-api.herokuapp.com/word')
-      .then(response => response.json())
-      .then(([randomWord]) => {
-        wordElement.textContent = randomWord;
-        return fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${randomWord}`);
-      })
-      .then(response => response.json())
-      .then(data => {
-        const firstDefinition = data[0]?.meanings[0]?.definitions[0]?.definition;
-        definitionElement.textContent = firstDefinition || "No definition available";
-      })
-      .catch(err => {
-        console.error(err);
-        definitionElement.textContent = "Couldn't load definition";
-      });
+    definition.textContent = firstMeaning || 'No definition found.';
+  } catch (err) {
+    word.textContent = 'Error!';
+    definition.textContent = 'Something went wrong.';
+    console.error(err);
   }
+}
 
-  // Check storage every second
-  setInterval(() => {
-    chrome.storage.local.get([key], (result) => {
-      const now = Date.now();
-      const nextTime = result[key];
-      if (!nextTime || now >= nextTime) {
-        showWordPopup();
-      }
-    });
-  }, 1000);
 })();
