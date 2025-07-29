@@ -1,0 +1,402 @@
+{
+  "residential": {
+    "partOfSpeech": "noun",
+    "definition": "A trip during which people temporarily live together."
+  },
+  "residue": {
+    "partOfSpeech": "noun",
+    "definition": "Whatever remains after something else has been removed."
+  },
+  "resignation": {
+    "partOfSpeech": "noun",
+    "definition": "The act of resigning."
+  },
+  "resistance": {
+    "partOfSpeech": "noun",
+    "definition": "The act of resisting, or the capacity to resist."
+  },
+  "respective": {
+    "partOfSpeech": "adjective",
+    "definition": "Relating to particular persons or things, each to each; particular; own."
+  },
+  "respectively": {
+    "partOfSpeech": "adverb",
+    "definition": "In a relative manner; often used when comparing lists, where the term denotes that the items in the lists correspond to each other in the order they are given."
+  },
+  "restoration": {
+    "partOfSpeech": "noun",
+    "definition": "The process of bringing an object back to its original state; the process of restoring something."
+  },
+  "restraint": {
+    "partOfSpeech": "noun",
+    "definition": "Something that restrains, ties, fastens or secures"
+  },
+  "resume": {
+    "partOfSpeech": "verb",
+    "definition": "To take back possession of (something)."
+  },
+  "retreat": {
+    "partOfSpeech": "noun",
+    "definition": "The act of pulling back or withdrawing, as from something dangerous, or unpleasant."
+  },
+  "retrieve": {
+    "partOfSpeech": "noun",
+    "definition": "A retrieval"
+  },
+  "revelation": {
+    "partOfSpeech": "noun",
+    "definition": "The act of revealing or disclosing."
+  },
+  "revenge": {
+    "partOfSpeech": "noun",
+    "definition": "Any form of personal retaliatory action against an individual, institution, or group for some alleged or perceived harm or injustice."
+  },
+  "reverse": {
+    "partOfSpeech": "noun",
+    "definition": "The opposite of something."
+  },
+  "revival": {
+    "partOfSpeech": "noun",
+    "definition": "The act of reviving, or the state of being revived"
+  },
+  "revive": {
+    "partOfSpeech": "verb",
+    "definition": "To return to life; to become reanimated or reinvigorated."
+  },
+  "revolutionary": {
+    "partOfSpeech": "noun",
+    "definition": "A revolutionist; a person who revolts."
+  },
+  "rhetoric": {
+    "partOfSpeech": "noun",
+    "definition": "The art of using language, especially public speaking, as a means to persuade."
+  },
+  "rifle": {
+    "partOfSpeech": "noun",
+    "definition": "A shouldered firearm with a long, rifled barrel to improve range and accuracy."
+  },
+  "riot": {
+    "partOfSpeech": "noun",
+    "definition": "Wanton or unrestrained behavior; uproar; tumult."
+  },
+  "rip": {
+    "partOfSpeech": "noun",
+    "definition": "A tear (in paper, etc.)."
+  },
+  "ritual": {
+    "partOfSpeech": "noun",
+    "definition": "Rite; a repeated set of actions"
+  },
+  "robust": {
+    "partOfSpeech": "adjective",
+    "definition": "Evincing strength and health; strong."
+  },
+  "rock": {
+    "partOfSpeech": "noun",
+    "definition": "A formation of minerals, specifically:"
+  },
+  "rod": {
+    "partOfSpeech": "noun",
+    "definition": "A straight, round stick, shaft, bar, cane, or staff."
+  },
+  "rookie": {
+    "partOfSpeech": "noun",
+    "definition": "An inexperienced recruit, especially in the police or armed forces."
+  },
+  "roster": {
+    "partOfSpeech": "noun",
+    "definition": "A list of individuals or groups, usually for an organization of some kind such as military officers and enlisted personnel enrolled in a particular unit; a muster roll; a sports team, with the names of players who are eligible to be placed in the lineup for a particular game; or a list of students officially enrolled in a school or class."
+  },
+  "rotate": {
+    "partOfSpeech": "verb",
+    "definition": "To spin, turn, or revolve."
+  },
+  "rotation": {
+    "partOfSpeech": "noun",
+    "definition": "The act of turning around a centre or an axis."
+  },
+  "ruling": {
+    "partOfSpeech": "verb",
+    "definition": "To regulate, be in charge of, make decisions for, reign over."
+  },
+  "rumour": {
+    "partOfSpeech": "noun",
+    "definition": "A statement or claim of questionable accuracy, from no known reliable source, usually spread by word of mouth."
+  },
+  "S": {
+    "partOfSpeech": "noun",
+    "definition": "A weight of 1/288 of a pound, that is, twenty grains or one third of a dram, about 1.3 grams (symbol: ℈)."
+  },
+  "sacred": {
+    "partOfSpeech": "adjective",
+    "definition": "Characterized by solemn religious ceremony or religious use, especially, in a positive sense; consecrated, made holy."
+  },
+  "sacrifice": {
+    "partOfSpeech": "noun",
+    "definition": "The offering of anything to a god; a consecratory rite."
+  },
+  "saint": {
+    "partOfSpeech": "noun",
+    "definition": "A person whom a church or another religious group has officially recognised as especially holy or godly; one eminent for piety and virtue."
+  },
+  "sake": {
+    "partOfSpeech": "noun",
+    "definition": "Cause, interest or account"
+  },
+  "sanction": {
+    "partOfSpeech": "noun",
+    "definition": "An approval, by an authority, generally one that makes something valid."
+  },
+  "say": {
+    "partOfSpeech": "noun",
+    "definition": "A chance to speak; the right or power to influence or make a decision."
+  },
+  "scattered": {
+    "partOfSpeech": "verb",
+    "definition": "To (cause to) separate and go in different directions; to disperse."
+  },
+  "scope": {
+    "partOfSpeech": "noun",
+    "definition": "The breadth, depth or reach of a subject; a domain."
+  },
+  "screw": {
+    "partOfSpeech": "noun",
+    "definition": "A device that has a helical function."
+  },
+  "scrutiny": {
+    "partOfSpeech": "noun",
+    "definition": "Intense study of someone or something."
+  },
+  "seal": {
+    "partOfSpeech": "noun",
+    "definition": "A pinniped (Pinnipedia), particularly an earless seal (true seal) or eared seal."
+  },
+  "secondly": {
+    "partOfSpeech": "adverb",
+    "definition": "In the second place."
+  },
+  "secular": {
+    "partOfSpeech": "noun",
+    "definition": "A secular ecclesiastic, or one not bound by monastic rules."
+  },
+  "seemingly": {
+    "partOfSpeech": "adverb",
+    "definition": "As it appears; apparently."
+  },
+  "segment": {
+    "partOfSpeech": "noun",
+    "definition": "A length of some object."
+  },
+  "seize": {
+    "partOfSpeech": "verb",
+    "definition": "To deliberately take hold of; to grab or capture."
+  },
+  "seldom": {
+    "partOfSpeech": "adjective",
+    "definition": "Rare; infrequent."
+  },
+  "selective": {
+    "partOfSpeech": "adjective",
+    "definition": "Of or relating to the process of selection."
+  },
+  "sensation": {
+    "partOfSpeech": "noun",
+    "definition": "A physical feeling or perception from something that comes into contact with the body; something sensed."
+  },
+  "sensitivity": {
+    "partOfSpeech": "noun",
+    "definition": "The quality or state of being sensitive; sensitiveness."
+  },
+  "sentiment": {
+    "partOfSpeech": "noun",
+    "definition": "A general thought, feeling, or sense."
+  },
+  "separation": {
+    "partOfSpeech": "noun",
+    "definition": "The act of disuniting two or more things, or the condition of being separated."
+  },
+  "serial": {
+    "partOfSpeech": "noun",
+    "definition": "A work, such as a work of fiction, published in installments, often numbered and without a specified end."
+  },
+  "settlement": {
+    "partOfSpeech": "noun",
+    "definition": "The act of settling."
+  },
+  "setup": {
+    "partOfSpeech": "noun",
+    "definition": "Equipment designed for a particular purpose; an apparatus."
+  },
+  "sexuality": {
+    "partOfSpeech": "noun",
+    "definition": "The quality of being sexual; that which is characterized or distinguished by sex."
+  },
+  "shareholder": {
+    "partOfSpeech": "noun",
+    "definition": "One who owns shares of stock in a corporation."
+  },
+  "shatter": {
+    "partOfSpeech": "noun",
+    "definition": "A fragment of anything shattered."
+  },
+  "shed": {
+    "partOfSpeech": "verb",
+    "definition": "To part, separate or divide."
+  },
+  "sheer": {
+    "partOfSpeech": "noun",
+    "definition": "A sheer curtain or fabric."
+  },
+  "shipping": {
+    "partOfSpeech": "noun",
+    "definition": "The transportation of goods."
+  },
+  "shoot": {
+    "partOfSpeech": "noun",
+    "definition": "The emerging stem and embryonic leaves of a new plant."
+  },
+  "shrink": {
+    "partOfSpeech": "noun",
+    "definition": "Shrinkage; contraction; recoil."
+  },
+  "shrug": {
+    "partOfSpeech": "noun",
+    "definition": "A lifting of the shoulders to signal indifference or a casual lack of knowledge."
+  },
+  "sigh": {
+    "partOfSpeech": "noun",
+    "definition": "A deep, prolonged audible inhale and exhale of breath; as when fatigued, frustrated, grieved, or relieved; the act of sighing."
+  },
+  "simulate": {
+    "partOfSpeech": "verb",
+    "definition": "To model, replicate, duplicate the behavior, appearance or properties of."
+  },
+  "simulation": {
+    "partOfSpeech": "noun",
+    "definition": "Something that simulates a system or environment in order to predict actual behaviour."
+  },
+  "simultaneously": {
+    "partOfSpeech": "adverb",
+    "definition": "Occurring at the same time."
+  },
+  "sin": {
+    "partOfSpeech": "noun",
+    "definition": "A violation of God's will or religious law."
+  },
+  "situated": {
+    "partOfSpeech": "verb",
+    "definition": "To place on or into a physical location."
+  },
+  "sceptical": {
+    "partOfSpeech": "adjective",
+    "definition": "Having, or expressing doubt; questioning."
+  },
+  "sketch": {
+    "partOfSpeech": "noun",
+    "definition": "A rapidly executed freehand drawing that is not intended as a finished work, often consisting of a multitude of overlapping lines."
+  },
+  "skip": {
+    "partOfSpeech": "noun",
+    "definition": "A leaping, jumping or skipping movement."
+  },
+  "slam": {
+    "partOfSpeech": "noun",
+    "definition": "A sudden impact or blow."
+  },
+  "slap": {
+    "partOfSpeech": "noun",
+    "definition": "A blow, especially one given with the open hand, or with something broad and flat."
+  },
+  "slash": {
+    "partOfSpeech": "noun",
+    "definition": "A slashing action or motion, particularly:"
+  },
+  "slavery": {
+    "partOfSpeech": "noun",
+    "definition": "An institution or social practice of owning human beings as property, especially for use as forced laborers."
+  },
+  "slot": {
+    "partOfSpeech": "noun",
+    "definition": "A broad, flat, wooden bar, a slat, especially as used to secure a door, window, etc."
+  },
+  "smash": {
+    "partOfSpeech": "noun",
+    "definition": "The sound of a violent impact; a violent striking together."
+  },
+  "snap": {
+    "partOfSpeech": "noun",
+    "definition": "A quick breaking or cracking sound or the action of producing such a sound."
+  },
+  "soak": {
+    "partOfSpeech": "noun",
+    "definition": "An immersion in water etc."
+  },
+  "soar": {
+    "partOfSpeech": "noun",
+    "definition": "The act of soaring."
+  },
+  "socialist": {
+    "partOfSpeech": "noun",
+    "definition": "One who practices or advocates socialism."
+  },
+  "sole": {
+    "partOfSpeech": "noun",
+    "definition": "A wooden band or yoke put around the neck of an ox or cow in the stall."
+  },
+  "solely": {
+    "partOfSpeech": "adverb",
+    "definition": "Alone; exclusively."
+  },
+  "solidarity": {
+    "partOfSpeech": "noun",
+    "definition": "A bond of unity or agreement between individuals, united around a common goal or against a common enemy, such as the unifying principle that defines the labor movement; mutual support within a group."
+  },
+  "solo": {
+    "partOfSpeech": "noun",
+    "definition": "A piece of music for one performer."
+  },
+  "sophomore": {
+    "partOfSpeech": "noun",
+    "definition": "A second-year undergraduate student in a college or university, or a second-year student in a four-year secondary school or high school."
+  },
+  "sound": {
+    "partOfSpeech": "adjective",
+    "definition": "Healthy."
+  },
+  "sovereignty": {
+    "partOfSpeech": "noun",
+    "definition": "(of a polity) The state of making laws and controlling resources without the coercion of other nations."
+  },
+  "spam": {
+    "partOfSpeech": "noun",
+    "definition": "(rarely countable) Unsolicited bulk electronic messages."
+  },
+  "span": {
+    "partOfSpeech": "noun",
+    "definition": "The space from the thumb to the end of the little finger when extended; nine inches; an eighth of a fathom."
+  },
+  "spark": {
+    "partOfSpeech": "noun",
+    "definition": "A small particle of glowing matter, either molten or on fire."
+  },
+  "specialised": {
+    "partOfSpeech": "verb",
+    "definition": "To make distinct or separate, particularly:"
+  },
+  "specification": {
+    "partOfSpeech": "noun",
+    "definition": "An explicit set of requirements to be satisfied by a material, product, or service."
+  },
+  "specimen": {
+    "partOfSpeech": "noun",
+    "definition": "An individual instance that represents a class; an example."
+  },
+  "spectacle": {
+    "partOfSpeech": "noun",
+    "definition": "An exciting or extraordinary scene, exhibition, performance etc."
+  },
+  "spectrum": {
+    "partOfSpeech": "noun",
+    "definition": "A range; a continuous, infinite, one-dimensional set, possibly bounded by extremes."
+  }
+}

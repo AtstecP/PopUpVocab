@@ -1,0 +1,402 @@
+{
+  "collaborate": {
+    "partOfSpeech": "verb",
+    "definition": "To work together with others to achieve a common goal."
+  },
+  "collaboration": {
+    "partOfSpeech": "noun",
+    "definition": "The act of collaborating."
+  },
+  "collective": {
+    "partOfSpeech": "noun",
+    "definition": "A farm owned by a collection of people"
+  },
+  "collision": {
+    "partOfSpeech": "noun",
+    "definition": "An instance of colliding."
+  },
+  "colonial": {
+    "partOfSpeech": "noun",
+    "definition": "A person from a country that is or was controlled by another."
+  },
+  "columnist": {
+    "partOfSpeech": "noun",
+    "definition": "A regular writer of a column, such as in a magazine or newspaper"
+  },
+  "combat": {
+    "partOfSpeech": "noun",
+    "definition": "A battle, a fight (often one in which weapons are used)."
+  },
+  "commence": {
+    "partOfSpeech": "verb",
+    "definition": "To begin, start."
+  },
+  "commentary": {
+    "partOfSpeech": "noun",
+    "definition": "A series of comments or annotations; especially, a book of explanations or expositions on the whole or a part of some other work"
+  },
+  "commentator": {
+    "partOfSpeech": "noun",
+    "definition": "A person who comments; especially someone who is paid to give his/her opinions in the media about current affairs, sports, etc."
+  },
+  "commerce": {
+    "partOfSpeech": "noun",
+    "definition": "The exchange or buying and selling of commodities; especially the exchange of merchandise, on a large scale, between different places or communities; extended trade or traffic."
+  },
+  "commissioner": {
+    "partOfSpeech": "noun",
+    "definition": "A member of a commission."
+  },
+  "commodity": {
+    "partOfSpeech": "noun",
+    "definition": "Anything movable (a good) that is bought and sold."
+  },
+  "communist": {
+    "partOfSpeech": "noun",
+    "definition": "An advocate of a society based on the common ownership of property; a proponent of communism."
+  },
+  "companion": {
+    "partOfSpeech": "noun",
+    "definition": "A friend, acquaintance, or partner; someone with whom one spends time or keeps company"
+  },
+  "comparable": {
+    "partOfSpeech": "noun",
+    "definition": "Something suitable for comparison."
+  },
+  "compassion": {
+    "partOfSpeech": "noun",
+    "definition": "Deep awareness of the suffering of another, coupled with the wish to relieve it."
+  },
+  "compel": {
+    "partOfSpeech": "verb",
+    "definition": "To drive together, round up"
+  },
+  "compelling": {
+    "partOfSpeech": "verb",
+    "definition": "To drive together, round up"
+  },
+  "compensate": {
+    "partOfSpeech": "verb",
+    "definition": "To do (something good) after (something bad) happens"
+  },
+  "compensation": {
+    "partOfSpeech": "noun",
+    "definition": "The act or principle of compensating."
+  },
+  "competence": {
+    "partOfSpeech": "noun",
+    "definition": "The quality or state of being competent, i.e. able or suitable for a general role."
+  },
+  "competent": {
+    "partOfSpeech": "adjective",
+    "definition": "Having sufficient skill, knowledge, ability, or qualifications."
+  },
+  "compile": {
+    "partOfSpeech": "noun",
+    "definition": "An act of compiling code."
+  },
+  "complement": {
+    "partOfSpeech": "noun",
+    "definition": "A protective substance that exists in the serum or other bodily fluid and is capable of killing microorganisms; complement."
+  },
+  "complexity": {
+    "partOfSpeech": "noun",
+    "definition": "The state of being complex; intricacy; entanglement."
+  },
+  "compliance": {
+    "partOfSpeech": "noun",
+    "definition": "An act of complying."
+  },
+  "complication": {
+    "partOfSpeech": "noun",
+    "definition": "The act or process of complicating."
+  },
+  "comply": {
+    "partOfSpeech": "verb",
+    "definition": "To yield assent; to accord; to acquiesce, agree, consent; to adapt oneself, to conform."
+  },
+  "composition": {
+    "partOfSpeech": "noun",
+    "definition": "The act of putting together; assembly."
+  },
+  "compromise": {
+    "partOfSpeech": "noun",
+    "definition": "The settlement of differences by arbitration or by consent reached by mutual concessions."
+  },
+  "compute": {
+    "partOfSpeech": "noun",
+    "definition": "Computational power"
+  },
+  "conceal": {
+    "partOfSpeech": "verb",
+    "definition": "To hide something from view or from public knowledge, to try to keep something secret."
+  },
+  "concede": {
+    "partOfSpeech": "verb",
+    "definition": "To yield or suffer; to surrender; to grant"
+  },
+  "conceive": {
+    "partOfSpeech": "verb",
+    "definition": "To develop an idea; to form in the mind; to plan; to devise; to originate."
+  },
+  "conception": {
+    "partOfSpeech": "noun",
+    "definition": "The act of conceiving."
+  },
+  "concession": {
+    "partOfSpeech": "noun",
+    "definition": "The act of conceding."
+  },
+  "condemn": {
+    "partOfSpeech": "verb",
+    "definition": "To strongly criticise or denounce; to excoriate the perpetrators of."
+  },
+  "confer": {
+    "partOfSpeech": "verb",
+    "definition": "To grant as a possession; to bestow."
+  },
+  "confession": {
+    "partOfSpeech": "noun",
+    "definition": "The open admittance of having done something (especially something bad)."
+  },
+  "configuration": {
+    "partOfSpeech": "noun",
+    "definition": "Form, as depending on the relative disposition of the parts of a thing's shape; figure; form factor."
+  },
+  "confine": {
+    "partOfSpeech": "noun",
+    "definition": "(chiefly in the plural) A boundary or limit."
+  },
+  "confirmation": {
+    "partOfSpeech": "noun",
+    "definition": "An official indicator that things will happen as planned."
+  },
+  "confront": {
+    "partOfSpeech": "verb",
+    "definition": "To stand or meet facing, especially in competition, hostility or defiance; to come face to face with"
+  },
+  "confrontation": {
+    "partOfSpeech": "noun",
+    "definition": "The act of confronting or challenging another, especially face to face."
+  },
+  "congratulate": {
+    "partOfSpeech": "verb",
+    "definition": "To express one’s sympathetic pleasure or joy to the person(s) it is felt for."
+  },
+  "congregation": {
+    "partOfSpeech": "noun",
+    "definition": "The act of congregating or collecting together."
+  },
+  "congressional": {
+    "partOfSpeech": "adjective",
+    "definition": "Of or pertaining to a congress."
+  },
+  "conquer": {
+    "partOfSpeech": "verb",
+    "definition": "To defeat in combat; to subjugate."
+  },
+  "conscience": {
+    "partOfSpeech": "noun",
+    "definition": "The moral sense of right and wrong, chiefly as it affects one's own behaviour."
+  },
+  "consciousness": {
+    "partOfSpeech": "noun",
+    "definition": "The state of being conscious or aware; awareness."
+  },
+  "consecutive": {
+    "partOfSpeech": "noun",
+    "definition": "A sequence of notes or chords that results from repeated shifts in pitch of the same interval."
+  },
+  "consensus": {
+    "partOfSpeech": "noun",
+    "definition": "A process of decision-making that seeks widespread agreement among group members."
+  },
+  "consent": {
+    "partOfSpeech": "noun",
+    "definition": "Voluntary agreement or permission."
+  },
+  "conserve": {
+    "partOfSpeech": "noun",
+    "definition": "Wilderness where human development is prohibited."
+  },
+  "consistency": {
+    "partOfSpeech": "noun",
+    "definition": "Local coherence."
+  },
+  "consolidate": {
+    "partOfSpeech": "verb",
+    "definition": "To combine into a single unit; to group together or join."
+  },
+  "constitute": {
+    "partOfSpeech": "noun",
+    "definition": "An established law."
+  },
+  "constitution": {
+    "partOfSpeech": "noun",
+    "definition": "The act, or process of setting something up, or establishing something; the composition or structure of such a thing; its makeup."
+  },
+  "constitutional": {
+    "partOfSpeech": "noun",
+    "definition": "A walk that is taken regularly for good health and wellbeing."
+  },
+  "constraint": {
+    "partOfSpeech": "noun",
+    "definition": "Something that constrains; a restriction."
+  },
+  "consultation": {
+    "partOfSpeech": "noun",
+    "definition": "The act of consulting."
+  },
+  "contemplate": {
+    "partOfSpeech": "verb",
+    "definition": "To look at on all sides or in all its aspects; to view or consider with continued attention; to regard with deliberate care; to meditate on; to study, ponder, or consider."
+  },
+  "contempt": {
+    "partOfSpeech": "noun",
+    "definition": "The state or act of contemning; the feeling or attitude of regarding someone or something as inferior, base, or worthless; scorn, disdain."
+  },
+  "contend": {
+    "partOfSpeech": "verb",
+    "definition": "To strive in opposition; to contest; to dispute; to vie; to quarrel; to fight."
+  },
+  "contender": {
+    "partOfSpeech": "noun",
+    "definition": "Someone who competes with one or more other people."
+  },
+  "content": {
+    "partOfSpeech": "noun",
+    "definition": "(except in phrases) Satisfaction, contentment; pleasure."
+  },
+  "contention": {
+    "partOfSpeech": "noun",
+    "definition": "Argument, contest, debate, strife, struggle."
+  },
+  "continually": {
+    "partOfSpeech": "adverb",
+    "definition": "In a continual manner; non-stop."
+  },
+  "contractor": {
+    "partOfSpeech": "noun",
+    "definition": "A person or company that builds or improves buildings."
+  },
+  "contradiction": {
+    "partOfSpeech": "noun",
+    "definition": "The act of contradicting."
+  },
+  "contrary": {
+    "partOfSpeech": "noun",
+    "definition": "The opposite."
+  },
+  "contributor": {
+    "partOfSpeech": "noun",
+    "definition": "A benefactor; someone who donates to charity or some cause."
+  },
+  "conversion": {
+    "partOfSpeech": "noun",
+    "definition": "The act of converting something or someone."
+  },
+  "convict": {
+    "partOfSpeech": "noun",
+    "definition": "A person convicted of a crime by a judicial body."
+  },
+  "conviction": {
+    "partOfSpeech": "noun",
+    "definition": "A firmly held belief."
+  },
+  "cooperate": {
+    "partOfSpeech": "verb",
+    "definition": "To work or act together, especially for a common purpose or benefit."
+  },
+  "cooperative": {
+    "partOfSpeech": "noun",
+    "definition": "A type of company that is owned partially or wholly by its employees, customers or tenants."
+  },
+  "coordinate": {
+    "partOfSpeech": "noun",
+    "definition": "A number representing the position of a point along a line, arc, or similar one-dimensional figure."
+  },
+  "coordination": {
+    "partOfSpeech": "noun",
+    "definition": "The act of coordinating, making different people or things work together for a goal or effect."
+  },
+  "coordinator": {
+    "partOfSpeech": "noun",
+    "definition": "One who coordinates."
+  },
+  "copper": {
+    "partOfSpeech": "noun",
+    "definition": "A reddish-brown, malleable, ductile metallic element with high electrical and thermal conductivity, symbol Cu, and atomic number 29."
+  },
+  "copyright": {
+    "partOfSpeech": "noun",
+    "definition": "The right by law to be the entity which determines who may publish, copy and distribute a piece of writing, music, picture or other work of authorship."
+  },
+  "correction": {
+    "partOfSpeech": "noun",
+    "definition": "The act of correcting."
+  },
+  "correlate": {
+    "partOfSpeech": "noun",
+    "definition": "Either of a pair of things related by a correlation; a correlative."
+  },
+  "correlation": {
+    "partOfSpeech": "noun",
+    "definition": "A reciprocal, parallel or complementary relationship between two or more comparable objects."
+  },
+  "correspond": {
+    "partOfSpeech": "verb",
+    "definition": "(constructed with to) To be equivalent or similar in character, quantity, quality, origin, structure, function etc."
+  },
+  "correspondence": {
+    "partOfSpeech": "noun",
+    "definition": "Friendly discussion."
+  },
+  "correspondent": {
+    "partOfSpeech": "noun",
+    "definition": "Someone who or something which corresponds."
+  },
+  "corresponding": {
+    "partOfSpeech": "verb",
+    "definition": "(constructed with to) To be equivalent or similar in character, quantity, quality, origin, structure, function etc."
+  },
+  "corrupt": {
+    "partOfSpeech": "verb",
+    "definition": "To make corrupt; to change from good to bad; to draw away from the right path; to deprave; to pervert."
+  },
+  "corruption": {
+    "partOfSpeech": "noun",
+    "definition": "The act of corrupting or of impairing integrity, virtue, or moral principle; the state of being corrupted or debased; loss of purity or integrity"
+  },
+  "costly": {
+    "partOfSpeech": "adjective",
+    "definition": "Of high cost; expensive."
+  },
+  "councillor": {
+    "partOfSpeech": "noun",
+    "definition": "A member of a council."
+  },
+  "counselling": {
+    "partOfSpeech": "verb",
+    "definition": "To give advice, especially professional advice, to (somebody)."
+  },
+  "counsellor": {
+    "partOfSpeech": "noun",
+    "definition": "A professional who counsels people, especially on personal problems."
+  },
+  "counterpart": {
+    "partOfSpeech": "noun",
+    "definition": "Either of two parts that fit together, or complement one another."
+  },
+  "countless": {
+    "partOfSpeech": "adjective",
+    "definition": "Too many to count; innumerable or incalculable"
+  },
+  "coup": {
+    "partOfSpeech": "noun",
+    "definition": "A quick, brilliant, and highly successful act."
+  },
+  "courtesy": {
+    "partOfSpeech": "noun",
+    "definition": "Polite behavior."
+  }
+}

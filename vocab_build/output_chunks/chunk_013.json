@@ -1,0 +1,402 @@
+{
+  "tighten": {
+    "partOfSpeech": "verb",
+    "definition": "To make tighter."
+  },
+  "timber": {
+    "partOfSpeech": "noun",
+    "definition": "Trees in a forest regarded as a source of wood."
+  },
+  "timely": {
+    "partOfSpeech": "adjective",
+    "definition": "Done at the proper time or within the proper time limits; prompt."
+  },
+  "tobacco": {
+    "partOfSpeech": "noun",
+    "definition": "Any plant of the genus Nicotiana."
+  },
+  "tolerance": {
+    "partOfSpeech": "noun",
+    "definition": "The ability to endure pain or hardship; endurance."
+  },
+  "tolerate": {
+    "partOfSpeech": "verb",
+    "definition": "To accept hardship without objection."
+  },
+  "toll": {
+    "partOfSpeech": "noun",
+    "definition": "Loss or damage incurred through a disaster."
+  },
+  "top": {
+    "partOfSpeech": "noun",
+    "definition": "The highest or uppermost part of something."
+  },
+  "torture": {
+    "partOfSpeech": "noun",
+    "definition": "Intentional causing of somebody's experiencing agony"
+  },
+  "toss": {
+    "partOfSpeech": "noun",
+    "definition": "A throw, a lob, of a ball etc., with an initial upward direction, particularly with a lack of care."
+  },
+  "total": {
+    "partOfSpeech": "noun",
+    "definition": "An amount obtained by the addition of smaller amounts."
+  },
+  "toxic": {
+    "partOfSpeech": "adjective",
+    "definition": "Having a chemical nature that is harmful to health or lethal if consumed or otherwise entering into the body in sufficient quantities."
+  },
+  "trademark": {
+    "partOfSpeech": "noun",
+    "definition": "A word, symbol, or phrase used to identify a particular company's product and differentiate it from other companies' products."
+  },
+  "trail": {
+    "partOfSpeech": "noun",
+    "definition": "The track or indication marking the route followed by something that has passed, such as the footprints of animal on land or the contrail of an airplane in the sky."
+  },
+  "trailer": {
+    "partOfSpeech": "noun",
+    "definition": "Someone who or something that trails."
+  },
+  "transaction": {
+    "partOfSpeech": "noun",
+    "definition": "The act of conducting or carrying out (business, negotiations, plans)."
+  },
+  "transcript": {
+    "partOfSpeech": "noun",
+    "definition": "Something which has been transcribed; a writing or composition consisting of the same words as the original; a written copy."
+  },
+  "transformation": {
+    "partOfSpeech": "noun",
+    "definition": "The act of transforming or the state of being transformed."
+  },
+  "transit": {
+    "partOfSpeech": "noun",
+    "definition": "The act of passing over, across, or through something."
+  },
+  "transmission": {
+    "partOfSpeech": "noun",
+    "definition": "The act of transmitting, e.g. data or electric power."
+  },
+  "transparency": {
+    "partOfSpeech": "noun",
+    "definition": "The quality of being transparent; transparence."
+  },
+  "transparent": {
+    "partOfSpeech": "adjective",
+    "definition": "(of a material or object) See-through, clear; having the property that light passes through it almost undisturbed, such that one can see through it clearly."
+  },
+  "trauma": {
+    "partOfSpeech": "noun",
+    "definition": "Any serious injury to the body, often resulting from violence or an accident."
+  },
+  "treaty": {
+    "partOfSpeech": "noun",
+    "definition": "A binding agreement concluded by subjects of international law, namely states and international organizations."
+  },
+  "tremendous": {
+    "partOfSpeech": "adjective",
+    "definition": "Awe-inspiring; terrific."
+  },
+  "tribal": {
+    "partOfSpeech": "noun",
+    "definition": "A design or image that has been influenced by indigenous peoples; especially such a tattoo."
+  },
+  "tribute": {
+    "partOfSpeech": "noun",
+    "definition": "An acknowledgment of gratitude, respect or admiration; an accompanying gift."
+  },
+  "trio": {
+    "partOfSpeech": "noun",
+    "definition": "A group of three people or things."
+  },
+  "triumph": {
+    "partOfSpeech": "noun",
+    "definition": "A conclusive success following an effort, conflict, or confrontation of obstacles; victory; conquest."
+  },
+  "trophy": {
+    "partOfSpeech": "noun",
+    "definition": "Tropæum."
+  },
+  "troubled": {
+    "partOfSpeech": "verb",
+    "definition": "To disturb, stir up, agitate (a medium, especially water)."
+  },
+  "trustee": {
+    "partOfSpeech": "noun",
+    "definition": "A person to whom property is legally committed in trust, to be applied either for the benefit of specified individuals, or for public uses; one who is intrusted with property for the benefit of another."
+  },
+  "tuition": {
+    "partOfSpeech": "noun",
+    "definition": "A sum of money paid for instruction (such as in a high school, boarding school, university, or college)."
+  },
+  "tumour": {
+    "partOfSpeech": "noun",
+    "definition": "An abnormal growth; differential diagnosis includes abscess, metaplasia, and neoplasia."
+  },
+  "turnout": {
+    "partOfSpeech": "noun",
+    "definition": "The act of coming forth."
+  },
+  "turnover": {
+    "partOfSpeech": "noun",
+    "definition": "The amount of money taken as sales transacted in a given period."
+  },
+  "twist": {
+    "partOfSpeech": "noun",
+    "definition": "A twisting force."
+  },
+  "U": {
+    "partOfSpeech": "noun",
+    "definition": "The name of the Latin-script letter U."
+  },
+  "unconstitutional": {
+    "partOfSpeech": "adjective",
+    "definition": "Contrary to or violative of the constitution of a state or other sovereign institution"
+  },
+  "undergraduate": {
+    "partOfSpeech": "noun",
+    "definition": "A student at a university who has not yet received a degree."
+  },
+  "underlying": {
+    "partOfSpeech": "verb",
+    "definition": "To lie in a position directly beneath."
+  },
+  "undermine": {
+    "partOfSpeech": "verb",
+    "definition": "To dig underneath (something), to make a passage for destructive or military purposes; to sap."
+  },
+  "undoubtedly": {
+    "partOfSpeech": "adverb",
+    "definition": "Without doubt; definitely."
+  },
+  "unify": {
+    "partOfSpeech": "verb",
+    "definition": "Cause to become one; make into a unit; consolidate; merge; combine."
+  },
+  "unprecedented": {
+    "partOfSpeech": "adjective",
+    "definition": "Never before seen, done, or experienced; without precedent."
+  },
+  "unveil": {
+    "partOfSpeech": "verb",
+    "definition": "To remove a veil from; to uncover; to reveal something hidden."
+  },
+  "upcoming": {
+    "partOfSpeech": "noun",
+    "definition": "The act of coming up."
+  },
+  "upgrade": {
+    "partOfSpeech": "noun",
+    "definition": "An upward grade or slope."
+  },
+  "uphold": {
+    "partOfSpeech": "verb",
+    "definition": "To hold up; to lift on high; to elevate."
+  },
+  "utility": {
+    "partOfSpeech": "noun",
+    "definition": "The state or condition of being useful; usefulness."
+  },
+  "utilise": {
+    "partOfSpeech": "verb",
+    "definition": "To make use of; to use."
+  },
+  "utterly": {
+    "partOfSpeech": "adverb",
+    "definition": "Completely, entirely, to the fullest extent"
+  },
+  "V": {
+    "partOfSpeech": "noun",
+    "definition": "A shape resembling the letter v"
+  },
+  "vacuum": {
+    "partOfSpeech": "noun",
+    "definition": "A region of space that contains no matter."
+  },
+  "vague": {
+    "partOfSpeech": "noun",
+    "definition": "A wandering; a vagary."
+  },
+  "validity": {
+    "partOfSpeech": "noun",
+    "definition": "The state of being valid, authentic or genuine."
+  },
+  "vanish": {
+    "partOfSpeech": "noun",
+    "definition": "The brief terminal part of a vowel or vocal element, differing more or less in quality from the main part."
+  },
+  "variable": {
+    "partOfSpeech": "noun",
+    "definition": "Something that is variable."
+  },
+  "varied": {
+    "partOfSpeech": "adjective",
+    "definition": "Diverse or miscellaneous"
+  },
+  "vein": {
+    "partOfSpeech": "noun",
+    "definition": "A blood vessel that transports blood from the capillaries back to the heart."
+  },
+  "venture": {
+    "partOfSpeech": "noun",
+    "definition": "A risky or daring undertaking or journey."
+  },
+  "verbal": {
+    "partOfSpeech": "noun",
+    "definition": "(grammar) A verb form which does not function as a predicate, or a word derived from a verb. In English, infinitives, participles and gerunds are verbals."
+  },
+  "verdict": {
+    "partOfSpeech": "noun",
+    "definition": "A decision on an issue of fact in a civil or criminal case or an inquest."
+  },
+  "verify": {
+    "partOfSpeech": "verb",
+    "definition": "To substantiate or prove the truth of something"
+  },
+  "verse": {
+    "partOfSpeech": "noun",
+    "definition": "A poetic form with regular meter and a fixed rhyme scheme."
+  },
+  "versus": {
+    "partOfSpeech": "preposition",
+    "definition": "Against; in opposition to."
+  },
+  "vessel": {
+    "partOfSpeech": "noun",
+    "definition": "Any craft designed for transportation on water, such as a ship or boat."
+  },
+  "veteran": {
+    "partOfSpeech": "noun",
+    "definition": "A person with long experience of a particular activity."
+  },
+  "viable": {
+    "partOfSpeech": "noun",
+    "definition": "An organism that is able to live and develop."
+  },
+  "vibrant": {
+    "partOfSpeech": "adjective",
+    "definition": "Pulsing with energy or activity."
+  },
+  "vice": {
+    "partOfSpeech": "noun",
+    "definition": "A bad habit."
+  },
+  "vicious": {
+    "partOfSpeech": "adjective",
+    "definition": "Violent, destructive and cruel."
+  },
+  "violate": {
+    "partOfSpeech": "verb",
+    "definition": "To break or disregard (a rule or convention)."
+  },
+  "violation": {
+    "partOfSpeech": "noun",
+    "definition": "The act or an instance of violating or the condition of being violated."
+  },
+  "virtue": {
+    "partOfSpeech": "noun",
+    "definition": "Accordance with moral principles; conformity of behaviour or thought with the strictures of morality; good moral conduct."
+  },
+  "vocal": {
+    "partOfSpeech": "noun",
+    "definition": "A vocal sound; specifically, a purely vocal element of speech, unmodified except by resonance; a vowel or a diphthong; a tonic element; a tonic; distinguished from a subvocal, and a nonvocal"
+  },
+  "vow": {
+    "partOfSpeech": "noun",
+    "definition": "A solemn promise to perform some act, or behave in a specified manner, especially a promise to live and act in accordance with the rules of a religious order."
+  },
+  "vulnerability": {
+    "partOfSpeech": "noun",
+    "definition": "Susceptibility to attack or injury; the state or condition of being weak or poorly defended."
+  },
+  "vulnerable": {
+    "partOfSpeech": "adjective",
+    "definition": "More or most likely to be exposed to the chance of being attacked or harmed, either physically or emotionally."
+  },
+  "W": {
+    "partOfSpeech": "noun",
+    "definition": "Watt"
+  },
+  "ward": {
+    "partOfSpeech": "noun",
+    "definition": "A warden; a guard; a guardian or watchman."
+  },
+  "warehouse": {
+    "partOfSpeech": "noun",
+    "definition": "A place for storing large amounts of products. In logistics, a place where products go to from the manufacturer before going to the retailer."
+  },
+  "warfare": {
+    "partOfSpeech": "noun",
+    "definition": "The waging of war or armed conflict against an enemy."
+  },
+  "warrant": {
+    "partOfSpeech": "noun",
+    "definition": "Authorization or certification; a sanction, as given by a superior."
+  },
+  "warrior": {
+    "partOfSpeech": "noun",
+    "definition": "A person who is actively engaged in battle, conflict or warfare; a soldier or combatant."
+  },
+  "weaken": {
+    "partOfSpeech": "verb",
+    "definition": "To make weaker or less strong."
+  },
+  "weave": {
+    "partOfSpeech": "noun",
+    "definition": "A type or way of weaving."
+  },
+  "weed": {
+    "partOfSpeech": "noun",
+    "definition": "Any plant regarded as unwanted at the place where, and at the time when it is growing."
+  },
+  "well": {
+    "partOfSpeech": "adjective",
+    "definition": "In good health."
+  },
+  "whatsoever": {
+    "partOfSpeech": "adjective",
+    "definition": "Whatever."
+  },
+  "whereby": {
+    "partOfSpeech": "adverb",
+    "definition": "(interrogative) By what, in which direction; how."
+  },
+  "whip": {
+    "partOfSpeech": "noun",
+    "definition": "A lash; a pliant, flexible instrument, such as a rod (commonly of cane or rattan) or a plaited or braided rope or thong (commonly of leather) used to create a sharp \"crack\" sound for directing or herding animals."
+  },
+  "wholly": {
+    "partOfSpeech": "adverb",
+    "definition": "Completely and entirely; to the fullest extent."
+  },
+  "widen": {
+    "partOfSpeech": "verb",
+    "definition": "To become wide or wider."
+  },
+  "widow": {
+    "partOfSpeech": "noun",
+    "definition": "A woman whose spouse has died (and who has not remarried); feminine of widower."
+  },
+  "width": {
+    "partOfSpeech": "noun",
+    "definition": "The state of being wide."
+  },
+  "willingness": {
+    "partOfSpeech": "noun",
+    "definition": "The state of being willing"
+  },
+  "wipe": {
+    "partOfSpeech": "noun",
+    "definition": "The act of wiping something."
+  },
+  "wit": {
+    "partOfSpeech": "noun",
+    "definition": "(now usually in the plural) Sanity."
+  },
+  "withdrawal": {
+    "partOfSpeech": "noun",
+    "definition": "Receiving from someone's care what one has earlier entrusted to them. Usually refers to money."
+  }
+}
