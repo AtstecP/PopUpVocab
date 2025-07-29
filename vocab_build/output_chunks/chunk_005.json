@@ -1,0 +1,402 @@
+{
+  "domain": {
+    "partOfSpeech": "noun",
+    "definition": "A geographic area owned or controlled by a single person or organization."
+  },
+  "dominance": {
+    "partOfSpeech": "noun",
+    "definition": "The state of being dominant; of prime importance; supremacy."
+  },
+  "donor": {
+    "partOfSpeech": "noun",
+    "definition": "One who makes a donation."
+  },
+  "dose": {
+    "partOfSpeech": "",
+    "definition": ""
+  },
+  "drain": {
+    "partOfSpeech": "noun",
+    "definition": "A conduit allowing liquid to flow out of an otherwise contained volume; a plughole (UK)"
+  },
+  "drift": {
+    "partOfSpeech": "noun",
+    "definition": "(physical) Movement; that which moves or is moved."
+  },
+  "driving": {
+    "partOfSpeech": "verb",
+    "definition": "To provide an impetus for motion or other physical change, to move an object by means of the provision of force thereto."
+  },
+  "drown": {
+    "partOfSpeech": "verb",
+    "definition": "To die from suffocation while immersed in water or other fluid."
+  },
+  "dual": {
+    "partOfSpeech": "noun",
+    "definition": "Of an item that is one of a pair, the other item in the pair."
+  },
+  "dub": {
+    "partOfSpeech": "verb",
+    "definition": "To confer knighthood; the conclusion of the ceremony was marked by a tap on the shoulder with a sword."
+  },
+  "dumb": {
+    "partOfSpeech": "adjective",
+    "definition": "Unable to speak; lacking power of speech (kept in \"deaf, dumb, and blind\")."
+  },
+  "duo": {
+    "partOfSpeech": "noun",
+    "definition": "Two people who work or collaborate together as partners; especially, those who perform music together."
+  },
+  "E": {
+    "partOfSpeech": "noun",
+    "definition": "The name of the Latin-script letter E."
+  },
+  "earnings": {
+    "partOfSpeech": "noun",
+    "definition": "Wages, money earned, income."
+  },
+  "ease": {
+    "partOfSpeech": "noun",
+    "definition": "Ability, the means to do something, particularly:"
+  },
+  "echo": {
+    "partOfSpeech": "noun",
+    "definition": "A reflected sound that is heard again by its initial observer."
+  },
+  "ecological": {
+    "partOfSpeech": "adjective",
+    "definition": "Relating to ecology, the interrelationships of organisms and their environment."
+  },
+  "educator": {
+    "partOfSpeech": "noun",
+    "definition": "A person distinguished for his/her educational work, a teacher."
+  },
+  "effectiveness": {
+    "partOfSpeech": "noun",
+    "definition": "The property of being effective, of achieving results."
+  },
+  "efficiency": {
+    "partOfSpeech": "noun",
+    "definition": "The extent to which time is well used for the intended task."
+  },
+  "ego": {
+    "partOfSpeech": "noun",
+    "definition": "The self, especially with a sense of self-importance."
+  },
+  "elaborate": {
+    "partOfSpeech": "verb",
+    "definition": "To develop in detail or complexity"
+  },
+  "electoral": {
+    "partOfSpeech": "adjective",
+    "definition": "Relating to or composed of electors."
+  },
+  "elevate": {
+    "partOfSpeech": "verb",
+    "definition": "To raise (something) to a higher position."
+  },
+  "eligible": {
+    "partOfSpeech": "noun",
+    "definition": "One who is eligible."
+  },
+  "elite": {
+    "partOfSpeech": "noun",
+    "definition": "A special group or social class of people which have a superior intellectual, social or economic status as, the elite of society."
+  },
+  "embark": {
+    "partOfSpeech": "verb",
+    "definition": "To get on a boat or ship or (outside the USA) an aeroplane."
+  },
+  "embarrassment": {
+    "partOfSpeech": "noun",
+    "definition": "A state of discomfort arising from bashfulness or consciousness of having violated a social rule; humiliation."
+  },
+  "embassy": {
+    "partOfSpeech": "noun",
+    "definition": "The function or duty of an ambassador."
+  },
+  "embed": {
+    "partOfSpeech": "noun",
+    "definition": "An embedded reporter or journalist, such as a war reporter assigned to and travelling with a military unit, or a political reporter assigned to follow and report on the campaign of a candidate."
+  },
+  "embody": {
+    "partOfSpeech": "verb",
+    "definition": "To represent in a physical or concrete form; to incarnate or personify."
+  },
+  "emergence": {
+    "partOfSpeech": "noun",
+    "definition": "The act of rising out of a fluid, or coming forth from envelopment or concealment, or of rising into view; sudden uprising or appearance."
+  },
+  "empirical": {
+    "partOfSpeech": "adjective",
+    "definition": "Pertaining to or based on experience."
+  },
+  "empower": {
+    "partOfSpeech": "verb",
+    "definition": "To give permission, power, or the legal right to do something."
+  },
+  "enact": {
+    "partOfSpeech": "noun",
+    "definition": "Purpose; determination"
+  },
+  "encompass": {
+    "partOfSpeech": "verb",
+    "definition": "To form a circle around; to encircle."
+  },
+  "encouragement": {
+    "partOfSpeech": "noun",
+    "definition": "The act of encouraging"
+  },
+  "encouraging": {
+    "partOfSpeech": "verb",
+    "definition": "To mentally support; to motivate, give courage, hope or spirit."
+  },
+  "endeavour": {
+    "partOfSpeech": "noun",
+    "definition": "A sincere attempt; a determined or assiduous effort towards a specific goal; assiduous or persistent activity."
+  },
+  "endless": {
+    "partOfSpeech": "adjective",
+    "definition": "Having no end."
+  },
+  "endorse": {
+    "partOfSpeech": "noun",
+    "definition": "A diminutive of the pale, usually appearing in pairs on either side of a pale."
+  },
+  "endorsement": {
+    "partOfSpeech": "noun",
+    "definition": "The act or quality of endorsing"
+  },
+  "endure": {
+    "partOfSpeech": "verb",
+    "definition": "To continue or carry on, despite obstacles or hardships; to persist."
+  },
+  "enforce": {
+    "partOfSpeech": "verb",
+    "definition": "To keep up, impose or bring into effect something, not necessarily by force."
+  },
+  "enforcement": {
+    "partOfSpeech": "noun",
+    "definition": "The act of enforcing; compulsion."
+  },
+  "engagement": {
+    "partOfSpeech": "noun",
+    "definition": "An appointment, especially to speak or perform."
+  },
+  "engaging": {
+    "partOfSpeech": "verb",
+    "definition": "(heading) To interact socially."
+  },
+  "enrich": {
+    "partOfSpeech": "verb",
+    "definition": "To enhance."
+  },
+  "enrol": {
+    "partOfSpeech": "verb",
+    "definition": "To enter (a name, etc.) in a register, roll or list"
+  },
+  "ensue": {
+    "partOfSpeech": "verb",
+    "definition": "To follow (a leader, inclination etc.)."
+  },
+  "enterprise": {
+    "partOfSpeech": "noun",
+    "definition": "A company, business, organization, or other purposeful endeavor."
+  },
+  "enthusiast": {
+    "partOfSpeech": "noun",
+    "definition": "A person filled with or guided by enthusiasm."
+  },
+  "entitle": {
+    "partOfSpeech": "verb",
+    "definition": "To give a title to."
+  },
+  "entity": {
+    "partOfSpeech": "noun",
+    "definition": "That which has a distinct existence as an individual unit. Often used for organisations which have no physical form."
+  },
+  "epidemic": {
+    "partOfSpeech": "noun",
+    "definition": "A widespread disease that affects many individuals in a population."
+  },
+  "equality": {
+    "partOfSpeech": "noun",
+    "definition": "The fact of being equal."
+  },
+  "equation": {
+    "partOfSpeech": "noun",
+    "definition": "The act or process of equating two or more things, or the state of those things being equal (that is, identical)."
+  },
+  "erect": {
+    "partOfSpeech": "adjective",
+    "definition": "Upright; vertical or reaching broadly upwards."
+  },
+  "escalate": {
+    "partOfSpeech": "verb",
+    "definition": "To increase (something) in extent or intensity; to intensify or step up."
+  },
+  "essence": {
+    "partOfSpeech": "noun",
+    "definition": "The inherent nature of a thing or idea."
+  },
+  "establishment": {
+    "partOfSpeech": "noun",
+    "definition": "The act of establishing; a ratifying or ordaining; settlement; confirmation."
+  },
+  "eternal": {
+    "partOfSpeech": "noun",
+    "definition": "One who lives forever; an immortal."
+  },
+  "evacuate": {
+    "partOfSpeech": "verb",
+    "definition": "To leave or withdraw from; to quit; to retire from"
+  },
+  "evoke": {
+    "partOfSpeech": "verb",
+    "definition": "To call out; to draw out or bring forth."
+  },
+  "evolutionary": {
+    "partOfSpeech": "adjective",
+    "definition": "Of or relating to the biological theory of evolution."
+  },
+  "exaggerate": {
+    "partOfSpeech": "verb",
+    "definition": "To overstate, to describe more than is fact."
+  },
+  "excellence": {
+    "partOfSpeech": "noun",
+    "definition": "The quality of being excellent; brilliance"
+  },
+  "exceptional": {
+    "partOfSpeech": "noun",
+    "definition": "An exception, or something having an exceptional value"
+  },
+  "excess": {
+    "partOfSpeech": "noun",
+    "definition": "The state of surpassing or going beyond limits; the being of a measure beyond sufficiency, necessity, or duty; that which exceeds what is usual or proper"
+  },
+  "exclusion": {
+    "partOfSpeech": "noun",
+    "definition": "The act of excluding or shutting out; removal from consideration or taking part."
+  },
+  "exclusive": {
+    "partOfSpeech": "noun",
+    "definition": "Information (or an artefact) that is granted or obtained exclusively."
+  },
+  "exclusively": {
+    "partOfSpeech": "adverb",
+    "definition": "(focus) to the exclusion of anything or anyone else; solely or entirely"
+  },
+  "execute": {
+    "partOfSpeech": "verb",
+    "definition": "To kill as punishment for capital crimes."
+  },
+  "execution": {
+    "partOfSpeech": "noun",
+    "definition": "The act, manner or style of executing (actions, maneuvers, performances)."
+  },
+  "exert": {
+    "partOfSpeech": "verb",
+    "definition": "To put in vigorous action."
+  },
+  "exile": {
+    "partOfSpeech": "noun",
+    "definition": "The state of being banished from one's home or country."
+  },
+  "expenditure": {
+    "partOfSpeech": "noun",
+    "definition": "Act of expending or paying out."
+  },
+  "experimental": {
+    "partOfSpeech": "noun",
+    "definition": "The subject of an experiment."
+  },
+  "expire": {
+    "partOfSpeech": "verb",
+    "definition": "To die."
+  },
+  "explicit": {
+    "partOfSpeech": "adjective",
+    "definition": "Very specific, clear, or detailed."
+  },
+  "explicitly": {
+    "partOfSpeech": "adverb",
+    "definition": "In an explicit manner."
+  },
+  "exploitation": {
+    "partOfSpeech": "noun",
+    "definition": "The act of utilizing something; industry."
+  },
+  "explosive": {
+    "partOfSpeech": "noun",
+    "definition": "Any explosive substance."
+  },
+  "extremist": {
+    "partOfSpeech": "noun",
+    "definition": "A person who holds extreme views, especially one who advocates such views; a radical or fanatic."
+  },
+  "F": {
+    "partOfSpeech": "interjection",
+    "definition": "Used to profess respect for a deceased person, or for something that has been lost."
+  },
+  "facilitate": {
+    "partOfSpeech": "verb",
+    "definition": "To make easy or easier."
+  },
+  "faction": {
+    "partOfSpeech": "noun",
+    "definition": "A group of people, especially within a political organization, which expresses a shared belief or opinion different from people who are not part of the group."
+  },
+  "fade": {
+    "partOfSpeech": "noun",
+    "definition": "A golf shot that (for the right-handed player) curves intentionally to the right. See slice, hook, draw."
+  },
+  "fairness": {
+    "partOfSpeech": "noun",
+    "definition": "The property of being fair or equitable."
+  },
+  "fatal": {
+    "partOfSpeech": "noun",
+    "definition": "A fatality; an event that leads to death."
+  },
+  "fate": {
+    "partOfSpeech": "noun",
+    "definition": "The presumed cause, force, principle, or divine will that predetermines events."
+  },
+  "favourable": {
+    "partOfSpeech": "adjective",
+    "definition": "Pleasing, encouraging or approving."
+  },
+  "feat": {
+    "partOfSpeech": "noun",
+    "definition": "A relatively rare or difficult accomplishment."
+  },
+  "felony": {
+    "partOfSpeech": "noun",
+    "definition": "A serious criminal offense, which, under United States federal law, is punishable by imprisonment for a term exceeding one year or by death."
+  },
+  "feminist": {
+    "partOfSpeech": "noun",
+    "definition": "An advocate of feminism; a person who believes in bringing about the equality of the sexes (of women and men) in all aspects of public and private life"
+  },
+  "fibre": {
+    "partOfSpeech": "noun",
+    "definition": "A single piece of a given material, elongated and roughly round in cross-section, often twisted with other fibres to form thread."
+  },
+  "fierce": {
+    "partOfSpeech": "adjective",
+    "definition": "Exceedingly violent, severe, ferocious, cruel or savage."
+  },
+  "filmmaker": {
+    "partOfSpeech": "noun",
+    "definition": "A producer or director of films/movies."
+  },
+  "filter": {
+    "partOfSpeech": "noun",
+    "definition": "A device which separates a suspended, dissolved, or particulate matter from a fluid, solution, or other substance; any device that separates one substance from another."
+  },
+  "fine": {
+    "partOfSpeech": "noun",
+    "definition": "Fine champagne; French brandy."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "workout": {
+    "partOfSpeech": "noun",
+    "definition": "An exercise session; a period of physical exercise."
+  },
+  "worship": {
+    "partOfSpeech": "noun",
+    "definition": "The condition of being worthy; honour, distinction."
+  },
+  "worthwhile": {
+    "partOfSpeech": "adjective",
+    "definition": "Good and important enough to spend time, effort, or money on."
+  },
+  "worthy": {
+    "partOfSpeech": "noun",
+    "definition": "A distinguished or eminent person"
+  },
+  "yell": {
+    "partOfSpeech": "noun",
+    "definition": "A shout."
+  },
+  "yield": {
+    "partOfSpeech": "verb",
+    "definition": "To pay, give in payment; repay, recompense; reward; requite."
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "spell": {
+    "partOfSpeech": "noun",
+    "definition": "Words or a formula supposed to have magical powers."
+  },
+  "sphere": {
+    "partOfSpeech": "noun",
+    "definition": "A regular three-dimensional object in which every cross-section is a circle; the figure described by the revolution of a circle about its diameter ."
+  },
+  "spin": {
+    "partOfSpeech": "noun",
+    "definition": "Rapid circular motion."
+  },
+  "spine": {
+    "partOfSpeech": "noun",
+    "definition": "The series of bones situated at the back from the head to the pelvis of a person, or from the head to the tail of an animal; backbone, vertebral column."
+  },
+  "spotlight": {
+    "partOfSpeech": "noun",
+    "definition": "A bright, directional light or lamp, especially one used to illuminate the focus or center of attention on a stage."
+  },
+  "spouse": {
+    "partOfSpeech": "noun",
+    "definition": "A person in a marriage or marital relationship."
+  },
+  "spy": {
+    "partOfSpeech": "noun",
+    "definition": "A person who secretly watches and examines the actions of other individuals or organizations and gathers information on them (usually to gain an advantage)."
+  },
+  "squad": {
+    "partOfSpeech": "noun",
+    "definition": "A group of people organized for some common purpose, usually of about ten members."
+  },
+  "squeeze": {
+    "partOfSpeech": "noun",
+    "definition": "A close or tight fit."
+  },
+  "stab": {
+    "partOfSpeech": "noun",
+    "definition": "An act of stabbing or thrusting with an object."
+  },
+  "stability": {
+    "partOfSpeech": "noun",
+    "definition": "The condition of being stable or in equilibrium, and thus resistant to change."
+  },
+  "stabilise": {
+    "partOfSpeech": "verb",
+    "definition": "To make stable."
+  },
+  "stake": {
+    "partOfSpeech": "noun",
+    "definition": "A piece of wood or other material, usually long and slender, pointed at one end so as to be easily driven into the ground as a marker or a support or stay."
+  },
+  "standing": {
+    "partOfSpeech": "verb",
+    "definition": "(heading) To position or be positioned physically."
+  },
+  "stark": {
+    "partOfSpeech": "adjective",
+    "definition": "Hard, firm; obdurate."
+  },
+  "statistical": {
+    "partOfSpeech": "adjective",
+    "definition": "Of or pertaining to statistics."
+  },
+  "steer": {
+    "partOfSpeech": "noun",
+    "definition": "A suggestion about a course of action."
+  },
+  "stem": {
+    "partOfSpeech": "noun",
+    "definition": "The stock of a family; a race or generation of progenitors."
+  },
+  "stereotype": {
+    "partOfSpeech": "noun",
+    "definition": "A conventional, formulaic, and often oversimplified or exaggerated conception, opinion, or image of (a person)."
+  },
+  "stimulus": {
+    "partOfSpeech": "noun",
+    "definition": "Any external phenomenon that has an influence on a system, by triggering or modifying an internal phenomenon."
+  },
+  "stir": {
+    "partOfSpeech": "noun",
+    "definition": "The act or result of stirring (moving around the particles of a liquid etc.)"
+  },
+  "storage": {
+    "partOfSpeech": "noun",
+    "definition": "The act of storing goods; the state of being stored."
+  },
+  "straightforward": {
+    "partOfSpeech": "adjective",
+    "definition": "Proceeding in a straight course or manner; not deviating."
+  },
+  "strain": {
+    "partOfSpeech": "noun",
+    "definition": "Treasure."
+  },
+  "strand": {
+    "partOfSpeech": "noun",
+    "definition": "The shore or beach of the sea or ocean; shore; beach."
+  },
+  "strategic": {
+    "partOfSpeech": "adjective",
+    "definition": "Of or pertaining to strategy"
+  },
+  "strive": {
+    "partOfSpeech": "noun",
+    "definition": "Striving; earnest endeavor; hard work."
+  },
+  "structural": {
+    "partOfSpeech": "noun",
+    "definition": "Structural steel, used in construction."
+  },
+  "stumble": {
+    "partOfSpeech": "noun",
+    "definition": "A fall, trip or substantial misstep."
+  },
+  "submission": {
+    "partOfSpeech": "noun",
+    "definition": "The act of submitting or yielding; surrender."
+  },
+  "subscriber": {
+    "partOfSpeech": "noun",
+    "definition": "A person who subscribes to a publication or a service"
+  },
+  "subscription": {
+    "partOfSpeech": "noun",
+    "definition": "Access to a resource for a period of time, generally for payment."
+  },
+  "subsidy": {
+    "partOfSpeech": "noun",
+    "definition": "Financial support or assistance, such as a grant."
+  },
+  "substantial": {
+    "partOfSpeech": "noun",
+    "definition": "Anything having substance; an essential part."
+  },
+  "substantially": {
+    "partOfSpeech": "adverb",
+    "definition": "In a strong substantial manner; considerably."
+  },
+  "substitute": {
+    "partOfSpeech": "noun",
+    "definition": "A replacement or stand-in for something that achieves a similar result or purpose."
+  },
+  "substitution": {
+    "partOfSpeech": "noun",
+    "definition": "The act of substituting or the state of being substituted."
+  },
+  "subtle": {
+    "partOfSpeech": "adjective",
+    "definition": "Hard to grasp; not obvious or easily understood; barely noticeable."
+  },
+  "suburban": {
+    "partOfSpeech": "noun",
+    "definition": "A person who lives in a suburb."
+  },
+  "succession": {
+    "partOfSpeech": "noun",
+    "definition": "An act of following in sequence."
+  },
+  "successive": {
+    "partOfSpeech": "adjective",
+    "definition": "Coming one after the other in a series."
+  },
+  "successor": {
+    "partOfSpeech": "noun",
+    "definition": "A person or thing that immediately follows another in holding an office or title."
+  },
+  "suck": {
+    "partOfSpeech": "noun",
+    "definition": "An instance of drawing something into one's mouth by inhaling."
+  },
+  "sue": {
+    "partOfSpeech": "verb",
+    "definition": "To file a legal action against someone, generally a non-criminal action."
+  },
+  "suicide": {
+    "partOfSpeech": "",
+    "definition": ""
+  },
+  "suite": {
+    "partOfSpeech": "noun",
+    "definition": "A retinue or company of attendants, as of a distinguished personage"
+  },
+  "summit": {
+    "partOfSpeech": "noun",
+    "definition": "A peak; the topmost point or surface, as of a mountain."
+  },
+  "superb": {
+    "partOfSpeech": "adjective",
+    "definition": "First-rate; of the highest quality; exceptionally good."
+  },
+  "superintendent": {
+    "partOfSpeech": "noun",
+    "definition": "A person who is authorized to supervise, direct or administer something."
+  },
+  "superior": {
+    "partOfSpeech": "noun",
+    "definition": "A person of higher rank or quality."
+  },
+  "supervise": {
+    "partOfSpeech": "verb",
+    "definition": "To oversee or direct a task or organization."
+  },
+  "supervision": {
+    "partOfSpeech": "noun",
+    "definition": "The act or instance of supervising."
+  },
+  "supervisor": {
+    "partOfSpeech": "noun",
+    "definition": "A person with the official task of overseeing the work of a person or group, or of other operations and activities."
+  },
+  "supplement": {
+    "partOfSpeech": "noun",
+    "definition": "Something added, especially to make up for a deficiency."
+  },
+  "supportive": {
+    "partOfSpeech": "adjective",
+    "definition": "Providing support."
+  },
+  "supposedly": {
+    "partOfSpeech": "adverb",
+    "definition": "As a matter of supposition; in the beliefs or according to the claims of some people."
+  },
+  "suppress": {
+    "partOfSpeech": "verb",
+    "definition": "To put an end to, especially with force, to crush, do away with; to prohibit, subdue."
+  },
+  "supreme": {
+    "partOfSpeech": "noun",
+    "definition": "The highest point."
+  },
+  "surge": {
+    "partOfSpeech": "noun",
+    "definition": "A sudden transient rush, flood or increase."
+  },
+  "surgical": {
+    "partOfSpeech": "adjective",
+    "definition": "Of, relating to, used in, or resulting from surgery."
+  },
+  "surplus": {
+    "partOfSpeech": "noun",
+    "definition": "That which remains when use or need is satisfied, or when a limit is reached; excess; overplus."
+  },
+  "surrender": {
+    "partOfSpeech": "noun",
+    "definition": "An act of surrendering, submission into the possession of another; abandonment, resignation."
+  },
+  "surveillance": {
+    "partOfSpeech": "noun",
+    "definition": "Close observation of an individual or group; person or persons under suspicion."
+  },
+  "suspension": {
+    "partOfSpeech": "noun",
+    "definition": "The act of suspending, or the state of being suspended."
+  },
+  "suspicion": {
+    "partOfSpeech": "noun",
+    "definition": "The act of suspecting something or someone, especially of something wrong."
+  },
+  "suspicious": {
+    "partOfSpeech": "adjective",
+    "definition": "Arousing suspicion."
+  },
+  "sustain": {
+    "partOfSpeech": "noun",
+    "definition": "A mechanism which can be used to hold a note, as the right pedal on a piano."
+  },
+  "swing": {
+    "partOfSpeech": "noun",
+    "definition": "The manner in which something is swung."
+  },
+  "sword": {
+    "partOfSpeech": "noun",
+    "definition": "A long-bladed weapon with a hilt, and usually a pommel and cross-guard, which is designed to stab, slash, and/or hack."
+  },
+  "symbolic": {
+    "partOfSpeech": "adjective",
+    "definition": "Pertaining to a symbol."
+  },
+  "syndrome": {
+    "partOfSpeech": "noun",
+    "definition": "A recognizable pattern of signs, symptoms and/or behaviours, especially of a disease or medical or psychological condition."
+  },
+  "synthesis": {
+    "partOfSpeech": "noun",
+    "definition": "The formation of something complex or coherent by combining simpler things."
+  },
+  "systematic": {
+    "partOfSpeech": "adjective",
+    "definition": "Carried out using a planned, ordered procedure."
+  },
+  "T": {
+    "partOfSpeech": "",
+    "definition": ""
+  },
+  "tackle": {
+    "partOfSpeech": "noun",
+    "definition": "A device for grasping an object and an attached means of moving it, as a rope and hook."
+  },
+  "tactic": {
+    "partOfSpeech": "noun",
+    "definition": "A maneuver, or action calculated to achieve some end."
+  },
+  "tactical": {
+    "partOfSpeech": "noun",
+    "definition": "A combinator of proof tactics."
+  },
+  "taxpayer": {
+    "partOfSpeech": "noun",
+    "definition": "A person who is subject to, liable for, or pays tax as opposed to a nontaxpayer who is neither the subject nor the object of revenue laws."
+  },
+  "tempt": {
+    "partOfSpeech": "verb",
+    "definition": "To provoke someone to do wrong, especially by promising a reward; to entice."
+  },
+  "tenant": {
+    "partOfSpeech": "noun",
+    "definition": "One who pays a fee (rent) in return for the use of land, buildings, or other property owned by others."
+  },
+  "tender": {
+    "partOfSpeech": "noun",
+    "definition": "Care, kind concern, regard."
+  },
+  "tenure": {
+    "partOfSpeech": "noun",
+    "definition": "A status of possessing a thing or an office; an incumbency."
+  },
+  "terminate": {
+    "partOfSpeech": "verb",
+    "definition": "To end, especially in an incomplete state."
+  },
+  "terrain": {
+    "partOfSpeech": "noun",
+    "definition": "A single, distinctive rock formation; an area having a preponderance of a particular rock or group of rocks."
+  },
+  "terrific": {
+    "partOfSpeech": "adjective",
+    "definition": "Terrifying, causing terror; terrible; sublime, awe-inspiring."
+  },
+  "testify": {
+    "partOfSpeech": "verb",
+    "definition": "To make a declaration, or give evidence, under oath."
+  },
+  "testimony": {
+    "partOfSpeech": "noun",
+    "definition": "Statements made by a witness in court."
+  },
+  "texture": {
+    "partOfSpeech": "noun",
+    "definition": "The feel or shape of a surface or substance; the smoothness, roughness, softness, etc. of something."
+  },
+  "thankfully": {
+    "partOfSpeech": "adverb",
+    "definition": "In a thankful manner; giving thanks."
+  },
+  "theatrical": {
+    "partOfSpeech": "noun",
+    "definition": "A stage performance, especially one by amateurs."
+  },
+  "theology": {
+    "partOfSpeech": "noun",
+    "definition": "The study of God, a god, or gods; and of the truthfulness of religion in general."
+  },
+  "theoretical": {
+    "partOfSpeech": "adjective",
+    "definition": "Of or relating to theory; abstract; not empirical."
+  },
+  "thereafter": {
+    "partOfSpeech": "adverb",
+    "definition": "After that, from then on; thenceforth."
+  },
+  "thereby": {
+    "partOfSpeech": "adverb",
+    "definition": "By it; by that; by that means, or as a consequence of that."
+  },
+  "thoughtful": {
+    "partOfSpeech": "adjective",
+    "definition": "Demonstrating thought or careful consideration."
+  },
+  "thread": {
+    "partOfSpeech": "noun",
+    "definition": "A long, thin and flexible form of material, generally with a round cross-section, used in sewing, weaving or in the construction of string."
+  },
+  "threshold": {
+    "partOfSpeech": "noun",
+    "definition": "The bottom-most part of a doorway that one crosses to enter; a sill."
+  },
+  "thrilled": {
+    "partOfSpeech": "verb",
+    "definition": "To suddenly excite someone, or to give someone great pleasure; to (figuratively) electrify; to experience such a sensation."
+  },
+  "thrive": {
+    "partOfSpeech": "verb",
+    "definition": "To grow or increase stature; to grow vigorously or luxuriantly, to flourish."
+  },
+  "tide": {
+    "partOfSpeech": "noun",
+    "definition": "The periodic change of the sea level, particularly when caused by the gravitational influence of the sun and the moon."
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "firearm": {
+    "partOfSpeech": "noun",
+    "definition": "A personal weapon that uses explosive powder to propel a projectile often made of lead."
+  },
+  "fiscal": {
+    "partOfSpeech": "noun",
+    "definition": "A public official in certain countries having control of public revenue."
+  },
+  "fit": {
+    "partOfSpeech": "noun",
+    "definition": "The degree to which something fits."
+  },
+  "flaw": {
+    "partOfSpeech": "noun",
+    "definition": "A flake, fragment, or shiver."
+  },
+  "flawed": {
+    "partOfSpeech": "adjective",
+    "definition": "Having a flaw or imperfection."
+  },
+  "flee": {
+    "partOfSpeech": "verb",
+    "definition": "To run away; to escape."
+  },
+  "fleet": {
+    "partOfSpeech": "noun",
+    "definition": "A group of vessels or vehicles."
+  },
+  "flesh": {
+    "partOfSpeech": "noun",
+    "definition": "The soft tissue of the body, especially muscle and fat."
+  },
+  "flexibility": {
+    "partOfSpeech": "noun",
+    "definition": "The quality of being flexible; suppleness; pliability."
+  },
+  "flourish": {
+    "partOfSpeech": "noun",
+    "definition": "A dramatic gesture such as the waving of a flag."
+  },
+  "fluid": {
+    "partOfSpeech": "noun",
+    "definition": "Any substance which can flow with relative ease, tends to assume the shape of its container, and obeys Bernoulli's principle; a liquid, gas or plasma."
+  },
+  "footage": {
+    "partOfSpeech": "noun",
+    "definition": "An amount of film or tape that has been used to record something."
+  },
+  "foreigner": {
+    "partOfSpeech": "noun",
+    "definition": "A person from a foreign country."
+  },
+  "forge": {
+    "partOfSpeech": "noun",
+    "definition": "Furnace or hearth where metals are heated prior to hammering them into shape."
+  },
+  "formula": {
+    "partOfSpeech": "noun",
+    "definition": "Any mathematical rule expressed symbolically."
+  },
+  "formulate": {
+    "partOfSpeech": "verb",
+    "definition": "To reduce to, or express in, a formula; to put in a clear and definite form of statement or expression."
+  },
+  "forth": {
+    "partOfSpeech": "adverb",
+    "definition": "Forward in time, place or degree."
+  },
+  "forthcoming": {
+    "partOfSpeech": "noun",
+    "definition": "An act of coming forth."
+  },
+  "foster": {
+    "partOfSpeech": "noun",
+    "definition": "A foster parent."
+  },
+  "fragile": {
+    "partOfSpeech": "adjective",
+    "definition": "Easily broken or destroyed, and thus often of subtle or intricate structure."
+  },
+  "franchise": {
+    "partOfSpeech": "noun",
+    "definition": "The right to vote at a public election or referendum; see: suffrage, suffragette."
+  },
+  "frankly": {
+    "partOfSpeech": "adverb",
+    "definition": "(manner) In a frank, open or (too) honest manner."
+  },
+  "freshman": {
+    "partOfSpeech": "noun",
+    "definition": "A novice; one in the rudiments of knowledge."
+  },
+  "frustrated": {
+    "partOfSpeech": "verb",
+    "definition": "To disappoint or defeat; to vex by depriving of something expected or desired."
+  },
+  "frustrating": {
+    "partOfSpeech": "verb",
+    "definition": "To disappoint or defeat; to vex by depriving of something expected or desired."
+  },
+  "frustration": {
+    "partOfSpeech": "noun",
+    "definition": "The feeling of annoyance when one's actions are criticized or hindered"
+  },
+  "functional": {
+    "partOfSpeech": "noun",
+    "definition": "A function that takes a function as its argument; More precisely: A function y=f(x) whose argument x varies in a space of (real valued, complex valued) functions and whose value belongs to a monodimensional space. An example: the definite integration of integrable real functions in a real interval."
+  },
+  "fundraising": {
+    "partOfSpeech": "noun",
+    "definition": "The process of collecting money by requesting donations from individuals and businesses."
+  },
+  "funeral": {
+    "partOfSpeech": "noun",
+    "definition": "A ceremony to honour and remember a deceased person. Often distinguished from a memorial service by the presence of the body of the deceased."
+  },
+  "G": {
+    "partOfSpeech": "noun",
+    "definition": "A gangster, gangsta."
+  },
+  "gambling": {
+    "partOfSpeech": "verb",
+    "definition": "To take a risk, with the potential of a positive outcome."
+  },
+  "gathering": {
+    "partOfSpeech": "noun",
+    "definition": "A meeting or get-together; a party or social function."
+  },
+  "gaze": {
+    "partOfSpeech": "noun",
+    "definition": "A fixed look; a look of eagerness, wonder, or admiration; a continued look of attention."
+  },
+  "gear": {
+    "partOfSpeech": "noun",
+    "definition": "Equipment or paraphernalia, especially that used for an athletic endeavor."
+  },
+  "generic": {
+    "partOfSpeech": "noun",
+    "definition": "A product sold under a generic name."
+  },
+  "genocide": {
+    "partOfSpeech": "noun",
+    "definition": "The systematic killing of substantial numbers of people on the basis of their ethnicity, religion, political beliefs, social status, or other particularities."
+  },
+  "gig": {
+    "partOfSpeech": "noun",
+    "definition": "A performing engagement by a musical group; or, generally, any job or role, especially for a musician or performer."
+  },
+  "glance": {
+    "partOfSpeech": "noun",
+    "definition": "A brief or cursory look."
+  },
+  "glimpse": {
+    "partOfSpeech": "noun",
+    "definition": "A brief look, glance, or peek."
+  },
+  "glorious": {
+    "partOfSpeech": "adjective",
+    "definition": "Exhibiting attributes, qualities, or acts that are worthy of or receive glory."
+  },
+  "glory": {
+    "partOfSpeech": "noun",
+    "definition": "Great or overwhelming beauty or splendour."
+  },
+  "governance": {
+    "partOfSpeech": "noun",
+    "definition": "The process, or the power, of governing; government or administration."
+  },
+  "grace": {
+    "partOfSpeech": "noun",
+    "definition": "Charming, pleasing qualities."
+  },
+  "grasp": {
+    "partOfSpeech": "noun",
+    "definition": "(sometimes figurative) Grip."
+  },
+  "gravity": {
+    "partOfSpeech": "noun",
+    "definition": "The state or condition of having weight; weight; heaviness."
+  },
+  "grid": {
+    "partOfSpeech": "noun",
+    "definition": "A rectangular array of squares or rectangles of equal size, such as in a crossword puzzle."
+  },
+  "grief": {
+    "partOfSpeech": "noun",
+    "definition": "Suffering, hardship."
+  },
+  "grin": {
+    "partOfSpeech": "noun",
+    "definition": "A smile in which the lips are parted to reveal the teeth."
+  },
+  "grind": {
+    "partOfSpeech": "noun",
+    "definition": "The act of reducing to powder, or of sharpening, by friction."
+  },
+  "grip": {
+    "partOfSpeech": "verb",
+    "definition": "To take hold of, particularly with the hand."
+  },
+  "gross": {
+    "partOfSpeech": "noun",
+    "definition": "Twelve dozen = 144."
+  },
+  "guerrilla": {
+    "partOfSpeech": "noun",
+    "definition": "A soldier in a small independent group, fighting against the government or regular forces by surprise raids."
+  },
+  "guidance": {
+    "partOfSpeech": "noun",
+    "definition": "The act or process of guiding."
+  },
+  "guilt": {
+    "partOfSpeech": "noun",
+    "definition": "Responsibility for wrongdoing."
+  },
+  "gut": {
+    "partOfSpeech": "noun",
+    "definition": "The alimentary canal, especially the intestine."
+  },
+  "H": {
+    "partOfSpeech": "interjection",
+    "definition": "(chiefly Internet slang) Used as a filler response when one does not have a response to use. Almost always used by itself."
+  },
+  "hail": {
+    "partOfSpeech": "noun",
+    "definition": "Balls or pieces of ice falling as precipitation, often in connection with a thunderstorm."
+  },
+  "halfway": {
+    "partOfSpeech": "adverb",
+    "definition": "Half of the way between two points; midway."
+  },
+  "halt": {
+    "partOfSpeech": "verb",
+    "definition": "To limp; move with a limping gait."
+  },
+  "handful": {
+    "partOfSpeech": "noun",
+    "definition": "The amount that a hand will grasp or contain."
+  },
+  "handling": {
+    "partOfSpeech": "noun",
+    "definition": "A touching, controlling, managing, using, take care of, etc., with the hand or hands, or as with the hands."
+  },
+  "handy": {
+    "partOfSpeech": "adjective",
+    "definition": "Easy to use, useful."
+  },
+  "harassment": {
+    "partOfSpeech": "noun",
+    "definition": "Persistent attacks and criticism causing worry and distress."
+  },
+  "hardware": {
+    "partOfSpeech": "noun",
+    "definition": "Fixtures, equipment, tools and devices used for general-purpose construction and repair of a structure or object. Also such equipment as sold as stock by a store of the same name, e.g. hardware store."
+  },
+  "harmony": {
+    "partOfSpeech": "noun",
+    "definition": "Agreement or accord."
+  },
+  "harsh": {
+    "partOfSpeech": "verb",
+    "definition": "To negatively criticize."
+  },
+  "harvest": {
+    "partOfSpeech": "noun",
+    "definition": "The third season of the year; autumn; fall."
+  },
+  "hatred": {
+    "partOfSpeech": "noun",
+    "definition": "Strong aversion; intense dislike"
+  },
+  "haunt": {
+    "partOfSpeech": "noun",
+    "definition": "A place at which one is regularly found; a habitation or hangout."
+  },
+  "hazard": {
+    "partOfSpeech": "noun",
+    "definition": "The chance of suffering harm; danger, peril, risk of loss."
+  },
+  "heighten": {
+    "partOfSpeech": "verb",
+    "definition": "To make high; to raise higher; to elevate."
+  },
+  "heritage": {
+    "partOfSpeech": "noun",
+    "definition": "An inheritance; property that may be inherited."
+  },
+  "hierarchy": {
+    "partOfSpeech": "noun",
+    "definition": "A body of authoritative officials organized in nested ranks."
+  },
+  "hint": {
+    "partOfSpeech": "noun",
+    "definition": "A clue."
+  },
+  "homeland": {
+    "partOfSpeech": "noun",
+    "definition": "The country that one regards as home."
+  },
+  "hopeful": {
+    "partOfSpeech": "noun",
+    "definition": "Someone who is hoping for success or victory, especially as a candidate in a political election."
+  },
+  "horizon": {
+    "partOfSpeech": "noun",
+    "definition": "The visible horizontal line or point (in all directions) that appears to connect the Earth to the sky."
+  },
+  "horn": {
+    "partOfSpeech": "noun",
+    "definition": "A hard growth of keratin that protrudes from the top of the head of certain animals, usually paired."
+  },
+  "hostage": {
+    "partOfSpeech": "noun",
+    "definition": "A person given as a pledge or security for the performance of the conditions of a treaty or similar agreement, such as to ensure the status of a vassal."
+  },
+  "hostile": {
+    "partOfSpeech": "noun",
+    "definition": "(chiefly in the plural) An enemy."
+  },
+  "hostility": {
+    "partOfSpeech": "noun",
+    "definition": "The state of being hostile."
+  },
+  "humanitarian": {
+    "partOfSpeech": "noun",
+    "definition": "A scholar of one of the subjects in the humanities."
+  },
+  "humanity": {
+    "partOfSpeech": "noun",
+    "definition": "Mankind; human beings as a group."
+  },
+  "humble": {
+    "partOfSpeech": "noun",
+    "definition": "(Baltimore) An arrest based on weak evidence intended to demean or punish the subject."
+  },
+  "hydrogen": {
+    "partOfSpeech": "noun",
+    "definition": "The lightest chemical element (symbol H), with an atomic number of 1 and atomic weight of 1.00794."
+  },
+  "I": {
+    "partOfSpeech": "noun",
+    "definition": "The name of the Latin-script letter I."
+  },
+  "identification": {
+    "partOfSpeech": "noun",
+    "definition": "The act of identifying, or proving to be the same."
+  },
+  "ideological": {
+    "partOfSpeech": "adjective",
+    "definition": "Of or pertaining to an ideology."
+  },
+  "ideology": {
+    "partOfSpeech": "noun",
+    "definition": "Doctrine, philosophy, body of beliefs or principles belonging to an individual or group."
+  },
+  "idiot": {
+    "partOfSpeech": "noun",
+    "definition": "A person of low general intelligence."
+  },
+  "ignorance": {
+    "partOfSpeech": "noun",
+    "definition": "The condition of being uninformed or uneducated. Lack of knowledge or information."
+  },
+  "imagery": {
+    "partOfSpeech": "noun",
+    "definition": "The work of one who makes images or visible representation of objects."
+  },
+  "immense": {
+    "partOfSpeech": "noun",
+    "definition": "Immense extent or expanse; immensity"
+  },
+  "imminent": {
+    "partOfSpeech": "adjective",
+    "definition": "About to happen, occur, or take place very soon, especially of something which won't last long."
+  },
+  "implementation": {
+    "partOfSpeech": "noun",
+    "definition": "The process of moving an idea from concept to reality. In business, engineering and other fields, implementation refers to the building process rather than the design process."
+  },
+  "imprison": {
+    "partOfSpeech": "verb",
+    "definition": "To put in or as if in prison; confine."
+  },
+  "inability": {
+    "partOfSpeech": "noun",
+    "definition": "Lack of the ability to do something; incapability."
+  },
+  "inadequate": {
+    "partOfSpeech": "noun",
+    "definition": "An individual who is inadequate."
+  },
+  "inappropriate": {
+    "partOfSpeech": "adjective",
+    "definition": "Not appropriate; not suitable for the situation, time, or place."
+  },
+  "incarcerate": {
+    "partOfSpeech": "verb",
+    "definition": "To lock away; to imprison, especially for breaking the law."
+  }
+}
