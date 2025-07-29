@@ -1,28 +1,38 @@
 (function () {
-  if (document.getElementById('word-popup')) return;
+  chrome.runtime.onMessage.addListener((request) => {
+    if (request.action === 'showPopup') {
+      showWordPopup();
+    }
+  });
 
-  const popup = document.createElement('div');
-  popup.id = 'word-popup';
+  function showWordPopup() {
+    if (document.getElementById('word-popup')) return;
 
-  const word = document.createElement('span');
-  word.textContent = 'Loading...';
+    const popup = document.createElement('div');
+    popup.id = 'word-popup';
 
-  const definition = document.createElement('p');
-  definition.id = 'word-definition';
+    const word = document.createElement('span');
+    word.textContent = 'Loading...';
 
-  const nextBtn = document.createElement('button');
-  nextBtn.textContent = 'Next';
-  nextBtn.onclick = loadWord;
+    const definition = document.createElement('p');
+    definition.id = 'word-definition';
 
-  popup.appendChild(word);
-  popup.appendChild(definition);
-  popup.appendChild(nextBtn);
-  document.body.appendChild(popup);
+    const nextBtn = document.createElement('button');
+    nextBtn.textContent = 'Next';
+    nextBtn.onclick = () => {
+      chrome.runtime.sendMessage({ action: 'resetTimer' }, () => popup.remove());
+    };
 
-  makeDraggable(popup); 
-  loadWord();
+    popup.appendChild(word);
+    popup.appendChild(definition);
+    popup.appendChild(nextBtn);
+    document.body.appendChild(popup);
 
-  async function loadWord() {
+    makeDraggable(popup);
+    loadWord(word, definition);
+  }
+
+  async function loadWord(word, definition) {
     word.textContent = 'Loading...';
     definition.textContent = '';
 
@@ -38,8 +48,7 @@
       }
 
       const dictData = await dictResponse.json();
-      const firstMeaning = dictData[0]?.meanings[0]?.definitions[0]?.definition;
-      definition.textContent = firstMeaning || 'No definition found.';
+      definition.textContent = dictData[0]?.meanings[0]?.definitions[0]?.definition || 'No definition found.';
     } catch (err) {
       word.textContent = 'Error!';
       definition.textContent = 'Something went wrong.';
