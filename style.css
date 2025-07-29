@@ -2,22 +2,52 @@
   position: fixed;
   bottom: 20px;
   right: 20px;
-  background: #282c34;
+
+  width: 200px;
+  min-height: 160px;
+
+  background: linear-gradient(135deg, #6e8efb, #a777e3);
   color: white;
-  padding: 12px 16px;
-  border-radius: 10px;
-  font-size: 16px;
-  font-family: sans-serif;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(4px);
+  font-size: 18px;
+  font-family: 'Segoe UI', sans-serif;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
   z-index: 9999;
-  box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
+
 #word-popup button {
-  margin-left: 12px;
+  width: 100%;
   background: #61dafb;
   color: black;
   border: none;
-  padding: 6px 10px;
-  border-radius: 6px;
+  padding: 10px 0;
+  border-radius: 8px;
   cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  transition: background 0.2s ease;
 }
+
+#word-popup button:hover {
+  background: #4fc0e8;
+}
+
+#word-definition {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #eeeeee;
+  text-align: center;
+}
+
+
+
