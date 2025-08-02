@@ -1,5 +1,5 @@
 import { makeDraggable } from "./draggable.js";
-import { loadWord } from "./word_load_api.js";
+import { loadWord } from "./word_load_chunks.js";
 
 export function showWordPopup() {
   if (document.getElementById("word-popup")) return;

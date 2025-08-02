@@ -2,8 +2,8 @@
   position: fixed;
   bottom: 20px;
   right: 20px;
-  width: 200px;
-  min-height: 160px;
+  width: 280px;
+  min-height: 200px;
   background: linear-gradient(135deg, #6e8efb, #a777e3);
   color: white;
   padding: 20px;
@@ -15,15 +15,45 @@
   font-family: 'Segoe UI', sans-serif;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: flex-start;
+  align-items: stretch;
   text-align: center;
   z-index: 9999;
   cursor: grab;
+  gap: 12px;
 }
 
-#word-popup button {
-  width: 100%;
+#word-popup span {
+  font-size: 22px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+#word-definition {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.option-button {
+  background: #ffffff;
+  color: #333;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.option-button:hover {
+  background: #f0f0f0;
+}
+
+#word-popup button.next-btn {
+  margin-top: 12px;
   background: #61dafb;
   color: black;
   border: none;
@@ -35,13 +65,6 @@
   transition: background 0.2s ease;
 }
 
-#word-popup button:hover {
+#word-popup button.next-btn:hover {
   background: #4fc0e8;
-}
-
-#word-definition {
-  margin-top: 10px;
-  font-size: 14px;
-  color: #eeeeee;
-  text-align: center;
 }
