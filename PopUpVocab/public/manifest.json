@@ -4,10 +4,12 @@
   "version": "1.0",
   "description": "Shows a random English word after 15 min",
   "permissions": [
+    "scripting",
     "storage",
     "alarms"
   ],
   "host_permissions": [
+    "<all_urls>",
     "https://random-word-api.herokuapp.com/*",
     "https://api.dictionaryapi.dev/*"
   ],
@@ -16,13 +18,15 @@
     "type": "module"  
   },
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "src/action/popup.html",
+    "type": "module"  
+    
   },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
       "js": ["content.js"],
-      "css": ["style.css"]
+      "css": ["content.css"]
     }
   ]
 }

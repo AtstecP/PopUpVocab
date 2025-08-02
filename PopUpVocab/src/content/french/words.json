@@ -1,0 +1,3586 @@
+{
+  "comme": {
+    "definition": "like",
+    "partOfSpeech": "preposition"
+  },
+  "je": {
+    "definition": "I",
+    "partOfSpeech": "pronoun"
+  },
+  "son": {
+    "definition": "sound",
+    "partOfSpeech": "noun"
+  },
+  "que": {
+    "definition": "than",
+    "partOfSpeech": "conjunction"
+  },
+  "il": {
+    "definition": "it",
+    "partOfSpeech": "pronoun"
+  },
+  "était": {
+    "definition": "was",
+    "partOfSpeech": "verb (imperfect)"
+  },
+  "pour": {
+    "definition": "for",
+    "partOfSpeech": "preposition"
+  },
+  "sur": {
+    "definition": "over",
+    "partOfSpeech": "preposition"
+  },
+  "sont": {
+    "definition": "are",
+    "partOfSpeech": "verb (present)"
+  },
+  "avec": {
+    "definition": "with",
+    "partOfSpeech": "preposition"
+  },
+  "ils": {
+    "definition": "they",
+    "partOfSpeech": "pronoun"
+  },
+  "être": {
+    "definition": "be",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "à": {
+    "definition": "to",
+    "partOfSpeech": "preposition"
+  },
+  "un": {
+    "definition": "an",
+    "partOfSpeech": "indefinite article"
+  },
+  "avoir": {
+    "definition": "have",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "ce": {
+    "definition": "this",
+    "partOfSpeech": "demonstrative pronoun"
+  },
+  "à partir de": {
+    "definition": "from",
+    "partOfSpeech": "prepositional phrase"
+  },
+  "par": {
+    "definition": "through",
+    "partOfSpeech": "preposition"
+  },
+  "chaud": {
+    "definition": "warm",
+    "partOfSpeech": "adjective"
+  },
+  "mot": {
+    "definition": "word",
+    "partOfSpeech": "noun"
+  },
+  "mais": {
+    "definition": "but",
+    "partOfSpeech": "conjunction"
+  },
+  "certains": {
+    "definition": "some",
+    "partOfSpeech": "indefinite pronoun"
+  },
+  "est": {
+    "definition": "east",
+    "partOfSpeech": "noun"
+  },
+  "vous": {
+    "definition": "you",
+    "partOfSpeech": "pronoun"
+  },
+  "ou": {
+    "definition": "or",
+    "partOfSpeech": "conjunction"
+  },
+  "eu": {
+    "definition": "got",
+    "partOfSpeech": "verb (past participle)"
+  },
+  "la": {
+    "definition": "the",
+    "partOfSpeech": "definite article"
+  },
+  "de": {
+    "definition": "off",
+    "partOfSpeech": "preposition"
+  },
+  "et": {
+    "definition": "and",
+    "partOfSpeech": "conjunction"
+  },
+  "dans": {
+    "definition": "in",
+    "partOfSpeech": "preposition"
+  },
+  "nous": {
+    "definition": "us",
+    "partOfSpeech": "pronoun"
+  },
+  "boîte": {
+    "definition": "box",
+    "partOfSpeech": "noun"
+  },
+  "dehors": {
+    "definition": "out",
+    "partOfSpeech": "adverb"
+  },
+  "autre": {
+    "definition": "else",
+    "partOfSpeech": "adjective"
+  },
+  "étaient": {
+    "definition": "were",
+    "partOfSpeech": "verb (imperfect)"
+  },
+  "qui": {
+    "definition": "who",
+    "partOfSpeech": "relative pronoun"
+  },
+  "faire": {
+    "definition": "make",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "leur": {
+    "definition": "their",
+    "partOfSpeech": "possessive adjective"
+  },
+  "temps": {
+    "definition": "weather",
+    "partOfSpeech": "noun"
+  },
+  "si": {
+    "definition": "whether",
+    "partOfSpeech": "conjunction"
+  },
+  "volonté": {
+    "definition": "will",
+    "partOfSpeech": "noun"
+  },
+  "comment": {
+    "definition": "how",
+    "partOfSpeech": "adverb"
+  },
+  "dit": {
+    "definition": "told",
+    "partOfSpeech": "verb (past participle)"
+  },
+  "chaque": {
+    "definition": "either",
+    "partOfSpeech": "adjective"
+  },
+  "dire": {
+    "definition": "say",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "ne": {
+    "definition": "does",
+    "partOfSpeech": "adverb (negation)"
+  },
+  "ensemble": {
+    "definition": "whole",
+    "partOfSpeech": "noun"
+  },
+  "trois": {
+    "definition": "three",
+    "partOfSpeech": "numeral"
+  },
+  "vouloir": {
+    "definition": "want",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "air": {
+    "definition": "air",
+    "partOfSpeech": "noun"
+  },
+  "bien": {
+    "definition": "well",
+    "partOfSpeech": "adverb"
+  },
+  "aussi": {
+    "definition": "also",
+    "partOfSpeech": "adverb"
+  },
+  "jouer": {
+    "definition": "play",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "petit": {
+    "definition": "small",
+    "partOfSpeech": "adjective"
+  },
+  "fin": {
+    "definition": "fine",
+    "partOfSpeech": "adjective"
+  },
+  "mettre": {
+    "definition": "put",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "maison": {
+    "definition": "house",
+    "partOfSpeech": "noun"
+  },
+  "lire": {
+    "definition": "read",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "main": {
+    "definition": "hand",
+    "partOfSpeech": "noun"
+  },
+  "port": {
+    "definition": "port",
+    "partOfSpeech": "noun"
+  },
+  "grand": {
+    "definition": "great",
+    "partOfSpeech": "adjective"
+  },
+  "épeler": {
+    "definition": "spell",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "ajouter": {
+    "definition": "add",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "même": {
+    "definition": "same",
+    "partOfSpeech": "adjective"
+  },
+  "terre": {
+    "definition": "earth",
+    "partOfSpeech": "noun"
+  },
+  "ici": {
+    "definition": "here",
+    "partOfSpeech": "adverb"
+  },
+  "il faut": {
+    "definition": "must",
+    "partOfSpeech": "verb phrase"
+  },
+  "haut": {
+    "definition": "tall",
+    "partOfSpeech": "adjective"
+  },
+  "tel": {
+    "definition": "such",
+    "partOfSpeech": "adjective"
+  },
+  "suivre": {
+    "definition": "follow",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "acte": {
+    "definition": "act",
+    "partOfSpeech": "noun"
+  },
+  "pourquoi": {
+    "definition": "why",
+    "partOfSpeech": "adverb"
+  },
+  "interroger": {
+    "definition": "ask",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "hommes": {
+    "definition": "men",
+    "partOfSpeech": "noun"
+  },
+  "changement": {
+    "definition": "change",
+    "partOfSpeech": "noun"
+  },
+  "est allé": {
+    "definition": "went",
+    "partOfSpeech": "verb phrase"
+  },
+  "lumière": {
+    "definition": "light",
+    "partOfSpeech": "noun"
+  },
+  "genre": {
+    "definition": "kind",
+    "partOfSpeech": "noun"
+  },
+  "besoin": {
+    "definition": "need",
+    "partOfSpeech": "noun"
+  },
+  "image": {
+    "definition": "picture",
+    "partOfSpeech": "noun"
+  },
+  "essayer": {
+    "definition": "try",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "encore": {
+    "definition": "yet",
+    "partOfSpeech": "adverb"
+  },
+  "animal": {
+    "definition": "animal",
+    "partOfSpeech": "noun"
+  },
+  "point": {
+    "definition": "point",
+    "partOfSpeech": "noun"
+  },
+  "mère": {
+    "definition": "parent",
+    "partOfSpeech": "noun"
+  },
+  "monde": {
+    "definition": "world",
+    "partOfSpeech": "noun"
+  },
+  "près de": {
+    "definition": "near",
+    "partOfSpeech": "prepositional phrase"
+  },
+  "construire": {
+    "definition": "build",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "soi": {
+    "definition": "self",
+    "partOfSpeech": "pronoun"
+  },
+  "père": {
+    "definition": "father",
+    "partOfSpeech": "noun"
+  },
+  "tout": {
+    "definition": "any",
+    "partOfSpeech": "adjective"
+  },
+  "nouveau": {
+    "definition": "new",
+    "partOfSpeech": "adjective"
+  },
+  "travail": {
+    "definition": "work",
+    "partOfSpeech": "noun"
+  },
+  "partie": {
+    "definition": "party",
+    "partOfSpeech": "noun"
+  },
+  "prendre": {
+    "definition": "take",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "obtenir": {
+    "definition": "get",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "lieu": {
+    "definition": "place",
+    "partOfSpeech": "noun"
+  },
+  "fabriqué": {
+    "definition": "made",
+    "partOfSpeech": "verb (past participle)"
+  },
+  "vivre": {
+    "definition": "live",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "où": {
+    "definition": "where",
+    "partOfSpeech": "adverb"
+  },
+  "après": {
+    "definition": "after",
+    "partOfSpeech": "preposition"
+  },
+  "arrière": {
+    "definition": "back",
+    "partOfSpeech": "noun/adverb"
+  },
+  "peu": {
+    "definition": "bit",
+    "partOfSpeech": "noun"
+  },
+  "seulement": {
+    "definition": "only",
+    "partOfSpeech": "adverb"
+  },
+  "tour": {
+    "definition": "ride",
+    "partOfSpeech": "noun"
+  },
+  "homme": {
+    "definition": "man",
+    "partOfSpeech": "noun"
+  },
+  "année": {
+    "definition": "year",
+    "partOfSpeech": "noun"
+  },
+  "est venu": {
+    "definition": "came",
+    "partOfSpeech": "verb phrase"
+  },
+  "montrer": {
+    "definition": "show",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "tous": {
+    "definition": "all",
+    "partOfSpeech": "adjective"
+  },
+  "bon": {
+    "definition": "good",
+    "partOfSpeech": "adjective"
+  },
+  "moi": {
+    "definition": "me",
+    "partOfSpeech": "pronoun"
+  },
+  "donner": {
+    "definition": "give",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "notre": {
+    "definition": "our",
+    "partOfSpeech": "possessive adjective"
+  },
+  "sous": {
+    "definition": "under",
+    "partOfSpeech": "preposition"
+  },
+  "nom": {
+    "definition": "noun",
+    "partOfSpeech": "noun"
+  },
+  "très": {
+    "definition": "very",
+    "partOfSpeech": "adverb"
+  },
+  "juste": {
+    "definition": "fair",
+    "partOfSpeech": "adjective"
+  },
+  "forme": {
+    "definition": "shape",
+    "partOfSpeech": "noun"
+  },
+  "phrase": {
+    "definition": "phrase",
+    "partOfSpeech": "noun"
+  },
+  "penser": {
+    "definition": "think",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "aider": {
+    "definition": "help",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "faible": {
+    "definition": "low",
+    "partOfSpeech": "adjective"
+  },
+  "ligne": {
+    "definition": "line",
+    "partOfSpeech": "noun"
+  },
+  "différer": {
+    "definition": "differ",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "la cause": {
+    "definition": "cause",
+    "partOfSpeech": "noun phrase"
+  },
+  "beaucoup": {
+    "definition": "many",
+    "partOfSpeech": "adjective"
+  },
+  "signifier": {
+    "definition": "mean",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "avant": {
+    "definition": "forward",
+    "partOfSpeech": "adverb"
+  },
+  "déménagement": {
+    "definition": "move",
+    "partOfSpeech": "noun"
+  },
+  "droit": {
+    "definition": "law",
+    "partOfSpeech": "noun"
+  },
+  "garçon": {
+    "definition": "boy",
+    "partOfSpeech": "noun"
+  },
+  "vieux": {
+    "definition": "old",
+    "partOfSpeech": "adjective"
+  },
+  "trop": {
+    "definition": "too",
+    "partOfSpeech": "adverb"
+  },
+  "elle": {
+    "definition": "she",
+    "partOfSpeech": "pronoun"
+  },
+  "là": {
+    "definition": "there",
+    "partOfSpeech": "adverb"
+  },
+  "quand": {
+    "definition": "when",
+    "partOfSpeech": "adverb/conjunction"
+  },
+  "jusqu'à": {
+    "definition": "up",
+    "partOfSpeech": "prepositional phrase"
+  },
+  "utiliser": {
+    "definition": "use",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "votre": {
+    "definition": "your",
+    "partOfSpeech": "possessive adjective"
+  },
+  "manière": {
+    "definition": "way",
+    "partOfSpeech": "noun"
+  },
+  "puis": {
+    "definition": "then",
+    "partOfSpeech": "adverb"
+  },
+  "les": {
+    "definition": "them",
+    "partOfSpeech": "pronoun"
+  },
+  "écrire": {
+    "definition": "write",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "voudrais": {
+    "definition": "would",
+    "partOfSpeech": "verb (conditional)"
+  },
+  "ces": {
+    "definition": "these",
+    "partOfSpeech": "demonstrative adjective"
+  },
+  "long": {
+    "definition": "long",
+    "partOfSpeech": "adjective"
+  },
+  "chose": {
+    "definition": "thing",
+    "partOfSpeech": "noun"
+  },
+  "voir": {
+    "definition": "see",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "lui": {
+    "definition": "him",
+    "partOfSpeech": "pronoun"
+  },
+  "deux": {
+    "definition": "two",
+    "partOfSpeech": "numeral"
+  },
+  "a": {
+    "definition": "has",
+    "partOfSpeech": "verb (present)"
+  },
+  "regarder": {
+    "definition": "watch",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "plus": {
+    "definition": "most",
+    "partOfSpeech": "adverb"
+  },
+  "jour": {
+    "definition": "day",
+    "partOfSpeech": "noun"
+  },
+  "pourrait": {
+    "definition": "could",
+    "partOfSpeech": "verb (conditional)"
+  },
+  "aller": {
+    "definition": "go",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "venir": {
+    "definition": "come",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "fait": {
+    "definition": "fact",
+    "partOfSpeech": "noun"
+  },
+  "nombre": {
+    "definition": "number",
+    "partOfSpeech": "noun"
+  },
+  "aucun": {
+    "definition": "no",
+    "partOfSpeech": "adjective"
+  },
+  "personnes": {
+    "definition": "people",
+    "partOfSpeech": "noun"
+  },
+  "ma": {
+    "definition": "my",
+    "partOfSpeech": "possessive adjective"
+  },
+  "savoir": {
+    "definition": "know",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "eau": {
+    "definition": "water",
+    "partOfSpeech": "noun"
+  },
+  "appel": {
+    "definition": "call",
+    "partOfSpeech": "noun"
+  },
+  "première": {
+    "definition": "first",
+    "partOfSpeech": "adjective"
+  },
+  "peut": {
+    "definition": "may",
+    "partOfSpeech": "verb (present)"
+  },
+  "vers le bas": {
+    "definition": "down",
+    "partOfSpeech": "prepositional phrase"
+  },
+  "côté": {
+    "definition": "side",
+    "partOfSpeech": "noun"
+  },
+  "été": {
+    "definition": "summer",
+    "partOfSpeech": "noun"
+  },
+  "maintenant": {
+    "definition": "now",
+    "partOfSpeech": "adverb"
+  },
+  "trouver": {
+    "definition": "find",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "tête": {
+    "definition": "head",
+    "partOfSpeech": "noun"
+  },
+  "supporter": {
+    "definition": "stand",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "propre": {
+    "definition": "proper",
+    "partOfSpeech": "adjective"
+  },
+  "page": {
+    "definition": "page",
+    "partOfSpeech": "noun"
+  },
+  "devrait": {
+    "definition": "should",
+    "partOfSpeech": "verb (conditional)"
+  },
+  "pays": {
+    "definition": "country",
+    "partOfSpeech": "noun"
+  },
+  "trouvé": {
+    "definition": "found",
+    "partOfSpeech": "verb (past participle)"
+  },
+  "réponse": {
+    "definition": "answer",
+    "partOfSpeech": "noun"
+  },
+  "école": {
+    "definition": "school",
+    "partOfSpeech": "noun"
+  },
+  "croître": {
+    "definition": "grow",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "étude": {
+    "definition": "study",
+    "partOfSpeech": "noun"
+  },
+  "apprendre": {
+    "definition": "learn",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "usine": {
+    "definition": "plant",
+    "partOfSpeech": "noun"
+  },
+  "couvercle": {
+    "definition": "cover",
+    "partOfSpeech": "noun"
+  },
+  "nourriture": {
+    "definition": "food",
+    "partOfSpeech": "noun"
+  },
+  "soleil": {
+    "definition": "sun",
+    "partOfSpeech": "noun"
+  },
+  "quatre": {
+    "definition": "four",
+    "partOfSpeech": "numeral"
+  },
+  "entre": {
+    "definition": "among",
+    "partOfSpeech": "preposition"
+  },
+  "état": {
+    "definition": "state",
+    "partOfSpeech": "noun"
+  },
+  "garder": {
+    "definition": "keep",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "œil": {
+    "definition": "eye",
+    "partOfSpeech": "noun"
+  },
+  "jamais": {
+    "definition": "ever",
+    "partOfSpeech": "adverb"
+  },
+  "dernier": {
+    "definition": "last",
+    "partOfSpeech": "adjective"
+  },
+  "laisser": {
+    "definition": "leave",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "pensée": {
+    "definition": "thought",
+    "partOfSpeech": "noun"
+  },
+  "ville": {
+    "definition": "town",
+    "partOfSpeech": "noun"
+  },
+  "arbre": {
+    "definition": "tree",
+    "partOfSpeech": "noun"
+  },
+  "traverser": {
+    "definition": "cross",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "ferme": {
+    "definition": "farm",
+    "partOfSpeech": "noun"
+  },
+  "dur": {
+    "definition": "hard",
+    "partOfSpeech": "adjective"
+  },
+  "début": {
+    "definition": "start",
+    "partOfSpeech": "noun"
+  },
+  "puissance": {
+    "definition": "power",
+    "partOfSpeech": "noun"
+  },
+  "histoire": {
+    "definition": "history",
+    "partOfSpeech": "noun"
+  },
+  "scie": {
+    "definition": "saw",
+    "partOfSpeech": "noun/verb"
+  },
+  "loin": {
+    "definition": "far",
+    "partOfSpeech": "adverb"
+  },
+  "mer": {
+    "definition": "sea",
+    "partOfSpeech": "noun"
+  },
+  "tirer": {
+    "definition": "pull",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "gauche": {
+    "definition": "left",
+    "partOfSpeech": "adjective/noun"
+  },
+  "tard": {
+    "definition": "late",
+    "partOfSpeech": "adverb"
+  },
+  "courir": {
+    "definition": "run",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "needs a context": {
+    "definition": "don't",
+    "partOfSpeech": "verb phrase"
+  },
+  "tandis que": {
+    "definition": "while",
+    "partOfSpeech": "conjunction"
+  },
+  "presse": {
+    "definition": "press",
+    "partOfSpeech": "noun/verb"
+  },
+  "proche": {
+    "definition": "close",
+    "partOfSpeech": "adjective/adverb"
+  },
+  "nuit": {
+    "definition": "night",
+    "partOfSpeech": "noun"
+  },
+  "réel": {
+    "definition": "real",
+    "partOfSpeech": "adjective"
+  },
+  "vie": {
+    "definition": "life",
+    "partOfSpeech": "noun"
+  },
+  "nord": {
+    "definition": "north",
+    "partOfSpeech": "noun"
+  },
+  "livre": {
+    "definition": "pound",
+    "partOfSpeech": "noun"
+  },
+  "porter": {
+    "definition": "wear",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "a pris": {
+    "definition": "took",
+    "partOfSpeech": "verb phrase"
+  },
+  "science": {
+    "definition": "science",
+    "partOfSpeech": "noun"
+  },
+  "manger": {
+    "definition": "eat",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "chambre": {
+    "definition": "room",
+    "partOfSpeech": "noun"
+  },
+  "ami": {
+    "definition": "friend",
+    "partOfSpeech": "noun"
+  },
+  "a commencé": {
+    "definition": "began",
+    "partOfSpeech": "verb phrase"
+  },
+  "idée": {
+    "definition": "idea",
+    "partOfSpeech": "noun"
+  },
+  "poisson": {
+    "definition": "fish",
+    "partOfSpeech": "noun"
+  },
+  "montagne": {
+    "definition": "mountain",
+    "partOfSpeech": "noun"
+  },
+  "Arrêtez": {
+    "definition": "stop",
+    "partOfSpeech": "verb (imperative)"
+  },
+  "une fois": {
+    "definition": "once",
+    "partOfSpeech": "adverbial phrase"
+  },
+  "base": {
+    "definition": "base",
+    "partOfSpeech": "noun"
+  },
+  "entendre": {
+    "definition": "hear",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "cheval": {
+    "definition": "horse",
+    "partOfSpeech": "noun"
+  },
+  "coupe": {
+    "definition": "cut",
+    "partOfSpeech": "noun/verb"
+  },
+  "sûr": {
+    "definition": "sure",
+    "partOfSpeech": "adjective"
+  },
+  "couleur": {
+    "definition": "color",
+    "partOfSpeech": "noun"
+  },
+  "face": {
+    "definition": "face",
+    "partOfSpeech": "noun"
+  },
+  "bois": {
+    "definition": "wood",
+    "partOfSpeech": "noun"
+  },
+  "principal": {
+    "definition": "main",
+    "partOfSpeech": "adjective"
+  },
+  "ouvert": {
+    "definition": "open",
+    "partOfSpeech": "adjective/verb"
+  },
+  "paraître": {
+    "definition": "seem",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "suivant": {
+    "definition": "next",
+    "partOfSpeech": "adjective"
+  },
+  "blanc": {
+    "definition": "white",
+    "partOfSpeech": "adjective"
+  },
+  "enfants": {
+    "definition": "children",
+    "partOfSpeech": "noun"
+  },
+  "commencer": {
+    "definition": "begin",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "marcher": {
+    "definition": "walk",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "exemple": {
+    "definition": "example",
+    "partOfSpeech": "noun"
+  },
+  "facilité": {
+    "definition": "ease",
+    "partOfSpeech": "noun"
+  },
+  "papier": {
+    "definition": "paper",
+    "partOfSpeech": "noun"
+  },
+  "groupe": {
+    "definition": "group",
+    "partOfSpeech": "noun"
+  },
+  "toujours": {
+    "definition": "always",
+    "partOfSpeech": "adverb"
+  },
+  "musique": {
+    "definition": "music",
+    "partOfSpeech": "noun"
+  },
+  "ceux": {
+    "definition": "those",
+    "partOfSpeech": "demonstrative pronoun"
+  },
+  "tous les deux": {
+    "definition": "both",
+    "partOfSpeech": "adjective phrase"
+  },
+  "marque": {
+    "definition": "mark",
+    "partOfSpeech": "noun/verb"
+  },
+  "souvent": {
+    "definition": "often",
+    "partOfSpeech": "adverb"
+  },
+  "lettre": {
+    "definition": "letter",
+    "partOfSpeech": "noun"
+  },
+  "jusqu'à ce que": {
+    "definition": "until",
+    "partOfSpeech": "conjunction"
+  },
+  "mile": {
+    "definition": "mile",
+    "partOfSpeech": "noun"
+  },
+  "rivière": {
+    "definition": "river",
+    "partOfSpeech": "noun"
+  },
+  "voiture": {
+    "definition": "car",
+    "partOfSpeech": "noun"
+  },
+  "pieds": {
+    "definition": "feet",
+    "partOfSpeech": "noun"
+  },
+  "soins": {
+    "definition": "care",
+    "partOfSpeech": "noun"
+  },
+  "deuxième": {
+    "definition": "second",
+    "partOfSpeech": "adjective"
+  },
+  "assez": {
+    "definition": "pretty",
+    "partOfSpeech": "adverb"
+  },
+  "plaine": {
+    "definition": "plain",
+    "partOfSpeech": "noun"
+  },
+  "fille": {
+    "definition": "girl",
+    "partOfSpeech": "noun"
+  },
+  "habituel": {
+    "definition": "usual",
+    "partOfSpeech": "adjective"
+  },
+  "jeune": {
+    "definition": "young",
+    "partOfSpeech": "adjective"
+  },
+  "prêt": {
+    "definition": "ready",
+    "partOfSpeech": "adjective"
+  },
+  "au-dessus": {
+    "definition": "above",
+    "partOfSpeech": "prepositional phrase"
+  },
+  "rouge": {
+    "definition": "red",
+    "partOfSpeech": "adjective"
+  },
+  "liste": {
+    "definition": "list",
+    "partOfSpeech": "noun"
+  },
+  "bien que": {
+    "definition": "though",
+    "partOfSpeech": "conjunction"
+  },
+  "sentir": {
+    "definition": "feel",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "parler": {
+    "definition": "speak",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "oiseau": {
+    "definition": "bird",
+    "partOfSpeech": "noun"
+  },
+  "bientôt": {
+    "definition": "soon",
+    "partOfSpeech": "adverb"
+  },
+  "corps": {
+    "definition": "body",
+    "partOfSpeech": "noun"
+  },
+  "chien": {
+    "definition": "dog",
+    "partOfSpeech": "noun"
+  },
+  "famille": {
+    "definition": "family",
+    "partOfSpeech": "noun"
+  },
+  "direct": {
+    "definition": "direct",
+    "partOfSpeech": "adjective"
+  },
+  "pose": {
+    "definition": "pose",
+    "partOfSpeech": "noun/verb"
+  },
+  "chanson": {
+    "definition": "song",
+    "partOfSpeech": "noun"
+  },
+  "mesurer": {
+    "definition": "measure",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "porte": {
+    "definition": "door",
+    "partOfSpeech": "noun"
+  },
+  "produit": {
+    "definition": "product",
+    "partOfSpeech": "noun"
+  },
+  "noir": {
+    "definition": "black",
+    "partOfSpeech": "adjective"
+  },
+  "court": {
+    "definition": "short",
+    "partOfSpeech": "adjective"
+  },
+  "chiffre": {
+    "definition": "numeral",
+    "partOfSpeech": "noun"
+  },
+  "classe": {
+    "definition": "class",
+    "partOfSpeech": "noun"
+  },
+  "vent": {
+    "definition": "wind",
+    "partOfSpeech": "noun"
+  },
+  "question": {
+    "definition": "matter",
+    "partOfSpeech": "noun"
+  },
+  "arriver": {
+    "definition": "arrive",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "complète": {
+    "definition": "complete",
+    "partOfSpeech": "adjective"
+  },
+  "navire": {
+    "definition": "ship",
+    "partOfSpeech": "noun"
+  },
+  "zone": {
+    "definition": "area",
+    "partOfSpeech": "noun"
+  },
+  "moitié": {
+    "definition": "half",
+    "partOfSpeech": "noun"
+  },
+  "rock": {
+    "definition": "rock",
+    "partOfSpeech": "noun"
+  },
+  "ordre": {
+    "definition": "order",
+    "partOfSpeech": "noun"
+  },
+  "feu": {
+    "definition": "fire",
+    "partOfSpeech": "noun"
+  },
+  "sud": {
+    "definition": "south",
+    "partOfSpeech": "noun"
+  },
+  "problème": {
+    "definition": "problem",
+    "partOfSpeech": "noun"
+  },
+  "pièce": {
+    "definition": "piece",
+    "partOfSpeech": "noun"
+  },
+  "savait": {
+    "definition": "knew",
+    "partOfSpeech": "verb (imperfect)"
+  },
+  "passer": {
+    "definition": "spend",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "depuis": {
+    "definition": "since",
+    "partOfSpeech": "preposition"
+  },
+  "roi": {
+    "definition": "king",
+    "partOfSpeech": "noun"
+  },
+  "rue": {
+    "definition": "street",
+    "partOfSpeech": "noun"
+  },
+  "pouce": {
+    "definition": "inch",
+    "partOfSpeech": "noun"
+  },
+  "multiplier": {
+    "definition": "multiply",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "rien": {
+    "definition": "nothing",
+    "partOfSpeech": "pronoun"
+  },
+  "cours": {
+    "definition": "course",
+    "partOfSpeech": "noun"
+  },
+  "rester": {
+    "definition": "stay",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "roue": {
+    "definition": "wheel",
+    "partOfSpeech": "noun"
+  },
+  "plein": {
+    "definition": "full",
+    "partOfSpeech": "adjective"
+  },
+  "force": {
+    "definition": "force",
+    "partOfSpeech": "noun"
+  },
+  "bleu": {
+    "definition": "blue",
+    "partOfSpeech": "adjective"
+  },
+  "objet": {
+    "definition": "object",
+    "partOfSpeech": "noun"
+  },
+  "décider": {
+    "definition": "decide",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "surface": {
+    "definition": "surface",
+    "partOfSpeech": "noun"
+  },
+  "profond": {
+    "definition": "deep",
+    "partOfSpeech": "adjective"
+  },
+  "lune": {
+    "definition": "moon",
+    "partOfSpeech": "noun"
+  },
+  "île": {
+    "definition": "island",
+    "partOfSpeech": "noun"
+  },
+  "pied": {
+    "definition": "foot",
+    "partOfSpeech": "noun"
+  },
+  "système": {
+    "definition": "system",
+    "partOfSpeech": "noun"
+  },
+  "occupé": {
+    "definition": "busy",
+    "partOfSpeech": "adjective"
+  },
+  "test": {
+    "definition": "test",
+    "partOfSpeech": "noun/verb"
+  },
+  "record": {
+    "definition": "record",
+    "partOfSpeech": "noun"
+  },
+  "bateau": {
+    "definition": "boat",
+    "partOfSpeech": "noun"
+  },
+  "commun": {
+    "definition": "common",
+    "partOfSpeech": "adjective"
+  },
+  "or": {
+    "definition": "gold",
+    "partOfSpeech": "noun"
+  },
+  "possible": {
+    "definition": "possible",
+    "partOfSpeech": "adjective"
+  },
+  "plan": {
+    "definition": "plan",
+    "partOfSpeech": "noun"
+  },
+  "place": {
+    "definition": "spot",
+    "partOfSpeech": "noun"
+  },
+  "sec": {
+    "definition": "dry",
+    "partOfSpeech": "adjective"
+  },
+  "se demander": {
+    "definition": "wonder",
+    "partOfSpeech": "verb phrase"
+  },
+  "rire": {
+    "definition": "laugh",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "mille": {
+    "definition": "thousand",
+    "partOfSpeech": "numeral"
+  },
+  "il ya": {
+    "definition": "ago",
+    "partOfSpeech": "adverbial phrase"
+  },
+  "ran": {
+    "definition": "ran",
+    "partOfSpeech": "verb (past)"
+  },
+  "vérifier": {
+    "definition": "check",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "jeu": {
+    "definition": "game",
+    "partOfSpeech": "noun"
+  },
+  "assimiler": {
+    "definition": "equate",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "manquer": {
+    "definition": "miss",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "apporté": {
+    "definition": "brought",
+    "partOfSpeech": "verb (past participle)"
+  },
+  "chaleur": {
+    "definition": "heat",
+    "partOfSpeech": "noun"
+  },
+  "neige": {
+    "definition": "snow",
+    "partOfSpeech": "noun"
+  },
+  "pneu": {
+    "definition": "tire",
+    "partOfSpeech": "noun"
+  },
+  "apporter": {
+    "definition": "bring",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "oui": {
+    "definition": "yes",
+    "partOfSpeech": "adverb"
+  },
+  "lointain": {
+    "definition": "distant",
+    "partOfSpeech": "adjective"
+  },
+  "remplir": {
+    "definition": "fill",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "peindre": {
+    "definition": "paint",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "langue": {
+    "definition": "language",
+    "partOfSpeech": "noun"
+  },
+  "unité": {
+    "definition": "unit",
+    "partOfSpeech": "noun"
+  },
+  "certain": {
+    "definition": "certain",
+    "partOfSpeech": "adjective"
+  },
+  "voler": {
+    "definition": "fly",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "tomber": {
+    "definition": "drop",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "conduire": {
+    "definition": "lead",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "cri": {
+    "definition": "shout",
+    "partOfSpeech": "noun/verb"
+  },
+  "sombre": {
+    "definition": "dark",
+    "partOfSpeech": "adjective"
+  },
+  "machine": {
+    "definition": "machine",
+    "partOfSpeech": "noun"
+  },
+  "Note": {
+    "definition": "note",
+    "partOfSpeech": "noun"
+  },
+  "patienter": {
+    "definition": "wait",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "figure": {
+    "definition": "figure",
+    "partOfSpeech": "noun"
+  },
+  "étoile": {
+    "definition": "star",
+    "partOfSpeech": "noun"
+  },
+  "domaine": {
+    "definition": "field",
+    "partOfSpeech": "noun"
+  },
+  "reste": {
+    "definition": "rest",
+    "partOfSpeech": "noun"
+  },
+  "correct": {
+    "definition": "correct",
+    "partOfSpeech": "adjective"
+  },
+  "capable": {
+    "definition": "able",
+    "partOfSpeech": "adjective"
+  },
+  "Terminé": {
+    "definition": "done",
+    "partOfSpeech": "adjective"
+  },
+  "beauté": {
+    "definition": "beauty",
+    "partOfSpeech": "noun"
+  },
+  "entraînement": {
+    "definition": "drive",
+    "partOfSpeech": "noun"
+  },
+  "résisté": {
+    "definition": "stood",
+    "partOfSpeech": "verb (past participle)"
+  },
+  "contenir": {
+    "definition": "contain",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "enseigner": {
+    "definition": "teach",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "semaine": {
+    "definition": "week",
+    "partOfSpeech": "noun"
+  },
+  "finale": {
+    "definition": "final",
+    "partOfSpeech": "adjective"
+  },
+  "donné": {
+    "definition": "gave",
+    "partOfSpeech": "verb (past participle)"
+  },
+  "vert": {
+    "definition": "green",
+    "partOfSpeech": "adjective"
+  },
+  "oh": {
+    "definition": "oh",
+    "partOfSpeech": "interjection"
+  },
+  "rapide": {
+    "definition": "fast",
+    "partOfSpeech": "adjective"
+  },
+  "développer": {
+    "definition": "develop",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "océan": {
+    "definition": "ocean",
+    "partOfSpeech": "noun"
+  },
+  "gratuit": {
+    "definition": "free",
+    "partOfSpeech": "adjective"
+  },
+  "minute": {
+    "definition": "minute",
+    "partOfSpeech": "noun"
+  },
+  "fort": {
+    "definition": "loud",
+    "partOfSpeech": "adjective"
+  },
+  "spécial": {
+    "definition": "special",
+    "partOfSpeech": "adjective"
+  },
+  "esprit": {
+    "definition": "mind",
+    "partOfSpeech": "noun"
+  },
+  "derrière": {
+    "definition": "behind",
+    "partOfSpeech": "preposition"
+  },
+  "clair": {
+    "definition": "bright",
+    "partOfSpeech": "adjective"
+  },
+  "queue": {
+    "definition": "tail",
+    "partOfSpeech": "noun"
+  },
+  "produire": {
+    "definition": "produce",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "espace": {
+    "definition": "space",
+    "partOfSpeech": "noun"
+  },
+  "entendu": {
+    "definition": "heard",
+    "partOfSpeech": "verb (past participle)"
+  },
+  "meilleur": {
+    "definition": "best",
+    "partOfSpeech": "adjective"
+  },
+  "heure": {
+    "definition": "hour",
+    "partOfSpeech": "noun"
+  },
+  "mieux": {
+    "definition": "better",
+    "partOfSpeech": "adverb"
+  },
+  "vrai": {
+    "definition": "true",
+    "partOfSpeech": "adjective"
+  },
+  "pendant": {
+    "definition": "during",
+    "partOfSpeech": "preposition"
+  },
+  "cent": {
+    "definition": "cent",
+    "partOfSpeech": "noun"
+  },
+  "cinq": {
+    "definition": "five",
+    "partOfSpeech": "numeral"
+  },
+  "rappeler": {
+    "definition": "remember",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "étape": {
+    "definition": "step",
+    "partOfSpeech": "noun"
+  },
+  "tôt": {
+    "definition": "early",
+    "partOfSpeech": "adverb"
+  },
+  "tenir": {
+    "definition": "hold",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "ouest": {
+    "definition": "west",
+    "partOfSpeech": "noun"
+  },
+  "sol": {
+    "definition": "soil",
+    "partOfSpeech": "noun"
+  },
+  "intérêt": {
+    "definition": "interest",
+    "partOfSpeech": "noun"
+  },
+  "atteindre": {
+    "definition": "reach",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "verbe": {
+    "definition": "verb",
+    "partOfSpeech": "noun"
+  },
+  "chanter": {
+    "definition": "sing",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "écouter": {
+    "definition": "listen",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "six": {
+    "definition": "six",
+    "partOfSpeech": "numeral"
+  },
+  "table": {
+    "definition": "table",
+    "partOfSpeech": "noun"
+  },
+  "Voyage": {
+    "definition": "travel",
+    "partOfSpeech": "noun/verb"
+  },
+  "moins": {
+    "definition": "least",
+    "partOfSpeech": "adverb"
+  },
+  "matin": {
+    "definition": "morning",
+    "partOfSpeech": "noun"
+  },
+  "dix": {
+    "definition": "ten",
+    "partOfSpeech": "numeral"
+  },
+  "simple": {
+    "definition": "simple",
+    "partOfSpeech": "adjective"
+  },
+  "plusieurs": {
+    "definition": "several",
+    "partOfSpeech": "adjective"
+  },
+  "voyelle": {
+    "definition": "vowel",
+    "partOfSpeech": "noun"
+  },
+  "vers": {
+    "definition": "toward",
+    "partOfSpeech": "preposition"
+  },
+  "guerre": {
+    "definition": "war",
+    "partOfSpeech": "noun"
+  },
+  "poser": {
+    "definition": "lay",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "contre": {
+    "definition": "against",
+    "partOfSpeech": "preposition"
+  },
+  "modèle": {
+    "definition": "pattern",
+    "partOfSpeech": "noun"
+  },
+  "lent": {
+    "definition": "slow",
+    "partOfSpeech": "adjective"
+  },
+  "centre": {
+    "definition": "center",
+    "partOfSpeech": "noun"
+  },
+  "amour": {
+    "definition": "love",
+    "partOfSpeech": "noun"
+  },
+  "personne": {
+    "definition": "person",
+    "partOfSpeech": "noun"
+  },
+  "argent": {
+    "definition": "silver",
+    "partOfSpeech": "noun"
+  },
+  "servir": {
+    "definition": "serve",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "apparaître": {
+    "definition": "appear",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "route": {
+    "definition": "road",
+    "partOfSpeech": "noun"
+  },
+  "carte": {
+    "definition": "card",
+    "partOfSpeech": "noun"
+  },
+  "pluie": {
+    "definition": "rain",
+    "partOfSpeech": "noun"
+  },
+  "règle": {
+    "definition": "rule",
+    "partOfSpeech": "noun"
+  },
+  "gouverner": {
+    "definition": "govern",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "froid": {
+    "definition": "cold",
+    "partOfSpeech": "adjective"
+  },
+  "avis": {
+    "definition": "notice",
+    "partOfSpeech": "noun"
+  },
+  "voix": {
+    "definition": "voice",
+    "partOfSpeech": "noun"
+  },
+  "énergie": {
+    "definition": "energy",
+    "partOfSpeech": "noun"
+  },
+  "chasse": {
+    "definition": "hunt",
+    "partOfSpeech": "noun/verb"
+  },
+  "probable": {
+    "definition": "probable",
+    "partOfSpeech": "adjective"
+  },
+  "lit": {
+    "definition": "bed",
+    "partOfSpeech": "noun"
+  },
+  "frère": {
+    "definition": "brother",
+    "partOfSpeech": "noun"
+  },
+  "œuf": {
+    "definition": "egg",
+    "partOfSpeech": "noun"
+  },
+  "cellule": {
+    "definition": "cell",
+    "partOfSpeech": "noun"
+  },
+  "croire": {
+    "definition": "believe",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "peut-être": {
+    "definition": "perhaps",
+    "partOfSpeech": "adverb"
+  },
+  "choisir": {
+    "definition": "choose",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "soudain": {
+    "definition": "sudden",
+    "partOfSpeech": "adjective"
+  },
+  "compter": {
+    "definition": "count",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "carré": {
+    "definition": "square",
+    "partOfSpeech": "noun/adjective"
+  },
+  "raison": {
+    "definition": "reason",
+    "partOfSpeech": "noun"
+  },
+  "longueur": {
+    "definition": "length",
+    "partOfSpeech": "noun"
+  },
+  "représenter": {
+    "definition": "represent",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "art": {
+    "definition": "art",
+    "partOfSpeech": "noun"
+  },
+  "sujet": {
+    "definition": "subject",
+    "partOfSpeech": "noun"
+  },
+  "région": {
+    "definition": "region",
+    "partOfSpeech": "noun"
+  },
+  "taille": {
+    "definition": "size",
+    "partOfSpeech": "noun"
+  },
+  "varier": {
+    "definition": "vary",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "régler": {
+    "definition": "settle",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "poids": {
+    "definition": "weight",
+    "partOfSpeech": "noun"
+  },
+  "général": {
+    "definition": "general",
+    "partOfSpeech": "adjective"
+  },
+  "glace": {
+    "definition": "ice",
+    "partOfSpeech": "noun"
+  },
+  "cercle": {
+    "definition": "circle",
+    "partOfSpeech": "noun"
+  },
+  "paire": {
+    "definition": "pair",
+    "partOfSpeech": "noun"
+  },
+  "inclure": {
+    "definition": "include",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "fracture": {
+    "definition": "divide",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "syllabe": {
+    "definition": "syllable",
+    "partOfSpeech": "noun"
+  },
+  "feutre": {
+    "definition": "felt",
+    "partOfSpeech": "verb (past participle)"
+  },
+  "grandiose": {
+    "definition": "grand",
+    "partOfSpeech": "adjective"
+  },
+  "balle": {
+    "definition": "ball",
+    "partOfSpeech": "noun"
+  },
+  "vague": {
+    "definition": "wave",
+    "partOfSpeech": "noun"
+  },
+  "cœur": {
+    "definition": "heart",
+    "partOfSpeech": "noun"
+  },
+  "h": {
+    "definition": "am",
+    "partOfSpeech": "verb (present)"
+  },
+  "présent": {
+    "definition": "present",
+    "partOfSpeech": "adjective"
+  },
+  "lourd": {
+    "definition": "heavy",
+    "partOfSpeech": "adjective"
+  },
+  "danse": {
+    "definition": "dance",
+    "partOfSpeech": "noun/verb"
+  },
+  "moteur": {
+    "definition": "engine",
+    "partOfSpeech": "noun"
+  },
+  "position": {
+    "definition": "position",
+    "partOfSpeech": "noun"
+  },
+  "bras": {
+    "definition": "arm",
+    "partOfSpeech": "noun"
+  },
+  "large": {
+    "definition": "broad",
+    "partOfSpeech": "adjective"
+  },
+  "voile": {
+    "definition": "sail",
+    "partOfSpeech": "noun"
+  },
+  "matériel": {
+    "definition": "material",
+    "partOfSpeech": "noun"
+  },
+  "fraction": {
+    "definition": "fraction",
+    "partOfSpeech": "noun"
+  },
+  "forêt": {
+    "definition": "forest",
+    "partOfSpeech": "noun"
+  },
+  "s'asseoir": {
+    "definition": "sit",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "course": {
+    "definition": "race",
+    "partOfSpeech": "noun"
+  },
+  "fenêtre": {
+    "definition": "window",
+    "partOfSpeech": "noun"
+  },
+  "magasin": {
+    "definition": "store",
+    "partOfSpeech": "noun"
+  },
+  "train": {
+    "definition": "train",
+    "partOfSpeech": "noun"
+  },
+  "sommeil": {
+    "definition": "sleep",
+    "partOfSpeech": "noun"
+  },
+  "prouver": {
+    "definition": "prove",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "seul": {
+    "definition": "lone",
+    "partOfSpeech": "adjective"
+  },
+  "jambe": {
+    "definition": "leg",
+    "partOfSpeech": "noun"
+  },
+  "exercice": {
+    "definition": "exercise",
+    "partOfSpeech": "noun"
+  },
+  "mur": {
+    "definition": "wall",
+    "partOfSpeech": "noun"
+  },
+  "capture": {
+    "definition": "catch",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "monture": {
+    "definition": "mount",
+    "partOfSpeech": "noun/verb"
+  },
+  "souhaiter": {
+    "definition": "wish",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "ciel": {
+    "definition": "sky",
+    "partOfSpeech": "noun"
+  },
+  "conseil": {
+    "definition": "board",
+    "partOfSpeech": "noun"
+  },
+  "joie": {
+    "definition": "joy",
+    "partOfSpeech": "noun"
+  },
+  "hiver": {
+    "definition": "winter",
+    "partOfSpeech": "noun"
+  },
+  "sat": {
+    "definition": "sat",
+    "partOfSpeech": "verb (past)"
+  },
+  "écrit": {
+    "definition": "wrote",
+    "partOfSpeech": "verb (past)"
+  },
+  "sauvage": {
+    "definition": "wild",
+    "partOfSpeech": "adjective"
+  },
+  "instrument": {
+    "definition": "instrument",
+    "partOfSpeech": "noun"
+  },
+  "conservé": {
+    "definition": "kept",
+    "partOfSpeech": "verb (past participle)"
+  },
+  "verre": {
+    "definition": "glass",
+    "partOfSpeech": "noun"
+  },
+  "herbe": {
+    "definition": "grass",
+    "partOfSpeech": "noun"
+  },
+  "vache": {
+    "definition": "cow",
+    "partOfSpeech": "noun"
+  },
+  "emploi": {
+    "definition": "job",
+    "partOfSpeech": "noun"
+  },
+  "bord": {
+    "definition": "edge",
+    "partOfSpeech": "noun"
+  },
+  "signe": {
+    "definition": "sign",
+    "partOfSpeech": "noun"
+  },
+  "visite": {
+    "definition": "visit",
+    "partOfSpeech": "noun/verb"
+  },
+  "passé": {
+    "definition": "past",
+    "partOfSpeech": "noun/adjective"
+  },
+  "doux": {
+    "definition": "gentle",
+    "partOfSpeech": "adjective"
+  },
+  "amusement": {
+    "definition": "fun",
+    "partOfSpeech": "noun"
+  },
+  "gaz": {
+    "definition": "gas",
+    "partOfSpeech": "noun"
+  },
+  "mois": {
+    "definition": "month",
+    "partOfSpeech": "noun"
+  },
+  "million": {
+    "definition": "million",
+    "partOfSpeech": "numeral"
+  },
+  "finition": {
+    "definition": "finish",
+    "partOfSpeech": "noun"
+  },
+  "heureux": {
+    "definition": "glad",
+    "partOfSpeech": "adjective"
+  },
+  "espoir": {
+    "definition": "hope",
+    "partOfSpeech": "noun"
+  },
+  "fleur": {
+    "definition": "flower",
+    "partOfSpeech": "noun"
+  },
+  "vêtir": {
+    "definition": "clothe",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "étrange": {
+    "definition": "strange",
+    "partOfSpeech": "adjective"
+  },
+  "disparu": {
+    "definition": "gone",
+    "partOfSpeech": "adjective"
+  },
+  "commerce": {
+    "definition": "trade",
+    "partOfSpeech": "noun"
+  },
+  "mélodie": {
+    "definition": "melody",
+    "partOfSpeech": "noun"
+  },
+  "voyage": {
+    "definition": "trip",
+    "partOfSpeech": "noun"
+  },
+  "bureau": {
+    "definition": "office",
+    "partOfSpeech": "noun"
+  },
+  "recevoir": {
+    "definition": "receive",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "rangée": {
+    "definition": "row",
+    "partOfSpeech": "noun"
+  },
+  "bouche": {
+    "definition": "mouth",
+    "partOfSpeech": "noun"
+  },
+  "exact": {
+    "definition": "exact",
+    "partOfSpeech": "adjective"
+  },
+  "symbole": {
+    "definition": "symbol",
+    "partOfSpeech": "noun"
+  },
+  "mourir": {
+    "definition": "die",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "difficulté": {
+    "definition": "trouble",
+    "partOfSpeech": "noun"
+  },
+  "sauf": {
+    "definition": "except",
+    "partOfSpeech": "preposition"
+  },
+  "semence": {
+    "definition": "seed",
+    "partOfSpeech": "noun"
+  },
+  "ton": {
+    "definition": "tone",
+    "partOfSpeech": "noun"
+  },
+  "joindre": {
+    "definition": "join",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "suggérer": {
+    "definition": "suggest",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "pause": {
+    "definition": "break",
+    "partOfSpeech": "noun"
+  },
+  "dame": {
+    "definition": "lady",
+    "partOfSpeech": "noun"
+  },
+  "cour": {
+    "definition": "yard",
+    "partOfSpeech": "noun"
+  },
+  "augmenter": {
+    "definition": "raise",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "mauvais": {
+    "definition": "bad",
+    "partOfSpeech": "adjective"
+  },
+  "coup": {
+    "definition": "blow",
+    "partOfSpeech": "noun"
+  },
+  "huile": {
+    "definition": "oil",
+    "partOfSpeech": "noun"
+  },
+  "sang": {
+    "definition": "blood",
+    "partOfSpeech": "noun"
+  },
+  "toucher": {
+    "definition": "touch",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "a augmenté": {
+    "definition": "grew",
+    "partOfSpeech": "verb phrase"
+  },
+  "mélanger": {
+    "definition": "mix",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "équipe": {
+    "definition": "team",
+    "partOfSpeech": "noun"
+  },
+  "fil": {
+    "definition": "wire",
+    "partOfSpeech": "noun"
+  },
+  "coût": {
+    "definition": "cost",
+    "partOfSpeech": "noun"
+  },
+  "perdu": {
+    "definition": "lost",
+    "partOfSpeech": "adjective"
+  },
+  "brun": {
+    "definition": "brown",
+    "partOfSpeech": "adjective"
+  },
+  "jardin": {
+    "definition": "garden",
+    "partOfSpeech": "noun"
+  },
+  "égal": {
+    "definition": "equal",
+    "partOfSpeech": "adjective"
+  },
+  "expédié": {
+    "definition": "sent",
+    "partOfSpeech": "verb (past participle)"
+  },
+  "est tombé": {
+    "definition": "fell",
+    "partOfSpeech": "verb phrase"
+  },
+  "s'adapter": {
+    "definition": "fit",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "débit": {
+    "definition": "flow",
+    "partOfSpeech": "noun"
+  },
+  "banque": {
+    "definition": "bank",
+    "partOfSpeech": "noun"
+  },
+  "recueillir": {
+    "definition": "gather",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "sauver": {
+    "definition": "save",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "contrôle": {
+    "definition": "control",
+    "partOfSpeech": "noun/verb"
+  },
+  "décimal": {
+    "definition": "decimal",
+    "partOfSpeech": "adjective"
+  },
+  "oreille": {
+    "definition": "ear",
+    "partOfSpeech": "noun"
+  },
+  "tout à fait": {
+    "definition": "quite",
+    "partOfSpeech": "adverb"
+  },
+  "cassé": {
+    "definition": "broke",
+    "partOfSpeech": "verb (past)"
+  },
+  "cas": {
+    "definition": "case",
+    "partOfSpeech": "noun"
+  },
+  "milieu": {
+    "definition": "middle",
+    "partOfSpeech": "noun"
+  },
+  "tuer": {
+    "definition": "kill",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "fils": {
+    "definition": "son",
+    "partOfSpeech": "noun"
+  },
+  "lac": {
+    "definition": "lake",
+    "partOfSpeech": "noun"
+  },
+  "moment": {
+    "definition": "moment",
+    "partOfSpeech": "noun"
+  },
+  "échelle": {
+    "definition": "scale",
+    "partOfSpeech": "noun"
+  },
+  "printemps": {
+    "definition": "spring",
+    "partOfSpeech": "noun"
+  },
+  "observer": {
+    "definition": "observe",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "enfant": {
+    "definition": "child",
+    "partOfSpeech": "noun"
+  },
+  "consonne": {
+    "definition": "consonant",
+    "partOfSpeech": "noun"
+  },
+  "nation": {
+    "definition": "nation",
+    "partOfSpeech": "noun"
+  },
+  "dictionnaire": {
+    "definition": "dictionary",
+    "partOfSpeech": "noun"
+  },
+  "lait": {
+    "definition": "milk",
+    "partOfSpeech": "noun"
+  },
+  "vitesse": {
+    "definition": "speed",
+    "partOfSpeech": "noun"
+  },
+  "méthode": {
+    "definition": "method",
+    "partOfSpeech": "noun"
+  },
+  "organe": {
+    "definition": "organ",
+    "partOfSpeech": "noun"
+  },
+  "payer": {
+    "definition": "pay",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "âge": {
+    "definition": "age",
+    "partOfSpeech": "noun"
+  },
+  "section": {
+    "definition": "section",
+    "partOfSpeech": "noun"
+  },
+  "robe": {
+    "definition": "dress",
+    "partOfSpeech": "noun"
+  },
+  "nuage": {
+    "definition": "cloud",
+    "partOfSpeech": "noun"
+  },
+  "surprise": {
+    "definition": "surprise",
+    "partOfSpeech": "noun"
+  },
+  "calme": {
+    "definition": "quiet",
+    "partOfSpeech": "adjective"
+  },
+  "pierre": {
+    "definition": "stone",
+    "partOfSpeech": "noun"
+  },
+  "minuscule": {
+    "definition": "tiny",
+    "partOfSpeech": "adjective"
+  },
+  "montée": {
+    "definition": "climb",
+    "partOfSpeech": "noun"
+  },
+  "frais": {
+    "definition": "fresh",
+    "partOfSpeech": "adjective"
+  },
+  "conception": {
+    "definition": "design",
+    "partOfSpeech": "noun"
+  },
+  "pauvres": {
+    "definition": "poor",
+    "partOfSpeech": "adjective"
+  },
+  "lot": {
+    "definition": "lot",
+    "partOfSpeech": "noun"
+  },
+  "expérience": {
+    "definition": "experience",
+    "partOfSpeech": "noun"
+  },
+  "bas": {
+    "definition": "bottom",
+    "partOfSpeech": "noun"
+  },
+  "clé": {
+    "definition": "key",
+    "partOfSpeech": "noun"
+  },
+  "fer": {
+    "definition": "iron",
+    "partOfSpeech": "noun"
+  },
+  "unique": {
+    "definition": "single",
+    "partOfSpeech": "adjective"
+  },
+  "bâton": {
+    "definition": "stick",
+    "partOfSpeech": "noun"
+  },
+  "plat": {
+    "definition": "flat",
+    "partOfSpeech": "adjective"
+  },
+  "vingt": {
+    "definition": "twenty",
+    "partOfSpeech": "numeral"
+  },
+  "peau": {
+    "definition": "skin",
+    "partOfSpeech": "noun"
+  },
+  "sourire": {
+    "definition": "smile",
+    "partOfSpeech": "noun/verb"
+  },
+  "pli": {
+    "definition": "crease",
+    "partOfSpeech": "noun"
+  },
+  "trou": {
+    "definition": "hole",
+    "partOfSpeech": "noun"
+  },
+  "sauter": {
+    "definition": "jump",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "bébé": {
+    "definition": "baby",
+    "partOfSpeech": "noun"
+  },
+  "huit": {
+    "definition": "eight",
+    "partOfSpeech": "numeral"
+  },
+  "village": {
+    "definition": "village",
+    "partOfSpeech": "noun"
+  },
+  "se rencontrent": {
+    "definition": "meet",
+    "partOfSpeech": "verb phrase"
+  },
+  "racine": {
+    "definition": "root",
+    "partOfSpeech": "noun"
+  },
+  "acheter": {
+    "definition": "buy",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "résoudre": {
+    "definition": "solve",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "métal": {
+    "definition": "metal",
+    "partOfSpeech": "noun"
+  },
+  "pousser": {
+    "definition": "push",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "sept": {
+    "definition": "seven",
+    "partOfSpeech": "numeral"
+  },
+  "paragraphe": {
+    "definition": "paragraph",
+    "partOfSpeech": "noun"
+  },
+  "troisième": {
+    "definition": "third",
+    "partOfSpeech": "adjective"
+  },
+  "doit": {
+    "definition": "shall",
+    "partOfSpeech": "verb (present)"
+  },
+  "en attente": {
+    "definition": "held",
+    "partOfSpeech": "verb phrase"
+  },
+  "cheveux": {
+    "definition": "hair",
+    "partOfSpeech": "noun"
+  },
+  "décrire": {
+    "definition": "describe",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "cuisinier": {
+    "definition": "cook",
+    "partOfSpeech": "noun/verb"
+  },
+  "étage": {
+    "definition": "floor",
+    "partOfSpeech": "noun"
+  },
+  "résultat": {
+    "definition": "result",
+    "partOfSpeech": "noun"
+  },
+  "brûler": {
+    "definition": "burn",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "colline": {
+    "definition": "hill",
+    "partOfSpeech": "noun"
+  },
+  "coffre-fort": {
+    "definition": "safe",
+    "partOfSpeech": "adjective/noun"
+  },
+  "chat": {
+    "definition": "cat",
+    "partOfSpeech": "noun"
+  },
+  "siècle": {
+    "definition": "century",
+    "partOfSpeech": "noun"
+  },
+  "envisager": {
+    "definition": "consider",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "type": {
+    "definition": "type",
+    "partOfSpeech": "noun"
+  },
+  "côte": {
+    "definition": "coast",
+    "partOfSpeech": "noun"
+  },
+  "copie": {
+    "definition": "copy",
+    "partOfSpeech": "noun/verb"
+  },
+  "silencieux": {
+    "definition": "silent",
+    "partOfSpeech": "adjective"
+  },
+  "sable": {
+    "definition": "sand",
+    "partOfSpeech": "noun"
+  },
+  "rouleau": {
+    "definition": "roll",
+    "partOfSpeech": "noun/verb"
+  },
+  "température": {
+    "definition": "temperature",
+    "partOfSpeech": "noun"
+  },
+  "doigt": {
+    "definition": "finger",
+    "partOfSpeech": "noun"
+  },
+  "industrie": {
+    "definition": "industry",
+    "partOfSpeech": "noun"
+  },
+  "valeur": {
+    "definition": "value",
+    "partOfSpeech": "noun"
+  },
+  "lutte": {
+    "definition": "fight",
+    "partOfSpeech": "noun"
+  },
+  "mensonge": {
+    "definition": "lie",
+    "partOfSpeech": "noun"
+  },
+  "battre": {
+    "definition": "beat",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "exciter": {
+    "definition": "excite",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "naturel": {
+    "definition": "natural",
+    "partOfSpeech": "adjective"
+  },
+  "vue": {
+    "definition": "sight",
+    "partOfSpeech": "noun"
+  },
+  "sens": {
+    "definition": "sense",
+    "partOfSpeech": "noun"
+  },
+  "capital": {
+    "definition": "capital",
+    "partOfSpeech": "noun"
+  },
+  "ne sera pas": {
+    "definition": "won't",
+    "partOfSpeech": "verb phrase"
+  },
+  "chaise": {
+    "definition": "chair",
+    "partOfSpeech": "noun"
+  },
+  "danger": {
+    "definition": "danger",
+    "partOfSpeech": "noun"
+  },
+  "fruit": {
+    "definition": "fruit",
+    "partOfSpeech": "noun"
+  },
+  "riche": {
+    "definition": "rich",
+    "partOfSpeech": "adjective"
+  },
+  "épais": {
+    "definition": "thick",
+    "partOfSpeech": "adjective"
+  },
+  "soldat": {
+    "definition": "soldier",
+    "partOfSpeech": "noun"
+  },
+  "processus": {
+    "definition": "process",
+    "partOfSpeech": "noun"
+  },
+  "fonctionner": {
+    "definition": "operate",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "pratique": {
+    "definition": "practice",
+    "partOfSpeech": "noun"
+  },
+  "séparé": {
+    "definition": "separate",
+    "partOfSpeech": "adjective"
+  },
+  "difficile": {
+    "definition": "difficult",
+    "partOfSpeech": "adjective"
+  },
+  "médecin": {
+    "definition": "doctor",
+    "partOfSpeech": "noun"
+  },
+  "s'il vous plaît": {
+    "definition": "please",
+    "partOfSpeech": "adverb"
+  },
+  "protéger": {
+    "definition": "protect",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "midi": {
+    "definition": "noon",
+    "partOfSpeech": "noun"
+  },
+  "récolte": {
+    "definition": "crop",
+    "partOfSpeech": "noun"
+  },
+  "moderne": {
+    "definition": "modern",
+    "partOfSpeech": "adjective"
+  },
+  "élément": {
+    "definition": "element",
+    "partOfSpeech": "noun"
+  },
+  "frapper": {
+    "definition": "hit",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "étudiant": {
+    "definition": "student",
+    "partOfSpeech": "noun"
+  },
+  "coin": {
+    "definition": "corner",
+    "partOfSpeech": "noun"
+  },
+  "alimentation": {
+    "definition": "feed",
+    "partOfSpeech": "noun/verb"
+  },
+  "dont": {
+    "definition": "whose",
+    "partOfSpeech": "relative pronoun"
+  },
+  "localiser": {
+    "definition": "locate",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "anneau": {
+    "definition": "ring",
+    "partOfSpeech": "noun"
+  },
+  "caractère": {
+    "definition": "character",
+    "partOfSpeech": "noun"
+  },
+  "insecte": {
+    "definition": "insect",
+    "partOfSpeech": "noun"
+  },
+  "pris": {
+    "definition": "caught",
+    "partOfSpeech": "verb (past participle)"
+  },
+  "période": {
+    "definition": "period",
+    "partOfSpeech": "noun"
+  },
+  "indiquer": {
+    "definition": "indicate",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "radio": {
+    "definition": "radio",
+    "partOfSpeech": "noun"
+  },
+  "rayon": {
+    "definition": "spoke",
+    "partOfSpeech": "noun"
+  },
+  "atome": {
+    "definition": "atom",
+    "partOfSpeech": "noun"
+  },
+  "humain": {
+    "definition": "human",
+    "partOfSpeech": "adjective/noun"
+  },
+  "effet": {
+    "definition": "effect",
+    "partOfSpeech": "noun"
+  },
+  "électrique": {
+    "definition": "electric",
+    "partOfSpeech": "adjective"
+  },
+  "attendre": {
+    "definition": "expect",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "os": {
+    "definition": "bone",
+    "partOfSpeech": "noun"
+  },
+  "rail": {
+    "definition": "rail",
+    "partOfSpeech": "noun"
+  },
+  "imaginer": {
+    "definition": "imagine",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "fournir": {
+    "definition": "provide",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "se mettre d'accord": {
+    "definition": "agree",
+    "partOfSpeech": "verb phrase"
+  },
+  "ainsi": {
+    "definition": "thus",
+    "partOfSpeech": "adverb"
+  },
+  "femme": {
+    "definition": "wife",
+    "partOfSpeech": "noun"
+  },
+  "capitaine": {
+    "definition": "captain",
+    "partOfSpeech": "noun"
+  },
+  "deviner": {
+    "definition": "guess",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "nécessaire": {
+    "definition": "necessary",
+    "partOfSpeech": "adjective"
+  },
+  "net": {
+    "definition": "sharp",
+    "partOfSpeech": "adjective"
+  },
+  "aile": {
+    "definition": "wing",
+    "partOfSpeech": "noun"
+  },
+  "créer": {
+    "definition": "create",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "voisin": {
+    "definition": "neighbor",
+    "partOfSpeech": "noun"
+  },
+  "lavage": {
+    "definition": "wash",
+    "partOfSpeech": "noun"
+  },
+  "chauve-souris": {
+    "definition": "bat",
+    "partOfSpeech": "noun"
+  },
+  "plutôt": {
+    "definition": "rather",
+    "partOfSpeech": "adverb"
+  },
+  "foule": {
+    "definition": "crowd",
+    "partOfSpeech": "noun"
+  },
+  "blé": {
+    "definition": "corn",
+    "partOfSpeech": "noun"
+  },
+  "comparer": {
+    "definition": "compare",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "poème": {
+    "definition": "poem",
+    "partOfSpeech": "noun"
+  },
+  "chaîne": {
+    "definition": "string",
+    "partOfSpeech": "noun"
+  },
+  "cloche": {
+    "definition": "bell",
+    "partOfSpeech": "noun"
+  },
+  "dépendre": {
+    "definition": "depend",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "viande": {
+    "definition": "meat",
+    "partOfSpeech": "noun"
+  },
+  "rub": {
+    "definition": "rub",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "tube": {
+    "definition": "tube",
+    "partOfSpeech": "noun"
+  },
+  "célèbre": {
+    "definition": "famous",
+    "partOfSpeech": "adjective"
+  },
+  "dollar": {
+    "definition": "dollar",
+    "partOfSpeech": "noun"
+  },
+  "courant": {
+    "definition": "current",
+    "partOfSpeech": "adjective/noun"
+  },
+  "peur": {
+    "definition": "afraid",
+    "partOfSpeech": "adjective"
+  },
+  "mince": {
+    "definition": "thin",
+    "partOfSpeech": "adjective"
+  },
+  "triangle": {
+    "definition": "triangle",
+    "partOfSpeech": "noun"
+  },
+  "planète": {
+    "definition": "planet",
+    "partOfSpeech": "noun"
+  },
+  "se dépêcher": {
+    "definition": "hurry",
+    "partOfSpeech": "verb phrase"
+  },
+  "chef": {
+    "definition": "chief",
+    "partOfSpeech": "noun"
+  },
+  "colonie": {
+    "definition": "colony",
+    "partOfSpeech": "noun"
+  },
+  "horloge": {
+    "definition": "clock",
+    "partOfSpeech": "noun"
+  },
+  "mine": {
+    "definition": "mine",
+    "partOfSpeech": "noun"
+  },
+  "lien": {
+    "definition": "tie",
+    "partOfSpeech": "noun/verb"
+  },
+  "entrer": {
+    "definition": "enter",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "majeur": {
+    "definition": "major",
+    "partOfSpeech": "adjective"
+  },
+  "recherche": {
+    "definition": "search",
+    "partOfSpeech": "noun"
+  },
+  "envoyer": {
+    "definition": "send",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "jaune": {
+    "definition": "yellow",
+    "partOfSpeech": "adjective"
+  },
+  "pistolet": {
+    "definition": "gun",
+    "partOfSpeech": "noun"
+  },
+  "permettre": {
+    "definition": "allow",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "impression": {
+    "definition": "print",
+    "partOfSpeech": "noun/verb"
+  },
+  "mort": {
+    "definition": "dead",
+    "partOfSpeech": "adjective"
+  },
+  "désert": {
+    "definition": "desert",
+    "partOfSpeech": "noun"
+  },
+  "costume": {
+    "definition": "suit",
+    "partOfSpeech": "noun"
+  },
+  "ascenseur": {
+    "definition": "lift",
+    "partOfSpeech": "noun"
+  },
+  "rose": {
+    "definition": "rose",
+    "partOfSpeech": "noun"
+  },
+  "maître": {
+    "definition": "master",
+    "partOfSpeech": "noun"
+  },
+  "piste": {
+    "definition": "track",
+    "partOfSpeech": "noun"
+  },
+  "rivage": {
+    "definition": "shore",
+    "partOfSpeech": "noun"
+  },
+  "division": {
+    "definition": "division",
+    "partOfSpeech": "noun"
+  },
+  "feuille": {
+    "definition": "sheet",
+    "partOfSpeech": "noun"
+  },
+  "substance": {
+    "definition": "substance",
+    "partOfSpeech": "noun"
+  },
+  "favoriser": {
+    "definition": "favor",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "relier": {
+    "definition": "connect",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "poste": {
+    "definition": "post",
+    "partOfSpeech": "noun"
+  },
+  "corde": {
+    "definition": "rope",
+    "partOfSpeech": "noun"
+  },
+  "graisse": {
+    "definition": "fat",
+    "partOfSpeech": "noun"
+  },
+  "original": {
+    "definition": "original",
+    "partOfSpeech": "adjective"
+  },
+  "part": {
+    "definition": "share",
+    "partOfSpeech": "noun"
+  },
+  "station": {
+    "definition": "station",
+    "partOfSpeech": "noun"
+  },
+  "papa": {
+    "definition": "dad",
+    "partOfSpeech": "noun"
+  },
+  "pain": {
+    "definition": "bread",
+    "partOfSpeech": "noun"
+  },
+  "charger": {
+    "definition": "charge",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "bar": {
+    "definition": "bar",
+    "partOfSpeech": "noun"
+  },
+  "proposition": {
+    "definition": "offer",
+    "partOfSpeech": "noun/verb"
+  },
+  "segment": {
+    "definition": "segment",
+    "partOfSpeech": "noun"
+  },
+  "esclave": {
+    "definition": "slave",
+    "partOfSpeech": "noun"
+  },
+  "canard": {
+    "definition": "duck",
+    "partOfSpeech": "noun"
+  },
+  "instant": {
+    "definition": "instant",
+    "partOfSpeech": "noun"
+  },
+  "marché": {
+    "definition": "market",
+    "partOfSpeech": "noun"
+  },
+  "degré": {
+    "definition": "degree",
+    "partOfSpeech": "noun"
+  },
+  "peupler": {
+    "definition": "populate",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "poussin": {
+    "definition": "chick",
+    "partOfSpeech": "noun"
+  },
+  "cher": {
+    "definition": "dear",
+    "partOfSpeech": "adjective"
+  },
+  "ennemi": {
+    "definition": "enemy",
+    "partOfSpeech": "noun"
+  },
+  "répondre": {
+    "definition": "reply",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "boisson": {
+    "definition": "drink",
+    "partOfSpeech": "noun"
+  },
+  "se produire": {
+    "definition": "occur",
+    "partOfSpeech": "verb phrase"
+  },
+  "support": {
+    "definition": "support",
+    "partOfSpeech": "noun/verb"
+  },
+  "discours": {
+    "definition": "speech",
+    "partOfSpeech": "noun"
+  },
+  "nature": {
+    "definition": "nature",
+    "partOfSpeech": "noun"
+  },
+  "gamme": {
+    "definition": "range",
+    "partOfSpeech": "noun"
+  },
+  "vapeur": {
+    "definition": "steam",
+    "partOfSpeech": "noun"
+  },
+  "mouvement": {
+    "definition": "motion",
+    "partOfSpeech": "noun"
+  },
+  "chemin": {
+    "definition": "path",
+    "partOfSpeech": "noun"
+  },
+  "liquide": {
+    "definition": "liquid",
+    "partOfSpeech": "noun"
+  },
+  "enregistrer": {
+    "definition": "log",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "signifiait": {
+    "definition": "meant",
+    "partOfSpeech": "verb (past)"
+  },
+  "quotient": {
+    "definition": "quotient",
+    "partOfSpeech": "noun"
+  },
+  "dents": {
+    "definition": "teeth",
+    "partOfSpeech": "noun"
+  },
+  "coquille": {
+    "definition": "shell",
+    "partOfSpeech": "noun"
+  },
+  "cou": {
+    "definition": "neck",
+    "partOfSpeech": "noun"
+  },
+  "oxygène": {
+    "definition": "oxygen",
+    "partOfSpeech": "noun"
+  },
+  "sucre": {
+    "definition": "sugar",
+    "partOfSpeech": "noun"
+  },
+  "décès": {
+    "definition": "death",
+    "partOfSpeech": "noun"
+  },
+  "compétence": {
+    "definition": "skill",
+    "partOfSpeech": "noun"
+  },
+  "femmes": {
+    "definition": "women",
+    "partOfSpeech": "noun"
+  },
+  "saison": {
+    "definition": "season",
+    "partOfSpeech": "noun"
+  },
+  "solution": {
+    "definition": "solution",
+    "partOfSpeech": "noun"
+  },
+  "aimant": {
+    "definition": "magnet",
+    "partOfSpeech": "noun"
+  },
+  "merci": {
+    "definition": "thank",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "branche": {
+    "definition": "branch",
+    "partOfSpeech": "noun"
+  },
+  "rencontre": {
+    "definition": "match",
+    "partOfSpeech": "noun"
+  },
+  "suffixe": {
+    "definition": "suffix",
+    "partOfSpeech": "noun"
+  },
+  "particulièrement": {
+    "definition": "especially",
+    "partOfSpeech": "adverb"
+  },
+  "figue": {
+    "definition": "fig",
+    "partOfSpeech": "noun"
+  },
+  "énorme": {
+    "definition": "huge",
+    "partOfSpeech": "adjective"
+  },
+  "sœur": {
+    "definition": "sister",
+    "partOfSpeech": "noun"
+  },
+  "acier": {
+    "definition": "steel",
+    "partOfSpeech": "noun"
+  },
+  "discuter": {
+    "definition": "discuss",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "similaire": {
+    "definition": "similar",
+    "partOfSpeech": "adjective"
+  },
+  "guider": {
+    "definition": "guide",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "score": {
+    "definition": "score",
+    "partOfSpeech": "noun"
+  },
+  "pomme": {
+    "definition": "apple",
+    "partOfSpeech": "noun"
+  },
+  "acheté": {
+    "definition": "bought",
+    "partOfSpeech": "verb (past participle)"
+  },
+  "LED": {
+    "definition": "led",
+    "partOfSpeech": "verb (past)"
+  },
+  "pas": {
+    "definition": "pitch",
+    "partOfSpeech": "noun"
+  },
+  "manteau": {
+    "definition": "coat",
+    "partOfSpeech": "noun"
+  },
+  "masse": {
+    "definition": "mass",
+    "partOfSpeech": "noun"
+  },
+  "bande": {
+    "definition": "band",
+    "partOfSpeech": "noun"
+  },
+  "glissement": {
+    "definition": "slip",
+    "partOfSpeech": "noun"
+  },
+  "gagner": {
+    "definition": "win",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "rêver": {
+    "definition": "dream",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "soirée": {
+    "definition": "evening",
+    "partOfSpeech": "noun"
+  },
+  "condition": {
+    "definition": "condition",
+    "partOfSpeech": "noun"
+  },
+  "outil": {
+    "definition": "tool",
+    "partOfSpeech": "noun"
+  },
+  "total": {
+    "definition": "total",
+    "partOfSpeech": "adjective/noun"
+  },
+  "de base": {
+    "definition": "basic",
+    "partOfSpeech": "adjective"
+  },
+  "odeur": {
+    "definition": "smell",
+    "partOfSpeech": "noun"
+  },
+  "vallée": {
+    "definition": "valley",
+    "partOfSpeech": "noun"
+  },
+  "ni": {
+    "definition": "nor",
+    "partOfSpeech": "conjunction"
+  },
+  "double": {
+    "definition": "double",
+    "partOfSpeech": "adjective"
+  },
+  "siège": {
+    "definition": "seat",
+    "partOfSpeech": "noun"
+  },
+  "continuer": {
+    "definition": "continue",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "bloc": {
+    "definition": "block",
+    "partOfSpeech": "noun"
+  },
+  "graphique": {
+    "definition": "chart",
+    "partOfSpeech": "noun"
+  },
+  "chapeau": {
+    "definition": "hat",
+    "partOfSpeech": "noun"
+  },
+  "vendre": {
+    "definition": "sell",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "succès": {
+    "definition": "success",
+    "partOfSpeech": "noun"
+  },
+  "entreprise": {
+    "definition": "company",
+    "partOfSpeech": "noun"
+  },
+  "soustraire": {
+    "definition": "subtract",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "événement": {
+    "definition": "event",
+    "partOfSpeech": "noun"
+  },
+  "particulier": {
+    "definition": "particular",
+    "partOfSpeech": "adjective"
+  },
+  "accord": {
+    "definition": "deal",
+    "partOfSpeech": "noun"
+  },
+  "baignade": {
+    "definition": "swim",
+    "partOfSpeech": "noun"
+  },
+  "terme": {
+    "definition": "term",
+    "partOfSpeech": "noun"
+  },
+  "opposé": {
+    "definition": "opposite",
+    "partOfSpeech": "adjective"
+  },
+  "chaussure": {
+    "definition": "shoe",
+    "partOfSpeech": "noun"
+  },
+  "épaule": {
+    "definition": "shoulder",
+    "partOfSpeech": "noun"
+  },
+  "propagation": {
+    "definition": "spread",
+    "partOfSpeech": "noun"
+  },
+  "organiser": {
+    "definition": "arrange",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "camp": {
+    "definition": "camp",
+    "partOfSpeech": "noun"
+  },
+  "inventer": {
+    "definition": "invent",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "coton": {
+    "definition": "cotton",
+    "partOfSpeech": "noun"
+  },
+  "né": {
+    "definition": "born",
+    "partOfSpeech": "verb (past participle)"
+  },
+  "déterminer": {
+    "definition": "determine",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "litre": {
+    "definition": "quart",
+    "partOfSpeech": "noun"
+  },
+  "neuf": {
+    "definition": "nine",
+    "partOfSpeech": "numeral"
+  },
+  "camion": {
+    "definition": "truck",
+    "partOfSpeech": "noun"
+  },
+  "bruit": {
+    "definition": "noise",
+    "partOfSpeech": "noun"
+  },
+  "niveau": {
+    "definition": "level",
+    "partOfSpeech": "noun"
+  },
+  "chance": {
+    "definition": "chance",
+    "partOfSpeech": "noun"
+  },
+  "boutique": {
+    "definition": "shop",
+    "partOfSpeech": "noun"
+  },
+  "tronçon": {
+    "definition": "stretch",
+    "partOfSpeech": "noun"
+  },
+  "jeter": {
+    "definition": "throw",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "éclat": {
+    "definition": "shine",
+    "partOfSpeech": "noun"
+  },
+  "propriété": {
+    "definition": "property",
+    "partOfSpeech": "noun"
+  },
+  "colonne": {
+    "definition": "column",
+    "partOfSpeech": "noun"
+  },
+  "molécule": {
+    "definition": "molecule",
+    "partOfSpeech": "noun"
+  },
+  "sélectionner": {
+    "definition": "select",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "mal": {
+    "definition": "wrong",
+    "partOfSpeech": "adjective"
+  },
+  "gris": {
+    "definition": "gray",
+    "partOfSpeech": "adjective"
+  },
+  "répétition": {
+    "definition": "repeat",
+    "partOfSpeech": "noun"
+  },
+  "exiger": {
+    "definition": "require",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "préparer": {
+    "definition": "prepare",
+    "partOfSpeech": "verb (infinitive)"
+  },
+  "sel": {
+    "definition": "salt",
+    "partOfSpeech": "noun"
+  },
+  "nez": {
+    "definition": "nose",
+    "partOfSpeech": "noun"
+  },
+  "pluriel": {
+    "definition": "plural",
+    "partOfSpeech": "adjective"
+  },
+  "colère": {
+    "definition": "anger",
+    "partOfSpeech": "noun"
+  },
+  "revendication": {
+    "definition": "claim",
+    "partOfSpeech": "noun"
+  },
+  "continent": {
+    "definition": "continent",
+    "partOfSpeech": "noun"
+  }
+}
