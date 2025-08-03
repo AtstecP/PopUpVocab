@@ -1,5 +1,6 @@
 import { defineConfig } from "vite";
 import { resolve } from "path";
+import { viteStaticCopy } from "vite-plugin-static-copy";
 
 export default defineConfig({
   build: {
@@ -7,15 +8,38 @@ export default defineConfig({
       input: {
         background: resolve(__dirname, "src/background/background.js"),
         content: resolve(__dirname, "src/content/content.js"),
-        popup: resolve(__dirname, "src/action/popup.html"),
+        action: resolve(__dirname, "src/action/action.js"),
       },
       output: {
-        entryFileNames: "[name].js",
-        assetFileNames: "[name].[ext]",
+        entryFileNames: (chunk) => {
+          if (chunk.name === "background") return "background/[name].js";
+          if (chunk.name === "content") return "content/[name].js";
+          if (chunk.name === "action") return "action/[name].js";
+          return "action/[name].js"; 
+        },
+        assetFileNames: (assetInfo) => {
+          if (assetInfo.name.endsWith(".css")) {
+            if (assetInfo.name.includes("content")) return "content/[name].[ext]";
+            if (assetInfo.name.includes("background")) return "background/[name].[ext]";
+            if (assetInfo.name.includes("action")) return "action/[name].[ext]";
+            return "action/[name].[ext]";
+          }
+          return "[name].[ext]";
+        },
       },
     },
     outDir: "dist",
     emptyOutDir: true,
   },
   publicDir: "public",
+  plugins: [
+    viteStaticCopy({
+      targets: [
+        {
+          src: "src/action/action.html",
+          dest: "action",
+        },
+      ],
+    }),
+  ],
 });

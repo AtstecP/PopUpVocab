@@ -1,7 +1,9 @@
+
 #word-popup {
   position: fixed;
   bottom: 20px;
-  right: 20px;
+  left: auto;
+  right: 20px; /* можно убрать, если хотите управлять через JS */
   width: 280px;
   min-height: 200px;
   background: linear-gradient(135deg, #e4f9ed, #c0ebc5);
@@ -21,8 +23,8 @@
   z-index: 9999;
   cursor: grab;
   gap: 16px;
-  transition: all 0.3s ease-in-out;
 }
+
 
 #word-popup span {
   font-size: 24px;

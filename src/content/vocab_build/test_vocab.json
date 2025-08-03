@@ -1,0 +1,82 @@
+{
+  "advocate": {
+    "partOfSpeech": "noun",
+    "definition": "A person who publicly supports or recommends a particular cause or policy."
+  },
+  "alleviate": {
+    "partOfSpeech": "verb",
+    "definition": "To make suffering, deficiency, or a problem less severe."
+  },
+  "ambiguous": {
+    "partOfSpeech": "adjective",
+    "definition": "Open to more than one interpretation; having a double meaning."
+  },
+  "arbitrary": {
+    "partOfSpeech": "adjective",
+    "definition": "Based on random choice or personal whim, rather than reason or a system."
+  },
+  "coherent": {
+    "partOfSpeech": "adjective",
+    "definition": "Logical and consistent."
+  },
+  "contemplate": {
+    "partOfSpeech": "verb",
+    "definition": "To look thoughtfully for a long time or to consider deeply."
+  },
+  "convey": {
+    "partOfSpeech": "verb",
+    "definition": "To communicate or make known."
+  },
+  "credible": {
+    "partOfSpeech": "adjective",
+    "definition": "Able to be believed; convincing."
+  },
+  "deduce": {
+    "partOfSpeech": "verb",
+    "definition": "To arrive at a fact or conclusion by reasoning."
+  },
+  "diligent": {
+    "partOfSpeech": "adjective",
+    "definition": "Showing care and conscientiousness in one's work or duties."
+  },
+  "discrepancy": {
+    "partOfSpeech": "noun",
+    "definition": "A lack of compatibility or similarity between two or more facts."
+  },
+  "emphasize": {
+    "partOfSpeech": "verb",
+    "definition": "To give special importance or prominence to something."
+  },
+  "feasible": {
+    "partOfSpeech": "adjective",
+    "definition": "Possible to do easily or conveniently."
+  },
+  "fluctuate": {
+    "partOfSpeech": "verb",
+    "definition": "To rise and fall irregularly in number or amount."
+  },
+  "hinder": {
+    "partOfSpeech": "verb",
+    "definition": "To create difficulties for someone or something, resulting in delay or obstruction."
+  },
+  "imminent": {
+    "partOfSpeech": "adjective",
+    "definition": "About to happen."
+  },
+  "inherent": {
+    "partOfSpeech": "adjective",
+    "definition": "Existing in something as a permanent, essential, or characteristic attribute."
+  },
+  "meticulous": {
+    "partOfSpeech": "adjective",
+    "definition": "Showing great attention to detail; very careful and precise."
+  },
+  "preliminary": {
+    "partOfSpeech": "adjective",
+    "definition": "Denoting an action or event preceding or done in preparation for something fuller or more important."
+  },
+  "scrutinize": {
+    "partOfSpeech": "verb",
+    "definition": "To examine or inspect closely and thoroughly."
+  }
+}
