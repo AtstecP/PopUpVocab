@@ -1,21 +1,8 @@
-import chunk_001 from './vocab_build/output_chunks/chunk_001.json';
-import chunk_002 from './vocab_build/output_chunks/chunk_002.json';
-import chunk_003 from './vocab_build/output_chunks/chunk_003.json';
-import chunk_004 from './vocab_build/output_chunks/chunk_004.json';
-import chunk_005 from './vocab_build/output_chunks/chunk_005.json';
-import chunk_006 from './vocab_build/output_chunks/chunk_006.json';
-import chunk_007 from './vocab_build/output_chunks/chunk_007.json';
-import chunk_008 from './vocab_build/output_chunks/chunk_008.json';
-import chunk_009 from './vocab_build/output_chunks/chunk_009.json';
-import chunk_010 from './vocab_build/output_chunks/chunk_010.json';
-import chunk_011 from './vocab_build/output_chunks/chunk_011.json';
-import chunk_012 from './vocab_build/output_chunks/chunk_012.json';
-import chunk_013 from './vocab_build/output_chunks/chunk_013.json';
-import chunk_014 from './vocab_build/output_chunks/chunk_014.json';
+import chunk_001 from './vocab_build/test_vocab.json';
+
 
 const allChunks = [
-  chunk_001, chunk_002, chunk_003, chunk_004, chunk_005, chunk_006, chunk_007,
-  chunk_008, chunk_009, chunk_010, chunk_011, chunk_012, chunk_013, chunk_014
+  chunk_001
 ];
 
 export function loadWord(wordElement, definitionElement) {
