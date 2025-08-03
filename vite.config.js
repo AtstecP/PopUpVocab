@@ -11,7 +11,7 @@ export default defineConfig({
       },
       output: {
         entryFileNames: "[name].js",
-        assetFileNames: "[name].[ext]", // css тоже окажется в dist
+        assetFileNames: "[name].[ext]",
       },
     },
     outDir: "dist",

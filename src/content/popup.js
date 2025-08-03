@@ -1,5 +1,5 @@
 import { makeDraggable } from "./draggable.js";
-import { loadWord } from "./word_load_api.js";
+import { loadWord } from "./word_load_chunks.js";
 
 export function showWordPopup() {
   if (document.getElementById("word-popup")) return;
@@ -14,6 +14,7 @@ export function showWordPopup() {
   definition.id = "word-definition";
 
   const nextBtn = document.createElement("button");
+  nextBtn.className = "next-btn";
   nextBtn.textContent = "Next";
   nextBtn.onclick = () => {
     chrome.runtime.sendMessage({ action: "resetTimer" }, () => popup.remove());

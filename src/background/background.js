@@ -1,4 +1,4 @@
-const PERIOD_MIN = 1;
+const PERIOD_MIN = 0.01;
 
 chrome.runtime.onInstalled.addListener(() => {
   resetTimer();
