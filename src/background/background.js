@@ -1,13 +1,19 @@
-const PERIOD_MIN = 0.01;
+const PERIOD_MIN = 15;
 
 chrome.runtime.onInstalled.addListener(() => {
   resetTimer();
   setupAlarm();
+  chrome.storage.local.set({
+    definitionMode: true,
+    testMode: true,
+    typingMode: true,
+    wordInterval: PERIOD_MIN,
+  });
 });
 
 async function setupAlarm() {
   const { wordInterval } = await chrome.storage.local.get(["wordInterval"]);
-  const interval = wordInterval || PERIOD_MIN;
+  const interval = wordInterval;
 
   chrome.alarms.clear("vocabTimer", () => {
     chrome.alarms.create("vocabTimer", {
@@ -26,7 +32,7 @@ chrome.alarms.onAlarm.addListener(async (alarm) => {
 chrome.storage.onChanged.addListener((changes, areaName) => {
   if (areaName === "local" && changes.wordInterval) {
     console.log("Interval changed:", changes.wordInterval.newValue);
-    setupAlarm(); 
+    setupAlarm();
     resetTimer();
   }
 });
@@ -36,16 +42,9 @@ async function checkTimer() {
   if (!result.vocab_next_time || result.vocab_next_time <= Date.now()) {
     const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
 
-    if (!tab) return;
+    if (!tab || !tab.id) return;
 
     try {
-      await chrome.scripting.executeScript({
-        target: { tabId: tab.id },
-        files: ["content/content.js"],
-      });
-
-      await new Promise((resolve) => setTimeout(resolve, 100));
-
       await sendMessageWithRetry(tab.id, { action: "showPopup" });
     } catch (error) {
       console.error("Final error after retries:", error);
@@ -77,7 +76,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
 
 async function resetTimer() {
   const { wordInterval } = await chrome.storage.local.get(["wordInterval"]);
-  const interval = wordInterval || PERIOD_MIN;
+  const interval = wordInterval;
   const nextTime = Date.now() + interval * 60 * 1000;
   chrome.storage.local.set({ vocab_next_time: nextTime });
 }
