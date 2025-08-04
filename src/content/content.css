@@ -29,7 +29,7 @@
 #word-popup span {
   font-size: 24px;
   font-weight: 700;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   letter-spacing: 0.5px;
   color: #145c35;
 }
@@ -93,3 +93,27 @@
   transform: translateY(-1px);
 }
 
+#word-popup button.sound-btn {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: #ffffff;
+  color: #2d4633;
+  border: 1px solid #b4dbc1;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+
+#word-popup button.sound-btn:hover {
+  background: #e8f7ee;
+  transform: scale(1.05);
+}

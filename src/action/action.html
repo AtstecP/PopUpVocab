@@ -1,21 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>PopUpVocab Settings</title>
   <link rel="stylesheet" href="action.css">
 </head>
+
 <body>
   <div id="popup-container">
     <h2>PopUpVocab</h2>
-    
-    <label for="interval">Word Interval (minutes):</label> 
+
+    <label for="interval">Word Interval (minutes):</label>
     <input type="number" id="interval" min="0.01" step="0.01" value="15">
+    <div class="modes">
+      <h3>Modes</h3>
+      <label class="switch">
+        <span>Definition</span>
+        <input type="checkbox" id="definition-mode">
+        <span class="slider"></span>
+      </label>
+
+      <label class="switch">
+        <span>Test</span>
+        <input type="checkbox" id="test-mode">
+        <span class="slider"></span>
+      </label>
+
+      <label class="switch">
+        <span>Typing</span>
+        <input type="checkbox" id="typing-mode">
+        <span class="slider"></span>
+      </label>
+    </div>
     <button id="save">Save</button>
     <p id="status"></p>
   </div>
-  
+
   <script src="action.js"></script>
 </body>
+
 </html>

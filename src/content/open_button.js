@@ -23,6 +23,5 @@ export function initFloatingButton() {
     buttonEl.remove();
     showWordPopup();
   });
-
   document.body.appendChild(buttonEl);
 }
