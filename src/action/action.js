@@ -9,13 +9,15 @@ document.addEventListener("DOMContentLoaded", () => {
   const testMode = document.getElementById("test-mode");
   const typingMode = document.getElementById("typing-mode");
 
-  // Загружаем настройки
-  chrome.storage.local.get(["wordInterval", "definitionMode", "testMode", "typingMode"], (data) => {
-    if (data.wordInterval) intervalInput.value = data.wordInterval;
-    definitionMode.checked = data.definitionMode || false;
-    testMode.checked = data.testMode || false;
-    typingMode.checked = data.typingMode || false;
-  });
+  chrome.storage.local.get(
+    ["wordInterval", "definitionMode", "testMode", "typingMode"],
+    (data) => {
+      if (data.wordInterval) intervalInput.value = data.wordInterval;
+      definitionMode.checked = data.definitionMode || false;
+      testMode.checked = data.testMode || false;
+      typingMode.checked = data.typingMode || false;
+    }
+  );
 
   saveBtn.addEventListener("click", () => {
     const interval = parseFloat(intervalInput.value);
@@ -26,23 +28,26 @@ document.addEventListener("DOMContentLoaded", () => {
       return;
     }
 
-    chrome.storage.local.set({
-      wordInterval: interval,
-      definitionMode: definitionMode.checked,
-      testMode: testMode.checked,
-      typingMode: typingMode.checked
-    }, () => {
-      status.textContent = "Settings saved!";
-      status.style.color = "green";
+    chrome.storage.local.set(
+      {
+        wordInterval: interval,
+        definitionMode: definitionMode.checked,
+        testMode: testMode.checked,
+        typingMode: typingMode.checked,
+      },
+      () => {
+        status.textContent = "Settings saved!";
+        status.style.color = "green";
 
-      chrome.alarms.clear("vocabTimer", () => {
-        chrome.alarms.create("vocabTimer", {
-          delayInMinutes: interval,
-          periodInMinutes: interval,
+        chrome.alarms.clear("vocabTimer", () => {
+          chrome.alarms.create("vocabTimer", {
+            delayInMinutes: interval,
+            periodInMinutes: interval,
+          });
+
+          setTimeout(() => window.close(), 100);
         });
-
-        setTimeout(() => window.close(), 1000);
-      });
-    });
+      }
+    );
   });
 });

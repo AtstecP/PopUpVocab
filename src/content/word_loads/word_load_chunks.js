@@ -1,4 +1,4 @@
-import chunk_001 from './vocab_build/test_vocab.json';
+import chunk_001 from '../vocab_build/test_vocab.json';
 
 
 const allChunks = [
