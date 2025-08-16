@@ -1,4 +1,5 @@
 import vocabData from '../vocab_build/test_vocab.json';
+//import vocabData from '../japanes/words.json';
 
 export async function runDefinitionMode(wordElement, definitionElement) {
   const words = Object.keys(vocabData);
