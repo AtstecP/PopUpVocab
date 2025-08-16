@@ -1,8 +1,8 @@
 import vocabData from '../vocab_build/test_vocab.json';
-//import chunk_001 from '../japanes/words.json';
+//import vocabData from '../japanes/words.json';
 
 const allChunks = [
-  chunk_001
+  vocabData
 ];
 
 export function runTestMode(wordElement, definitionElement) {

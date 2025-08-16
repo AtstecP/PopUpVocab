@@ -6,7 +6,7 @@ export function addSoundButton(popup, wordElement) {
   soundBtn.onclick = () => {
     if (!wordElement.textContent || wordElement.textContent === "Loading...") return;
     const utterance = new SpeechSynthesisUtterance(wordElement.textContent);
-    utterance.lang = "en-US";
+    utterance.lang = "en-GB";
     //utterance.lang = "en-GB";
     speechSynthesis.rate = 0.5
     speechSynthesis.speak(utterance);
