@@ -1,0 +1,106 @@
+{
+  "私": {
+    "definition": "I, me",
+    "partOfSpeech": "pronoun"
+  },
+  "あなた": {
+    "definition": "you",
+    "partOfSpeech": "pronoun"
+  },
+  "彼": {
+    "definition": "he, him",
+    "partOfSpeech": "pronoun"
+  },
+  "彼女": {
+    "definition": "she, her",
+    "partOfSpeech": "pronoun"
+  },
+  "これ": {
+    "definition": "this",
+    "partOfSpeech": "pronoun"
+  },
+  "それ": {
+    "definition": "that",
+    "partOfSpeech": "pronoun"
+  },
+  "あれ": {
+    "definition": "that (over there)",
+    "partOfSpeech": "pronoun"
+  },
+  "ここ": {
+    "definition": "here",
+    "partOfSpeech": "adverb"
+  },
+  "そこ": {
+    "definition": "there",
+    "partOfSpeech": "adverb"
+  },
+  "あそこ": {
+    "definition": "over there",
+    "partOfSpeech": "adverb"
+  },
+  "する": {
+    "definition": "to do",
+    "partOfSpeech": "verb"
+  },
+  "ある": {
+    "definition": "to exist (inanimate), to have",
+    "partOfSpeech": "verb"
+  },
+  "いる": {
+    "definition": "to exist (animate)",
+    "partOfSpeech": "verb"
+  },
+  "行く": {
+    "definition": "to go",
+    "partOfSpeech": "verb"
+  },
+  "来る": {
+    "definition": "to come",
+    "partOfSpeech": "verb"
+  },
+  "食べる": {
+    "definition": "to eat",
+    "partOfSpeech": "verb"
+  },
+  "飲む": {
+    "definition": "to drink",
+    "partOfSpeech": "verb"
+  },
+  "見る": {
+    "definition": "to see, to look",
+    "partOfSpeech": "verb"
+  },
+  "言う": {
+    "definition": "to say",
+    "partOfSpeech": "verb"
+  },
+  "聞く": {
+    "definition": "to hear, to ask",
+    "partOfSpeech": "verb"
+  },
+  "大きい": {
+    "definition": "big, large",
+    "partOfSpeech": "adjective"
+  },
+  "小さい": {
+    "definition": "small, little",
+    "partOfSpeech": "adjective"
+  },
+  "新しい": {
+    "definition": "new",
+    "partOfSpeech": "adjective"
+  },
+  "古い": {
+    "definition": "old (not for people)",
+    "partOfSpeech": "adjective"
+  },
+  "良い": {
+    "definition": "good",
+    "partOfSpeech": "adjective"
+  },
+  "悪い": {
+    "definition": "bad",
+    "partOfSpeech": "adjective"
+  }
+}
