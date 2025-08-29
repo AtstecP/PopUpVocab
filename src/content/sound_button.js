@@ -2,18 +2,22 @@ export function addSoundButton(popup, wordElement) {
   const soundBtn = document.createElement("button");
   soundBtn.className = "sound-btn";
   soundBtn.textContent = "🔊";
-
+  speak(wordElement.textContent)
   soundBtn.onclick = () => {
-    if (!wordElement.textContent || wordElement.textContent === "Loading...") return;
-    const utterance = new SpeechSynthesisUtterance(wordElement.textContent);
-    utterance.lang = "en-GB";
-    //utterance.lang = "en-GB";
-    speechSynthesis.rate = 0.5
-    speechSynthesis.speak(utterance);
+    //if (!wordElement.textContent || wordElement.textContent === "Loading...") return;
+    speak(wordElement.textContent)
   };
 
   popup.appendChild(soundBtn);
 }
+
+function speak(word){
+  const utterance = new SpeechSynthesisUtterance(word);
+  utterance.lang = "fr-FR";
+  speechSynthesis.rate = 0.5
+  speechSynthesis.speak(utterance);
+};
+
 /*
 
 language code is ​"de-DE" for language ​" Deutsch"

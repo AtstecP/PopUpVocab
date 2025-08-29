@@ -12,6 +12,7 @@ export function initFloatingButton() {
   Object.assign(buttonEl.style, {
     position: "fixed",
     bottom: "40px",
+    bottom: "0px",
     right: "0px",
     width: "70px",
     height: "70px",

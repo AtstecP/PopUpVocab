@@ -1,12 +1,13 @@
-import vocabData from '../vocab_build/test_vocab.json';
+// import vocabData from '../vocab_build/test_vocab.json';
 //import vocabData from '../japanes/words.json';
 
-const allChunks = [
-  vocabData
-];
+// const allChunks = [
+//   vocabData
+// ];
 
-export function runTestMode(wordElement, definitionElement) {
-  const chunkData = getRandom(allChunks);
+export function runTestMode(vocabData, wordElement, definitionElement) {
+  //const chunkData = getRandom(vocabData);
+  const chunkData = vocabData;
   const words = Object.keys(chunkData);
 
   const correctWord = getRandom(words);

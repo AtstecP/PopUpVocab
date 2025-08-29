@@ -40,7 +40,10 @@ chrome.storage.onChanged.addListener((changes, areaName) => {
 async function checkTimer() {
   const result = await chrome.storage.local.get(["vocab_next_time"]);
   if (!result.vocab_next_time || result.vocab_next_time <= Date.now()) {
-    const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
+    const [tab] = await chrome.tabs.query({
+      active: true,
+      currentWindow: true,
+    });
 
     if (!tab || !tab.id) return;
 
