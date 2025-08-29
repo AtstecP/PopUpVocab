@@ -3,7 +3,7 @@
   position: fixed;
   bottom: 20px;
   left: auto;
-  right: 20px; /* можно убрать, если хотите управлять через JS */
+  right: 20px; 
   width: 280px;
   min-height: 200px;
   background: linear-gradient(135deg, #e4f9ed, #c0ebc5);
@@ -23,6 +23,7 @@
   z-index: 9999;
   cursor: grab;
   gap: 16px;
+  overflow-y: auto;
 }
 
 
