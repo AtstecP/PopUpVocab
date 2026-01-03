@@ -1,0 +1,790 @@
+{
+  "dire": {
+    "definition": "to say",
+    "partOfSpeech": "Verb"
+  },
+  "voir": {
+    "definition": "to see",
+    "partOfSpeech": "Verb"
+  },
+  "savoir": {
+    "definition": "to know",
+    "partOfSpeech": "Verb"
+  },
+  "pouvoir": {
+    "definition": "to be able to / can",
+    "partOfSpeech": "Verb"
+  },
+  "vouloir": {
+    "definition": "to want",
+    "partOfSpeech": "Verb"
+  },
+  "venir": {
+    "definition": "to come",
+    "partOfSpeech": "Verb"
+  },
+  "prendre": {
+    "definition": "to take",
+    "partOfSpeech": "Verb"
+  },
+  "arriver": {
+    "definition": "to arrive",
+    "partOfSpeech": "Verb"
+  },
+  "croire": {
+    "definition": "to believe",
+    "partOfSpeech": "Verb"
+  },
+  "mettre": {
+    "definition": "to put",
+    "partOfSpeech": "Verb"
+  },
+  "devoir": {
+    "definition": "to have to / must",
+    "partOfSpeech": "Verb"
+  },
+  "parler": {
+    "definition": "to speak",
+    "partOfSpeech": "Verb"
+  },
+  "aimer": {
+    "definition": "to like / to love",
+    "partOfSpeech": "Verb"
+  },
+  "manger": {
+    "definition": "to eat",
+    "partOfSpeech": "Verb"
+  },
+  "boire": {
+    "definition": "to drink",
+    "partOfSpeech": "Verb"
+  },
+  "comprendre": {
+    "definition": "to understand",
+    "partOfSpeech": "Verb"
+  },
+  "acheter": {
+    "definition": "to buy",
+    "partOfSpeech": "Verb"
+  },
+  "appeler": {
+    "definition": "to call",
+    "partOfSpeech": "Verb"
+  },
+  "travailler": {
+    "definition": "to work",
+    "partOfSpeech": "Verb"
+  },
+  "habiter": {
+    "definition": "to live (reside)",
+    "partOfSpeech": "Verb"
+  },
+  "grand": {
+    "definition": "big / tall",
+    "partOfSpeech": "Adjective"
+  },
+  "petit": {
+    "definition": "small",
+    "partOfSpeech": "Adjective"
+  },
+  "bon": {
+    "definition": "good",
+    "partOfSpeech": "Adjective"
+  },
+  "mauvais": {
+    "definition": "bad",
+    "partOfSpeech": "Adjective"
+  },
+  "beau": {
+    "definition": "beautiful",
+    "partOfSpeech": "Adjective"
+  },
+  "jeune": {
+    "definition": "young",
+    "partOfSpeech": "Adjective"
+  },
+  "vieux": {
+    "definition": "old",
+    "partOfSpeech": "Adjective"
+  },
+  "nouveau": {
+    "definition": "new",
+    "partOfSpeech": "Adjective"
+  },
+  "même": {
+    "definition": "same",
+    "partOfSpeech": "Adjective"
+  },
+  "autre": {
+    "definition": "other",
+    "partOfSpeech": "Adjective"
+  },
+  "maintenant": {
+    "definition": "now",
+    "partOfSpeech": "Adverb"
+  },
+  "toujours": {
+    "definition": "always",
+    "partOfSpeech": "Adverb"
+  },
+  "jamais": {
+    "definition": "never",
+    "partOfSpeech": "Adverb"
+  },
+  "souvent": {
+    "definition": "often",
+    "partOfSpeech": "Adverb"
+  },
+  "aujourd'hui": {
+    "definition": "today",
+    "partOfSpeech": "Adverb"
+  },
+  "demain": {
+    "definition": "tomorrow",
+    "partOfSpeech": "Adverb"
+  },
+  "hier": {
+    "definition": "yesterday",
+    "partOfSpeech": "Adverb"
+  },
+  "ici": {
+    "definition": "here",
+    "partOfSpeech": "Adverb"
+  },
+  "là": {
+    "definition": "there",
+    "partOfSpeech": "Adverb"
+  },
+  "beaucoup": {
+    "definition": "a lot / much",
+    "partOfSpeech": "Adverb"
+  },
+  "très": {
+    "definition": "very",
+    "partOfSpeech": "Adverb"
+  },
+  "trop": {
+    "definition": "too / too much",
+    "partOfSpeech": "Adverb"
+  },
+  "chose": {
+    "definition": "thing",
+    "partOfSpeech": "Noun"
+  },
+  "vie": {
+    "definition": "life",
+    "partOfSpeech": "Noun"
+  },
+  "an": {
+    "definition": "year",
+    "partOfSpeech": "Noun"
+  },
+  "heure": {
+    "definition": "hour / time",
+    "partOfSpeech": "Noun"
+  },
+  "monde": {
+    "definition": "world / people",
+    "partOfSpeech": "Noun"
+  },
+  "maison": {
+    "definition": "house",
+    "partOfSpeech": "Noun"
+  },
+  "ami": {
+    "definition": "friend (male)",
+    "partOfSpeech": "Noun"
+  },
+  "amie": {
+    "definition": "friend (female)",
+    "partOfSpeech": "Noun"
+  },
+  "la famille": {
+    "definition": "the family",
+    "partOfSpeech": "Noun"
+  },
+  "les parents": {
+    "definition": "the parents",
+    "partOfSpeech": "Noun"
+  },
+  "le père": {
+    "definition": "the father",
+    "partOfSpeech": "Noun"
+  },
+  "la mère": {
+    "definition": "the mother",
+    "partOfSpeech": "Noun"
+  },
+  "le frère": {
+    "definition": "the brother",
+    "partOfSpeech": "Noun"
+  },
+  "la sœur": {
+    "definition": "the sister",
+    "partOfSpeech": "Noun"
+  },
+  "le fils": {
+    "definition": "the son",
+    "partOfSpeech": "Noun"
+  },
+  "la fille": {
+    "definition": "the daughter / the girl",
+    "partOfSpeech": "Noun"
+  },
+  "le garçon": {
+    "definition": "the boy",
+    "partOfSpeech": "Noun"
+  },
+  "l'enfant": {
+    "definition": "the child",
+    "partOfSpeech": "Noun"
+  },
+  "le mari": {
+    "definition": "the husband",
+    "partOfSpeech": "Noun"
+  },
+  "la femme": {
+    "definition": "the wife / the woman",
+    "partOfSpeech": "Noun"
+  },
+  "grand-père": {
+    "definition": "grandfather",
+    "partOfSpeech": "Noun"
+  },
+  "grand-mère": {
+    "definition": "grandmother",
+    "partOfSpeech": "Noun"
+  },
+  "le matin": {
+    "definition": "the morning",
+    "partOfSpeech": "Noun"
+  },
+  "l'après-midi": {
+    "definition": "the afternoon",
+    "partOfSpeech": "Noun"
+  },
+  "le soir": {
+    "definition": "the evening",
+    "partOfSpeech": "Noun"
+  },
+  "la nuit": {
+    "definition": "the night",
+    "partOfSpeech": "Noun"
+  },
+  "la semaine": {
+    "definition": "the week",
+    "partOfSpeech": "Noun"
+  },
+  "le mois": {
+    "definition": "the month",
+    "partOfSpeech": "Noun"
+  },
+  "l'année": {
+    "definition": "the year",
+    "partOfSpeech": "Noun"
+  },
+  "le week-end": {
+    "definition": "the weekend",
+    "partOfSpeech": "Noun"
+  },
+  "la ville": {
+    "definition": "the city",
+    "partOfSpeech": "Noun"
+  },
+  "la rue": {
+    "definition": "the street",
+    "partOfSpeech": "Noun"
+  },
+  "le pays": {
+    "definition": "the country",
+    "partOfSpeech": "Noun"
+  },
+  "l'école": {
+    "definition": "the school",
+    "partOfSpeech": "Noun"
+  },
+  "le bureau": {
+    "definition": "the office / the desk",
+    "partOfSpeech": "Noun"
+  },
+  "le magasin": {
+    "definition": "the store",
+    "partOfSpeech": "Noun"
+  },
+  "le restaurant": {
+    "definition": "the restaurant",
+    "partOfSpeech": "Noun"
+  },
+  "l'hôpital": {
+    "definition": "the hospital",
+    "partOfSpeech": "Noun"
+  },
+  "la chambre": {
+    "definition": "the bedroom",
+    "partOfSpeech": "Noun"
+  },
+  "le lit": {
+    "definition": "the bed",
+    "partOfSpeech": "Noun"
+  },
+  "la cuisine": {
+    "definition": "the kitchen",
+    "partOfSpeech": "Noun"
+  },
+  "la table": {
+    "definition": "the table",
+    "partOfSpeech": "Noun"
+  },
+  "la chaise": {
+    "definition": "the chair",
+    "partOfSpeech": "Noun"
+  },
+  "la salle de bain": {
+    "definition": "the bathroom",
+    "partOfSpeech": "Noun"
+  },
+  "la porte": {
+    "definition": "the door",
+    "partOfSpeech": "Noun"
+  },
+  "la fenêtre": {
+    "definition": "the window",
+    "partOfSpeech": "Noun"
+  },
+  "la clé": {
+    "definition": "the key",
+    "partOfSpeech": "Noun"
+  },
+  "la voiture": {
+    "definition": "the car",
+    "partOfSpeech": "Noun"
+  },
+  "le bus": {
+    "definition": "the bus",
+    "partOfSpeech": "Noun"
+  },
+  "le train": {
+    "definition": "the train",
+    "partOfSpeech": "Noun"
+  },
+  "le livre": {
+    "definition": "the book",
+    "partOfSpeech": "Noun"
+  },
+  "le papier": {
+    "definition": "the paper",
+    "partOfSpeech": "Noun"
+  },
+  "le stylo": {
+    "definition": "the pen",
+    "partOfSpeech": "Noun"
+  },
+  "le sac": {
+    "definition": "the bag",
+    "partOfSpeech": "Noun"
+  },
+  "le téléphone": {
+    "definition": "the phone",
+    "partOfSpeech": "Noun"
+  },
+  "l'ordinateur": {
+    "definition": "the computer",
+    "partOfSpeech": "Noun"
+  },
+  "l'argent": {
+    "definition": "the money",
+    "partOfSpeech": "Noun"
+  },
+  "le problème": {
+    "definition": "the problem",
+    "partOfSpeech": "Noun"
+  },
+  "la nourriture": {
+    "definition": "the food",
+    "partOfSpeech": "Noun"
+  },
+  "le repas": {
+    "definition": "the meal",
+    "partOfSpeech": "Noun"
+  },
+  "le petit-déjeuner": {
+    "definition": "the breakfast",
+    "partOfSpeech": "Noun"
+  },
+  "le déjeuner": {
+    "definition": "the lunch",
+    "partOfSpeech": "Noun"
+  },
+  "le dîner": {
+    "definition": "the dinner",
+    "partOfSpeech": "Noun"
+  },
+  "avoir faim": {
+    "definition": "to be hungry",
+    "partOfSpeech": "Phrase"
+  },
+  "avoir soif": {
+    "definition": "to be thirsty",
+    "partOfSpeech": "Phrase"
+  },
+  "le pain": {
+    "definition": "the bread",
+    "partOfSpeech": "Noun"
+  },
+  "l'eau": {
+    "definition": "the water",
+    "partOfSpeech": "Noun"
+  },
+  "le café": {
+    "definition": "the coffee",
+    "partOfSpeech": "Noun"
+  },
+  "le thé": {
+    "definition": "the tea",
+    "partOfSpeech": "Noun"
+  },
+  "le lait": {
+    "definition": "the milk",
+    "partOfSpeech": "Noun"
+  },
+  "le jus": {
+    "definition": "the juice",
+    "partOfSpeech": "Noun"
+  },
+  "le vin": {
+    "definition": "the wine",
+    "partOfSpeech": "Noun"
+  },
+  "la bière": {
+    "definition": "the beer",
+    "partOfSpeech": "Noun"
+  },
+  "le fromage": {
+    "definition": "the cheese",
+    "partOfSpeech": "Noun"
+  },
+  "la viande": {
+    "definition": "the meat",
+    "partOfSpeech": "Noun"
+  },
+  "le poulet": {
+    "definition": "the chicken",
+    "partOfSpeech": "Noun"
+  },
+  "le bœuf": {
+    "definition": "the beef",
+    "partOfSpeech": "Noun"
+  },
+  "le poisson": {
+    "definition": "the fish",
+    "partOfSpeech": "Noun"
+  },
+  "l'œuf": {
+    "definition": "the egg",
+    "partOfSpeech": "Noun"
+  },
+  "le fruit": {
+    "definition": "the fruit",
+    "partOfSpeech": "Noun"
+  },
+  "la pomme": {
+    "definition": "the apple",
+    "partOfSpeech": "Noun"
+  },
+  "la banane": {
+    "definition": "the banana",
+    "partOfSpeech": "Noun"
+  },
+  "l'orange": {
+    "definition": "the orange",
+    "partOfSpeech": "Noun"
+  },
+  "le légume": {
+    "definition": "the vegetable",
+    "partOfSpeech": "Noun"
+  },
+  "la pomme de terre": {
+    "definition": "the potato",
+    "partOfSpeech": "Noun"
+  },
+  "la salade": {
+    "definition": "the salad",
+    "partOfSpeech": "Noun"
+  },
+  "le riz": {
+    "definition": "the rice",
+    "partOfSpeech": "Noun"
+  },
+  "les pâtes": {
+    "definition": "the pasta",
+    "partOfSpeech": "Noun"
+  },
+  "le gâteau": {
+    "definition": "the cake",
+    "partOfSpeech": "Noun"
+  },
+  "le chocolat": {
+    "definition": "the chocolate",
+    "partOfSpeech": "Noun"
+  },
+  "le sucre": {
+    "definition": "the sugar",
+    "partOfSpeech": "Noun"
+  },
+  "le sel": {
+    "definition": "the salt",
+    "partOfSpeech": "Noun"
+  },
+  "le poivre": {
+    "definition": "the pepper",
+    "partOfSpeech": "Noun"
+  },
+  "la sauce": {
+    "definition": "the sauce",
+    "partOfSpeech": "Noun"
+  },
+  "le verre": {
+    "definition": "the glass",
+    "partOfSpeech": "Noun"
+  },
+  "la tasse": {
+    "definition": "the cup",
+    "partOfSpeech": "Noun"
+  },
+  "l'assiette": {
+    "definition": "the plate",
+    "partOfSpeech": "Noun"
+  },
+  "la fourchette": {
+    "definition": "the fork",
+    "partOfSpeech": "Noun"
+  },
+  "le couteau": {
+    "definition": "the knife",
+    "partOfSpeech": "Noun"
+  },
+  "la cuillère": {
+    "definition": "the spoon",
+    "partOfSpeech": "Noun"
+  },
+  "la serviette": {
+    "definition": "the napkin",
+    "partOfSpeech": "Noun"
+  },
+  "l'addition": {
+    "definition": "the bill / check",
+    "partOfSpeech": "Noun"
+  },
+  "cher": {
+    "definition": "expensive",
+    "partOfSpeech": "Adjective"
+  },
+  "pas cher": {
+    "definition": "cheap",
+    "partOfSpeech": "Adjective"
+  },
+  "délicieux": {
+    "definition": "delicious",
+    "partOfSpeech": "Adjective"
+  },
+  "bon appétit": {
+    "definition": "enjoy your meal",
+    "partOfSpeech": "Phrase"
+  },
+  "zéro": {
+    "definition": "zero",
+    "partOfSpeech": "Number"
+  },
+  "un": {
+    "definition": "one",
+    "partOfSpeech": "Number"
+  },
+  "deux": {
+    "definition": "two",
+    "partOfSpeech": "Number"
+  },
+  "trois": {
+    "definition": "three",
+    "partOfSpeech": "Number"
+  },
+  "quatre": {
+    "definition": "four",
+    "partOfSpeech": "Number"
+  },
+  "cinq": {
+    "definition": "five",
+    "partOfSpeech": "Number"
+  },
+  "six": {
+    "definition": "six",
+    "partOfSpeech": "Number"
+  },
+  "sept": {
+    "definition": "seven",
+    "partOfSpeech": "Number"
+  },
+  "huit": {
+    "definition": "eight",
+    "partOfSpeech": "Number"
+  },
+  "neuf": {
+    "definition": "nine",
+    "partOfSpeech": "Number"
+  },
+  "dix": {
+    "definition": "ten",
+    "partOfSpeech": "Number"
+  },
+  "onze": {
+    "definition": "eleven",
+    "partOfSpeech": "Number"
+  },
+  "douze": {
+    "definition": "twelve",
+    "partOfSpeech": "Number"
+  },
+  "treize": {
+    "definition": "thirteen",
+    "partOfSpeech": "Number"
+  },
+  "quatorze": {
+    "definition": "fourteen",
+    "partOfSpeech": "Number"
+  },
+  "quinze": {
+    "definition": "fifteen",
+    "partOfSpeech": "Number"
+  },
+  "seize": {
+    "definition": "sixteen",
+    "partOfSpeech": "Number"
+  },
+  "dix-sept": {
+    "definition": "seventeen",
+    "partOfSpeech": "Number"
+  },
+  "dix-huit": {
+    "definition": "eighteen",
+    "partOfSpeech": "Number"
+  },
+  "dix-neuf": {
+    "definition": "nineteen",
+    "partOfSpeech": "Number"
+  },
+  "vingt": {
+    "definition": "twenty",
+    "partOfSpeech": "Number"
+  },
+  "vingt et un": {
+    "definition": "twenty-one",
+    "partOfSpeech": "Number"
+  },
+  "trente": {
+    "definition": "thirty",
+    "partOfSpeech": "Number"
+  },
+  "quarante": {
+    "definition": "forty",
+    "partOfSpeech": "Number"
+  },
+  "cinquante": {
+    "definition": "fifty",
+    "partOfSpeech": "Number"
+  },
+  "soixante": {
+    "definition": "sixty",
+    "partOfSpeech": "Number"
+  },
+  "soixante-dix": {
+    "definition": "seventy",
+    "partOfSpeech": "Number"
+  },
+  "quatre-vingts": {
+    "definition": "eighty",
+    "partOfSpeech": "Number"
+  },
+  "quatre-vingt-dix": {
+    "definition": "ninety",
+    "partOfSpeech": "Number"
+  },
+  "cent": {
+    "definition": "one hundred",
+    "partOfSpeech": "Number"
+  },
+  "mille": {
+    "definition": "one thousand",
+    "partOfSpeech": "Number"
+  },
+  "lundi": {
+    "definition": "Monday",
+    "partOfSpeech": "Noun"
+  },
+  "mardi": {
+    "definition": "Tuesday",
+    "partOfSpeech": "Noun"
+  },
+  "mercredi": {
+    "definition": "Wednesday",
+    "partOfSpeech": "Noun"
+  },
+  "jeudi": {
+    "definition": "Thursday",
+    "partOfSpeech": "Noun"
+  },
+  "vendredi": {
+    "definition": "Friday",
+    "partOfSpeech": "Noun"
+  },
+  "samedi": {
+    "definition": "Saturday",
+    "partOfSpeech": "Noun"
+  },
+  "dimanche": {
+    "definition": "Sunday",
+    "partOfSpeech": "Noun"
+  },
+  "le prix": {
+    "definition": "the price",
+    "partOfSpeech": "Noun"
+  },
+  "payer": {
+    "definition": "to pay",
+    "partOfSpeech": "Verb"
+  },
+  "vendre": {
+    "definition": "to sell",
+    "partOfSpeech": "Verb"
+  },
+  "la monnaie": {
+    "definition": "the change (currency/coins)",
+    "partOfSpeech": "Noun"
+  },
+  "en espèces / en liquide": {
+    "definition": "in cash",
+    "partOfSpeech": "Phrase"
+  },
+  "la carte bancaire": {
+    "definition": "the bank card / credit card",
+    "partOfSpeech": "Noun"
+  },
+  "le distributeur": {
+    "definition": "the ATM",
+    "partOfSpeech": "Noun"
+  },
+  "ouvert": {
+    "definition": "open",
+    "partOfSpeech": "Adjective"
+  },
+  "fermé": {
+    "definition": "closed",
+    "partOfSpeech": "Adjective"
+  },
+  "gratuit": {
+    "definition": "free (no cost)",
+    "partOfSpeech": "Adjective"
+  },
+  "combien ça coûte ?": {
+    "definition": "how much does it cost?",
+    "partOfSpeech": "Phrase"
+  }
+}

@@ -37,12 +37,21 @@ function renderOptions(container, options, correctAnswer) {
 
     btn.onclick = () => {
       const allButtons = container.querySelectorAll('button');
+      let isPlayed = false;
       allButtons.forEach((b) => {
         b.disabled = true;
         if (b.textContent === correctAnswer) {
+          if (!isPlayed){
+            new Audio(chrome.runtime.getURL("sounds/correct.mp3")).play();
+            isPlayed = true;
+          }
           b.style.backgroundColor = 'green';
           b.style.color = 'white';
         } else if (b === btn) {
+          if (!isPlayed){
+            new Audio(chrome.runtime.getURL("sounds/wrong.mp3")).play();
+            isPlayed = true;
+          }
           b.style.backgroundColor = 'red';
           b.style.color = 'white';
         }

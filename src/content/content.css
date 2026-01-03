@@ -118,3 +118,36 @@
   background: #e8f7ee;
   transform: scale(1.05);
 }
+
+/*typing */
+.typing-input {
+  width: 90%;
+  max-width: 220px;
+  padding: 8px 10px;
+  font-size: 14px;
+  border-radius: 8px;
+  border: 1px solid #b4dbc1;
+  background: #ffffff;
+  color: #1d3b2a;
+  outline: none;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  transition: border 0.25s ease, box-shadow 0.25s ease, background 0.25s ease;
+  margin: 0 auto; /* center it */
+  display: block;
+}
+
+.typing-input::placeholder {
+  color: #8bb49c;
+}
+
+.typing-input:focus {
+  border-color: #74c594;
+  background: #f3fcf6;
+  box-shadow: 0 0 0 2px rgba(116, 197, 148, 0.25);
+}
+
+.typing-feedback {
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 6px;
+}

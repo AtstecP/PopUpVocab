@@ -1,4 +1,4 @@
-import vocabData from './french/words.json';
+import vocabData from './french/new_word.json';
 
 import { makeDraggable } from "./draggable.js";
 import { addSoundButton } from "./sound_button.js";

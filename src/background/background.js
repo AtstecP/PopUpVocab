@@ -37,9 +37,48 @@ chrome.storage.onChanged.addListener((changes, areaName) => {
   }
 });
 
+// async function checkTimer() {
+//   const result = await chrome.storage.local.get(["vocab_next_time"]);
+//   if (!result.vocab_next_time || result.vocab_next_time <= Date.now()) {
+//     const [tab] = await chrome.tabs.query({
+//       active: true,
+//       currentWindow: true,
+//     });
+
+//     if (!tab || !tab.id) return;
+
+//     try {
+//       await sendMessageWithRetry(tab.id, { action: "showPopup" });
+//     } catch (error) {
+//       console.error("Final error after retries:", error);
+//     }
+
+//     resetTimer();
+//   }
+// }
+
+
 async function checkTimer() {
   const result = await chrome.storage.local.get(["vocab_next_time"]);
+  
   if (!result.vocab_next_time || result.vocab_next_time <= Date.now()) {
+
+    const modeData = await chrome.storage.local.get([
+      "definitionMode",
+      "testMode",
+      "typingMode"
+    ]);
+
+    const anyModeEnabled =
+      modeData.definitionMode ||
+      modeData.testMode ||
+      modeData.typingMode;
+
+    if (!anyModeEnabled) {
+      console.log("No mode selected → popup not shown.");
+      return; 
+    }
+
     const [tab] = await chrome.tabs.query({
       active: true,
       currentWindow: true,
@@ -56,6 +95,8 @@ async function checkTimer() {
     resetTimer();
   }
 }
+
+
 
 async function sendMessageWithRetry(tabId, message, retries = 3) {
   for (let i = 0; i < retries; i++) {

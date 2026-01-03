@@ -22,9 +22,7 @@ export function loadWord(wordElement, definitionElement) {
   }
 
   const allOptions = shuffle([correctDef, ...wrongDefs]);
-
   wordElement.textContent = correctWord;
-
   renderOptions(definitionElement, allOptions, correctDef);
 }
 
