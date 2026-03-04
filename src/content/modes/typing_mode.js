@@ -60,9 +60,11 @@ export function runTypingMode(vocabData, wordElement, definitionElement) {
       const expected = normalize(correctDef);
 
       if (user && expected && user === expected) {
+        new Audio(chrome.runtime.getURL("sounds/correct.mp3")).play();
         feedback.textContent = "✅ Correct!";
         feedback.style.color = "green";
       } else {
+        new Audio(chrome.runtime.getURL("sounds/wrong.mp3")).play();
         feedback.textContent = "❌ Not quite.";
         feedback.style.color = "crimson";
       }

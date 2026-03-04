@@ -62,6 +62,7 @@ function renderOptions(container, options, correctAnswer) {
   });
 }
 
+
 function getRandom(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
 }
