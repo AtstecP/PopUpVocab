@@ -1,4 +1,4 @@
-import vocabData from './french/new_word.json';
+import { getWords } from "./storage.js";
 
 import { makeDraggable } from "./draggable.js";
 import { addSoundButton } from "./sound_button.js";
@@ -33,20 +33,28 @@ export function showWordPopup() {
 
   makeDraggable(popup);
   chrome.storage.local.get(
-    ["definitionMode", "testMode", "typingMode"],
+    ["definitionMode", "testMode", "typingMode", "vocabWords"],
     (data) => {
       const modes = [];
+
       if (data.definitionMode) modes.push(runDefinitionMode);
       if (data.testMode) modes.push(runTestMode);
       if (data.typingMode) modes.push(runTypingMode);
 
+      // Use stored words if they exist, otherwise fallback to JSON
+      const words =
+        data.vocabWords && data.vocabWords.length > 0
+          ? data.vocabWords
+          : vocabData;
+
       if (modes.length > 0) {
         const randomMode = modes[Math.floor(Math.random() * modes.length)];
-        randomMode(vocabData, word, definition);
+        randomMode(words, word, definition);
       } else {
-        runDefinitionMode(word, definition);
+        runDefinitionMode(words, word, definition);
       }
+
       addSoundButton(popup, word);
-    }
+    },
   );
 }

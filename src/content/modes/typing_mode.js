@@ -1,6 +1,12 @@
 export function runTypingMode(vocabData, wordElement, definitionElement) {
   const words = Object.keys(vocabData || {});
-  if (!words.length) return;
+  
+  // 1. CONSISTENCY: Add the empty-state UI like your other modules
+  if (!words.length) {
+    wordElement.textContent = "No words available";
+    definitionElement.innerHTML = "<p>Please add vocab to your list first.</p>";
+    return;
+  }
 
   // ---- pick a word ----
   const correctWord = getRandom(words);
@@ -33,8 +39,9 @@ export function runTypingMode(vocabData, wordElement, definitionElement) {
       .toLowerCase()
       .trim()
       .replace(/\s+/g, " ")
-      .replace(/[^\p{L}\p{N}\s]/gu, ""); // strip punctuation, keep letters/numbers
+      .replace(/[^\p{L}\p{N}\s]/gu, ""); 
   }
+  
   function escapeHtml(s) {
     return String(s)
       .replace(/&/g, "&amp;")
@@ -43,6 +50,7 @@ export function runTypingMode(vocabData, wordElement, definitionElement) {
       .replace(/"/g, "&quot;")
       .replace(/'/g, "&#39;");
   }
+  
   function showCorrect() {
     const defSafe = escapeHtml(correctDef || "");
     const posSafe = escapeHtml(partOfSpeech || "");
@@ -54,24 +62,30 @@ export function runTypingMode(vocabData, wordElement, definitionElement) {
   input.addEventListener("keydown", (e) => {
     if (e.key !== "Enter") return;
 
-    // first Enter → grade
     if (!graded) {
+      // 2. FIRST ENTER: Grade the answer
       const user = normalize(input.value);
       const expected = normalize(correctDef);
 
       if (user && expected && user === expected) {
         new Audio(chrome.runtime.getURL("sounds/correct.mp3")).play();
-        feedback.textContent = "✅ Correct!";
+        feedback.textContent = "✅ Correct! Press Enter for next word.";
         feedback.style.color = "green";
       } else {
         new Audio(chrome.runtime.getURL("sounds/wrong.mp3")).play();
-        feedback.textContent = "❌ Not quite.";
+        feedback.textContent = "❌ Not quite. Press Enter for next word.";
         feedback.style.color = "crimson";
       }
-      showCorrect();
-      graded = true;
       
-    
+      showCorrect();
+      
+      // 3. LOCK THE INPUT: Prevent the user from typing more after grading
+      input.readOnly = true; 
+      
+      graded = true;
+    } else {
+      // 4. SECOND ENTER: Recursively call the function to load the next word
+      runTypingMode(vocabData, wordElement, definitionElement);
     }
   });
 

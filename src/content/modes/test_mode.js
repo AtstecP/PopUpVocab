@@ -1,28 +1,32 @@
-// import vocabData from '../vocab_build/test_vocab.json';
-//import vocabData from '../japanes/words.json';
-
-// const allChunks = [
-//   vocabData
-// ];
-
 export function runTestMode(vocabData, wordElement, definitionElement) {
-  //const chunkData = getRandom(vocabData);
-  const chunkData = vocabData;
-  const words = Object.keys(chunkData);
+  const words = Object.keys(vocabData);
+
+  // We need at least 4 words to generate 1 correct and 3 wrong options.
+  if (words.length < 4) {
+    wordElement.textContent = "Not enough words";
+    definitionElement.innerHTML = "<p>Please add at least 4 words to your vocabulary list to use Test Mode.</p>";
+    return; // Exit early
+  }
 
   const correctWord = getRandom(words);
-  const correctDef = chunkData[correctWord].definition;
+  const correctDef = vocabData[correctWord].definition;
 
   const wrongDefs = [];
+  
+  // SAFE LOOP: Gather exactly 3 UNIQUE wrong definitions
   while (wrongDefs.length < 3) {
     const candidate = getRandom(words);
-    const def = chunkData[candidate].definition;
-    if (candidate !== correctWord && !wrongDefs.includes(def)) {
-      wrongDefs.push(def);
+    const candidateDef = vocabData[candidate].definition;
+    
+    // Ensure the candidate isn't the correct answer AND isn't already in our list
+    if (candidateDef !== correctDef && !wrongDefs.includes(candidateDef)) {
+      wrongDefs.push(candidateDef);
     }
   }
 
+  // Combine the correct answer with the wrong ones and shuffle
   const allOptions = shuffle([correctDef, ...wrongDefs]);
+  
   wordElement.textContent = correctWord;
   renderOptions(definitionElement, allOptions, correctDef);
 }
@@ -36,22 +40,26 @@ function renderOptions(container, options, correctAnswer) {
     btn.className = 'option-button';
 
     btn.onclick = () => {
+      //  Evaluate the answer ONCE outside the loop
+      const isCorrect = btn.textContent === correctAnswer;
+      
+      // Play the appropriate sound ONCE
+      if (isCorrect) {
+        new Audio(chrome.runtime.getURL("sounds/correct.mp3")).play();
+      } else {
+        new Audio(chrome.runtime.getURL("sounds/wrong.mp3")).play();
+      }
+
+      // Update the UI: Loop through all buttons to disable and color them
       const allButtons = container.querySelectorAll('button');
-      let isPlayed = false;
       allButtons.forEach((b) => {
-        b.disabled = true;
+        b.disabled = true; // Lock all buttons after a guess
+        
         if (b.textContent === correctAnswer) {
-          if (!isPlayed){
-            new Audio(chrome.runtime.getURL("sounds/correct.mp3")).play();
-            isPlayed = true;
-          }
           b.style.backgroundColor = 'green';
           b.style.color = 'white';
         } else if (b === btn) {
-          if (!isPlayed){
-            new Audio(chrome.runtime.getURL("sounds/wrong.mp3")).play();
-            isPlayed = true;
-          }
+          // Only highlight the wrong answer they actually clicked
           b.style.backgroundColor = 'red';
           b.style.color = 'white';
         }
@@ -61,7 +69,6 @@ function renderOptions(container, options, correctAnswer) {
     container.appendChild(btn);
   });
 }
-
 
 function getRandom(arr) {
   return arr[Math.floor(Math.random() * arr.length)];

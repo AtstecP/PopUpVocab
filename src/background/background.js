@@ -1,25 +1,33 @@
 const PERIOD_MIN = 15;
 
-chrome.runtime.onInstalled.addListener(() => {
-  resetTimer();
-  setupAlarm();
-  chrome.storage.local.set({
+// ==========================================
+// 1. INSTALLATION & SETUP
+// ==========================================
+chrome.runtime.onInstalled.addListener(async () => {
+  // Wait for defaults to be saved FIRST to avoid race conditions
+  await chrome.storage.local.set({
     definitionMode: true,
     testMode: true,
     typingMode: true,
     wordInterval: PERIOD_MIN,
+    vocabWords: [] 
   });
+
+  // THEN setup timers relying on those defaults
+  await resetTimer();
+  await setupAlarm();
 });
 
+// ==========================================
+// 2. ALARM MANAGEMENT
+// ==========================================
 async function setupAlarm() {
   const { wordInterval } = await chrome.storage.local.get(["wordInterval"]);
-  const interval = wordInterval;
-
-  chrome.alarms.clear("vocabTimer", () => {
-    chrome.alarms.create("vocabTimer", {
-      delayInMinutes: 0,
-      periodInMinutes: interval,
-    });
+  
+  await chrome.alarms.clear("vocabTimer"); 
+  chrome.alarms.create("vocabTimer", {
+    delayInMinutes: 0,
+    periodInMinutes: wordInterval,
   });
 }
 
@@ -29,6 +37,9 @@ chrome.alarms.onAlarm.addListener(async (alarm) => {
   }
 });
 
+// ==========================================
+// 3. STORAGE LISTENER
+// ==========================================
 chrome.storage.onChanged.addListener((changes, areaName) => {
   if (areaName === "local" && changes.wordInterval) {
     console.log("Interval changed:", changes.wordInterval.newValue);
@@ -37,31 +48,17 @@ chrome.storage.onChanged.addListener((changes, areaName) => {
   }
 });
 
-// async function checkTimer() {
-//   const result = await chrome.storage.local.get(["vocab_next_time"]);
-//   if (!result.vocab_next_time || result.vocab_next_time <= Date.now()) {
-//     const [tab] = await chrome.tabs.query({
-//       active: true,
-//       currentWindow: true,
-//     });
-
-//     if (!tab || !tab.id) return;
-
-//     try {
-//       await sendMessageWithRetry(tab.id, { action: "showPopup" });
-//     } catch (error) {
-//       console.error("Final error after retries:", error);
-//     }
-
-//     resetTimer();
-//   }
-// }
-
-
+// ==========================================
+// 4. TIMER LOGIC & POPUP TRIGGER
+// ==========================================
 async function checkTimer() {
   const result = await chrome.storage.local.get(["vocab_next_time"]);
   
   if (!result.vocab_next_time || result.vocab_next_time <= Date.now()) {
+    
+    // ALWAYS reset the timer if we made it inside this block, 
+    // regardless of whether we actually show the popup below.
+    await resetTimer(); 
 
     const modeData = await chrome.storage.local.get([
       "definitionMode",
@@ -84,20 +81,23 @@ async function checkTimer() {
       currentWindow: true,
     });
 
-    if (!tab || !tab.id) return;
+    // Prevent errors by avoiding chrome://, edge://, or empty tabs
+    if (!tab || !tab.id || tab.url.startsWith('chrome://') || tab.url.startsWith('edge://')) {
+        console.log("Invalid tab for popup injection.");
+        return;
+    }
 
     try {
       await sendMessageWithRetry(tab.id, { action: "showPopup" });
     } catch (error) {
       console.error("Final error after retries:", error);
     }
-
-    resetTimer();
   }
 }
 
-
-
+// ==========================================
+// 5. MESSAGING UTILITIES
+// ==========================================
 async function sendMessageWithRetry(tabId, message, retries = 3) {
   for (let i = 0; i < retries; i++) {
     try {
@@ -112,15 +112,23 @@ async function sendMessageWithRetry(tabId, message, retries = 3) {
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.action === "resetTimer") {
-    resetTimer();
-    sendResponse({ success: true });
+    // Wait for the async function to resolve before sending the response
+    resetTimer().then(() => {
+      sendResponse({ success: true });
+    });
+    return true; // Required to keep the message channel open for async responses
   }
-  return true;
 });
 
+// ==========================================
+// 6. TIMER RESET UTILITY
+// ==========================================
 async function resetTimer() {
   const { wordInterval } = await chrome.storage.local.get(["wordInterval"]);
-  const interval = wordInterval;
+  
+  // Safety fallback: use PERIOD_MIN if wordInterval is undefined
+  const interval = wordInterval || PERIOD_MIN; 
+  
   const nextTime = Date.now() + interval * 60 * 1000;
-  chrome.storage.local.set({ vocab_next_time: nextTime });
+  await chrome.storage.local.set({ vocab_next_time: nextTime });
 }

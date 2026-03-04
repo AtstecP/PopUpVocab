@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Add New Word</title>
+  <link rel="stylesheet" href="action.css">
+</head>
+<body>
+  <div id="popup-container">
+    <h2>Add New French Word</h2>
+
+    <label for="word">French Word:</label>
+    <input type="text" id="word" placeholder="e.g., était">
+
+    <label for="definition">Definition:</label>
+    <input type="text" id="definition" placeholder="e.g., was">
+
+    <label for="pos">Part of Speech:</label>
+    <input type="text" id="pos" placeholder="e.g., verb (imperfect)">
+
+    <button id="add-word-btn">Save Word</button>
+    
+    <p id="add-status"></p>
+    
+    <a href="action.html" style="text-align: center; color: #2d4633; font-size: 14px; margin-top: 10px; text-decoration: none;">&larr; Back to Settings</a>
+  </div>
+
+  <script src="add-word.js"></script>
+</body>
+</html>
