@@ -1,5 +1,3 @@
-import { getWords } from "./storage.js";
-
 import { makeDraggable } from "./draggable.js";
 import { addSoundButton } from "./sound_button.js";
 
@@ -32,29 +30,37 @@ export function showWordPopup() {
   document.body.appendChild(popup);
 
   makeDraggable(popup);
+
   chrome.storage.local.get(
     ["definitionMode", "testMode", "typingMode", "vocabWords"],
     (data) => {
-      const modes = [];
+      const rawWords = data.vocabWords || [];
+      const flatVocabDict = Object.assign({}, ...(Array.isArray(rawWords) ? rawWords : [rawWords]));
+      const availableWords = Object.keys(flatVocabDict);
 
+
+      if (availableWords.length === 0) {
+        word.textContent = "No words found";
+        definition.textContent = "Please add vocabulary in the extension settings.";
+        return; 
+      }
+
+
+      const modes = [];
       if (data.definitionMode) modes.push(runDefinitionMode);
       if (data.testMode) modes.push(runTestMode);
       if (data.typingMode) modes.push(runTypingMode);
 
-      // Use stored words if they exist, otherwise fallback to JSON
-      const words =
-        data.vocabWords && data.vocabWords.length > 0
-          ? data.vocabWords
-          : vocabData;
+      const selectedMode =
+        modes.length > 0
+          ? modes[Math.floor(Math.random() * modes.length)]
+          : runDefinitionMode; // Default fallback just in case
 
-      if (modes.length > 0) {
-        const randomMode = modes[Math.floor(Math.random() * modes.length)];
-        randomMode(words, word, definition);
-      } else {
-        runDefinitionMode(words, word, definition);
-      }
+      // Pass the nice, flat dictionary to your modes
+      selectedMode(flatVocabDict, word, definition);
 
+      // Add the sound button only for real words
       addSoundButton(popup, word);
-    },
+    }
   );
 }

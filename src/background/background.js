@@ -56,8 +56,7 @@ async function checkTimer() {
   
   if (!result.vocab_next_time || result.vocab_next_time <= Date.now()) {
     
-    // ALWAYS reset the timer if we made it inside this block, 
-    // regardless of whether we actually show the popup below.
+    // ALWAYS reset the timer if we made it inside this block
     await resetTimer(); 
 
     const modeData = await chrome.storage.local.get([
@@ -76,17 +75,19 @@ async function checkTimer() {
       return; 
     }
 
+    // 1. FIRST, get the active tab
     const [tab] = await chrome.tabs.query({
       active: true,
       currentWindow: true,
     });
 
-    // Prevent errors by avoiding chrome://, edge://, or empty tabs
-    if (!tab || !tab.id || tab.url.startsWith('chrome://') || tab.url.startsWith('edge://')) {
+    // 2. THEN, run the safety check (including !tab.url)
+    if (!tab || !tab.id || !tab.url || tab.url.startsWith('chrome://') || tab.url.startsWith('edge://')) {
         console.log("Invalid tab for popup injection.");
         return;
     }
 
+    // 3. FINALLY, send the message
     try {
       await sendMessageWithRetry(tab.id, { action: "showPopup" });
     } catch (error) {

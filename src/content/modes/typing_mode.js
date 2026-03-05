@@ -1,7 +1,11 @@
 export function runTypingMode(vocabData, wordElement, definitionElement) {
-  const words = Object.keys(vocabData || {});
+  // 1. Convert the Array of objects into one single flat Object
+  // If vocabData is undefined/null, default to an empty array []
+  const flatVocabDict = Object.assign({}, ...(Array.isArray(vocabData) ? vocabData : [vocabData]));
   
-  // 1. CONSISTENCY: Add the empty-state UI like your other modules
+  const words = Object.keys(flatVocabDict);
+  
+  // 2. CONSISTENCY: Add the empty-state UI 
   if (!words.length) {
     wordElement.textContent = "No words available";
     definitionElement.innerHTML = "<p>Please add vocab to your list first.</p>";
@@ -10,12 +14,15 @@ export function runTypingMode(vocabData, wordElement, definitionElement) {
 
   // ---- pick a word ----
   const correctWord = getRandom(words);
-  const { definition: correctDef = "", partOfSpeech = "" } = vocabData[correctWord] || {};
+  
+  // 3. Make sure you are reading from the new flat dictionary!
+  const { definition: correctDef = "", partOfSpeech = "" } = flatVocabDict[correctWord] || {};
 
   // ---- render prompt ----
   wordElement.textContent = correctWord;
   definitionElement.innerHTML = ""; // reset
-
+  
+  // ... (The rest of your code stays exactly the same!)
   // UI: input + feedback + correct answer block
   const input = document.createElement("input");
   input.type = "text";

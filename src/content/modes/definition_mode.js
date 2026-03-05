@@ -1,11 +1,12 @@
-// import vocabData from '../vocab_build/test_vocab.json';
-//import vocabData from '../japanes/words.json';
+export function runDefinitionMode(vocabDict, wordElement, definitionElement) {
+  const words = Object.keys(vocabDict);
+  if (words.length === 0) return;
 
-export function runDefinitionMode(vocabArray, wordElement, definitionElement) {
-  const randomEntry = getRandom(vocabArray);
-  const word = Object.keys(randomEntry)[0]; 
-  const def = randomEntry[word].definition;
-  const partSpe = randomEntry[word].partOfSpeech;
+  const word = getRandom(words);
+  
+  const def = vocabDict[word].definition;
+  const partSpe = vocabDict[word].partOfSpeech;
+  
   wordElement.textContent = word;
   definitionElement.textContent = `${partSpe} - ${def}`;
 }
